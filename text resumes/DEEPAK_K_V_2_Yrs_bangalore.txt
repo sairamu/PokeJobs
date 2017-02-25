@@ -1,0 +1,162 @@
+﻿
+
+CURRICULUM VITAE
+
+
+DEEPAK K.V.
+
+
+
+
+
+Email
+deepakv26@gmail.com
+
+
+Residence Address
+
+#58, Rajisu Nilaya, 19th Main,3rd Cross, Behind Bank of Maharashtra,
+RajaRajeshwari Nagar,
+Bangalore-560043 
+Karnataka 
+
+Phone Number
+
++91- 9916265847 (Mob)
+
+Personal Data
+
+Date of Birth    : 26-12-1987
+Sex                 : Male
+Nationality       : Indian
+Marital Status  : Single
+
+
+Passport Details
+
+Passport #     : G6479264    
+Place of issue :	Bangalore
+Date of expiry: 	30.12.2017
+
+
+
+
+Objective
+With the help of gained technical experience, effective communication & organizational skills deliver maximum value to the company and hence develop into a quality professional.
+
+Education
+Master of Technology in Computer Network Engineering from National Institute of Engineering, Mysore, in the academic year 2009-2011 with an aggregate of 78.5%.
+
+Bachelor of Engineering in Computer science and Engineering from P.E.S College of Engineering, Mandya in the academic year 2005-2009 with an aggregate of 67.18%.
+
+Total Experience – 2 years. 
+2 Years of experience in Software Design & Development, Coding and Testing.
+
+EXPERIENCE 
+
+Company 	  :  Unisys Global Services - India (UGSI),
+                            Bangalore.                 
+Designation	  :  Associate Engineer
+Domain		  :  Java, Liferay
+Duration	  :  2 years  as a full time employee (From May 2011 till date) and 9 months as a project intern (From July 2010 to April 2011)
+
+Accomplishments
+Experience in Software Development, Coding and Testing, which includes Design and Test Plan
+
+Familiar with Software Development life cycle.
+
+Good Interpersonal and communication skills, commitment, result oriented, hardworking with a quest and zeal to learn new technologies and undertake challenging tasks.
+
+Technical Expertise
+Operating Systems	           : Windows XP/7, SLES, RHEL, Fedora.
+                                   
+Key Skills and Knowledge  : Core Java, JavaScript, JSP,                   
+                                           Hibernate, Web Services.
+
+Portal Technology              : Liferay 6.0/6.1 and JBoss
+
+IDE                                    : Eclipse(Indigo & Juno)
+
+Tools                                    : Ant, Maven, Hudson and Bugzilla. 
+                                              
+RDBMS		           : PostgreSQL, MySQL
+                                         
+Configuration Management : SVN,CVS
+
+Servers                                 : Apache Tomcat and JBoss 7                   
+
+
+
+
+
+
+
+
+
+Project Experience Details:
+
+#1: ClearPath Forward System Management Service (CPF SMS) 			Feb’12 to till date
+Organization		:	UNISYS GLOBAL SERVICES, INDIA
+Technology 		:	Java, Restful web services, Liferay portets, Liferay Service, JFree Charts
+Tools 			:	Eclipse, SVN, Maven, Ant, JUnit, Hudson and Nexus
+Operating System	:	Windows XP/7, SLES11 SP2.
+Team Size         	:	30
+Description		: ClearPath Forward System Management Service (CPF SMS) is a product developed from scratch to manage and monitor Ensemble and Component level management of mission critical applications (similar to vBlock). Components include iDRAC Dell Server, File System, Databus, Big Data like Hadoop, OS Services and Networking/Interconnect (InfiniBand).  As a part of this product development, I have been involved in understanding the bigger picture and architecture of Mission Critical Apps (Legacy Maniframe Apps used in Banking/Aircargo/etc), protocols needs to interact with subcomponents of these application, power management actions, and monitoring aspects of it via agent and agentless mechanism. I have hands on in development of the entire stack right from capturing the data related to monitoring/management till rendering it in presentation layer i.e., Liferay portal. System Management Stack includes different layers like instrumentation, Configuration, and Presentation layer. 
+Also, involved in tools evaluation and recommendation for product development which includes Monitoring system - NAGIOS, Configuration tools - NagioSql and Monarch, Middleware oriented Messaging system -JORAM and HornetQ, IPMI Reference implemention – FreeIPMI and IPMI Tools and others.
+Responsibilities:
+1.	Understanding the requirement and participating in the architecture discussions
+2.	Developed portlets using Liferay 6.1.1 bundled with JBoss 7.1.1 AS 
+3.	Creation of Axis 2 Soap Web Services and consuming it in Liferay Portal
+4.	Used JQuery and AUI in JSP 
+5.	Created different types of charts using JFree charts
+7.	Setting up of System Management Service, Test Lab for testing the entire solution.
+8. 	Co-coordinating with System Testing and Performance Testing team.
+9.        Solving most of the technical challenges and impediments.
+10.	Involved in the whole SDLC process with additional responsibility of mentoring the junior team members and coordinating between other scrum teams
+11.	Involved in execution of all the phases involved in incremental vertical slice of walking skeleton
+12. 	Configuring and maintain of projects builds using Maven.
+
+
+
+#2: Secure Private Cloud (SPC) 						May’11 to Jan’12
+Organization		:	UNISYS GLOBAL SERVICES, INDIA
+Technology 		:	Java, Restful web services, Liferay portets, Liferay Service, JFree Charts
+Tools 			:	Eclipse, SVN, JUnit
+Operating System	:	Windows XP, 2003.
+Team Size         	:	22
+Description		: 	Secure Private Cloud (SPC) delivers the transparency, automation and agility to meet business needs in managing IT infrastructure. As part of SPC product, worked on Platform layer where we have to expose RESTful web services so that GUI can represent information related to lifecycle management for the resources available in the cloud. Also exposed APIs to retrieve the resource utilization from a monitoring tool called as uChargeback.
+ Responsibilities:
+1.	Understanding the requirement and participating in the architecture discussions
+2.	Developed portlets using Liferay 6.0.6 
+3.	Creation of Liferay Soap Web Services and testing using client applications
+4.	Used JQuery in JSP 
+5.	Created different types charts using JFree charts
+6.	Worked on creating and exposing Jersy Restful Web Services
+7.	Setting up of cloud environment.
+8.        Solving some of the technical challenges and impediments.
+9.	Involved in execution of all the phases involved in incremental vertical slice of walking skeleton
+#3: Automating, Monitoring and Management of Physical and Virtual machines in Datacenters											July’10 to Apr’11
+Organization		:	UNISYS GLOBAL SERVICES, INDIA
+Technology 		:	Java, Restful web services, Liferay portets, 
+Tools 			:	Eclipse, CVS, Ant
+Operating System	:	Windows XP, 2003.
+Team Size         	:	22
+Description		: Data centers manage complex server environments, including physical and virtual machines, across a wide variety of platforms, and often in geographically dispersed locations. Data center managers are responsible for ensuring that servers in these increasingly complex environments are properly configured and monitored throughout the IT life cycle. Therefore, they seek solutions to help them automate the consolidation of servers through virtualization, the provisioning of new servers, and processes to keep systems current with the latest software and security updates. At the same time they need to work diligently on monitoring the health of their infrastructure, industry compliance regulations, and reducing the total cost of managing that data center.	
+Responsibilities:
+1.	Understanding the requirement and participating in the architecture discussions
+2.	Developed portlets using Liferay 6.0.6 
+3.	Worked on creating and exposing Jersy Restful Web Services
+4.	Used JQuery in JSP 
+5.	Involved in writing the runbooks for automation
+6.	Involved in execution of all the phases involved in incremental vertical slice of walking skeleton
+
+
+
+
+DECLARATION
+
+I hereby declare that the above mentioned particulars are true to the best of my knowledge and belief.	                                          
+
+
+DEEPAK K.V.
+

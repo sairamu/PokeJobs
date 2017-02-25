@@ -1,0 +1,124 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+Manish Mahawar				Email:manishmahawar4288@gmail.com
+					Phone:+91-9916134343
+
+
+
+Career Objective
+
+Seeking a position in an organization that provides me ample opportunity to explore, enjoy & excel while carving out the niche for personal, professional as well as organizational goals
+
+Technical Skills
+
+Middleware Tools:                Websphere Message Broker 7.0 (IBM certified), Websphere Message Queue,
+                                               Websphere Transformation Extender
+                                            
+ RDBMS:                                 IBM DB2
+
+Programming Languages: ,   Core Java,J2EE
+
+Version Control Tools:            Clear Case ,Clear Quest
+
+Professional experience
+Duration      :  Sep2010-Till Date
+Organisation:  IBM India Pvt. Ltd.
+Designation:   Associate System Engineer
+
+Project
+IBM Blue Harmony
+Role, Duration
+Application Developer
+December 2010- till date 
+Technologies
+Websphere Message Broker,Websphere Message Queue,IBM DB2,Core Java ,J2EE
+Details
+IBM's major transformation program to radically simplify the design and operation of three Globally Integrated Support Processes - Finance, Opportunity-to-Order, and Order-to-Cash will be implemented on a single, virtual instance of SAP. Blue Harmony, tackles some of IBM's more persistent problems and sets the stage for Globally Integrated Enterprise by:
+
+1. Improving the ease of doing business for clients, especially Business Partners, by simplifying and standardizing processes. 
+
+2. Optimizing operations across the IBM enterprise while addressing the unique needs of Business Units (Bus) and countries. 
+
+3. Reducing operation costs, not only though simplification, but also through retirement of legacy applications.
+It will design common business processes in four Business Process Domains:
+1) Opportunity to Order (O2O) 2) Order to Cash (O2C) 3) Finance4)MDM(Master Data Management)
+
+It is IBM’s one the biggest SAP implementation project and integration project.
+Key responsibilities
+ 
+1.Creating the technical design documents.
+2.Developing the message flows and creating Message Sets,WSDL files using Java,SQL and ESQL 
+3.Quality reviewing of the code and the documents
+4.Have played a role of mentor in MDM domain
+5.Have build all the common components like Error Handler ,Common Logger etc as per the requirement in MDM domain where we have highly interacted with IBM DB2
+6.Have worked as performance enhancer for the objects in MDM domain.
+7.Have integrated SAP systems with Legacy Systems using Webservices(Created Adapter Connection)
+8.Have ineracted heavily with the Database systems in the message flows
+
+
+
+
+Educational Qualifications
+
+
+YEAR
+EXAMINATION
+UNIVERSITY/BOARD
+INSTITUTION
+PERCENTAGE OF MARKS/GRADE
+2010
+B.TECH
+
+West Bengal University of Technology. 
+St. Thomas’ College of Engg & Tech
+
+DGPA-8.22
+2006
+Higher Secondary examination
+West Bengal Council of Higher Secondary Education.
+
+Rishra Vani Bharti
+79.6%
+2004
+Madhyamik Pariksha 
+West Bengal Board of  Secondary Education
+Rishra Vani Bharti
+81.25%
+
+
+
+
+.
+Extracurricular Activities
+
+Participated in Interschool competition in drama and stood 1st in it.
+Participated in educational competitions such as quiz contests.
+Participated in Table tennis tournament held in our college and reached the semifinals.
+Received a merit scholarship of 10% from St. Thomas College Of Engineering  & Technology
+
+Personal Details
+
+Date of Birth: 4th February, 1988
+Father’s Name: Mr. Hari Krishna Mahawar
+Mother’s Name: Mrs. Pushpa Mahawar
+Interests: playing Football and Table tennis.
+Permanen Address:28/1 Dr P.T.Laha St Rishra,Dist-Hooghly ,West Bengal-712248
+
+            I, hereby declare that the above in formation is true to the best of my knowledge.
+
+
+Date: _____________                                                                                   ______________
+Place: _____________                                                                                 (Manish Mahawar)
+
+
+

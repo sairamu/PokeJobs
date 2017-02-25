@@ -1,0 +1,399 @@
+﻿ARCHIT GOEL
+Email: archit19@gmail.com
+Ph: 	+91-7829344999
+
+Summary:
+
+Banking Domain 
+2 Years 11 months
+
+Currently working as Staff consultant in the organization.
+Initially was deployed in a development project for the Western Europe based Client where we had to develop some functionalities related to Term Deposits. Later, was moved to Implementation Support/Fixing Engineering where we had to render support for the product as a whole, it was here that helped in gaining exposure to numerous technologies.
+Strong adaptability & Learning ability. Ability to work independently & cohesively with a team, towards the overall achievement of organizational goals.
+Extensive experience in developing Stored Procedures, Functions, Triggers, Views, Cursors, Packages and Exceptions.
+Onsite experience with FlexCube UBS implementation for more than 8 months.
+Good experience to analyze and resolve issues.
+Functional Knowledge of Various Modules ( CIF, CASA, ELCM, BC, LC, FT, Teller,
+Security, Reports, TD, RD, IC, DE, GL,GI). 
+
+Qualifications:
+
+Graduation
+Degree
+Institute
+Bachelor of Technology(Information Technology)
+M.M.E.C, Mullana,
+Kurukshetra University
+
+Technical Proficiency:
+
+Languages  
+:
+Oracle Database, Developer 2000,Core java, PLSQL
+Web Technologies
+:
+Java Script, XML, HTML
+Operating Systems
+:
+Windows, UNIX
+Databases
+:
+Oracle
+Middleware
+:
+Oracle Application server, OBIEE, IBM MQ Web sphere Web logic and
+Tools
+:
+Sql Developer, Rad Tool, Oracle BIP reports ,BI Analytics, RPD file Creation, create Reports
+
+
+Domain Knowledge:
+
+Core Banking, Trade, Fund Transfer, Payments and Collections, Swift Messaging, Consumer Lending etc. Primarily Retail Banking to be more generic. Self Propelled interest in Financial Management and Investment Banking.
+
+
+Career Profile:
+
+Organization: For Oracle Financial Services Software Ltd.
+
+Total Stay : 2years 11 months so far.
+
+
+1.
+Project
+:
+Java EMS Implementation/ SWIFT LAU Integration
+
+Client
+:
+RABO Bank
+
+Duration
+:
+Sep,2012 to  till date
+
+Technology
+:
+SQL, PLSQL, Java, Oracle Apps
+
+Role
+:
+Team member
+
+Description (in brief): The Project is used to enable SWIFT Alliance LAU to secure messaging between FLEXCUBE, JEMS and SWIFT. This enhancement must ensure that messaging between FLEXCUBE and Swift is fully secure through adoption of Swift Alliance LAU.
+
+Responsibilities (in brief): 
+
+My work was implementing the JAVA EMS app and to create logic and rule for the secure messaging between FLEXCUBE and SWIFT. Secure adoption and incorporation of SWIFT LAU authentication using SHA algorithm is done. 
+Unit testing is done for checking of workflow and errors.
+Done the Oracle 6I forms changes and deployed into the server.
+Done the changes in the code for validate the field requirements and validations.
+Created the INC and Alter script to alter the table structure.
+
+2.
+Project
+:
+FLEXCUBE Implementation
+
+Client
+:
+IGCP Lisbon, Portugal
+
+Duration
+:
+March,2012- August,2012
+
+Technology
+:
+SQL, XML, PLSQL, JavaScript, JSP
+
+Role
+:
+Team Member
+
+Description (in brief): Communicate with Client Regarding Product shortcomings based on client requirements and communicating the same to product team offshore and fill the gaps accordingly.
+
+
+Responsibilities (in brief): 
+
+Analyzing the issues/requests raised by client and provide a solution and workaround.
+Communicate Issues to Offshore team from a Product point of view.
+Understand Site specific functionalities and suggest work around for the same to client.
+Maintaining the tempsoft and Version Control.
+
+3.
+Project
+:
+SDD Development
+
+Client
+:
+Friesland, Netherlands
+
+Duration
+:
+Jan,2012 to March,2012
+
+Technology
+:
+SQL, XML, PLSQL, JavaScript, JSP
+
+Role
+:
+Team Member
+
+Description (in brief): The Project is for SEPA DIRECT DEBITS and handling of messages accordingly.
+
+Responsibilities (in brief): 
+Development of SEPA messages according to client requirement and SEPA standards and was also responsible for writing Design specification and Program Specification and doing testing.
+Involved in developing random screens in different modules of web based application FLEXCUBE.
+Intensive front-end and Back-end Debugging to understand existing functionality in various modules as to develop on them.
+Catered to Various Front end Validations and Enhancements received from Onsite.
+Creating and editing existing Repository (RPD) across modules and creating dashboards and reports including BI Publisher Reports as per the requirements.
+Writing PLSQL Packages, modifying existing packages as per business requirement.
+Managing and Creation of schemas and Front-end applications.
+
+4.
+
+Project
+
+:
+
+Post Live Support
+
+Client
+:
+SNORAS, Vilnius
+
+Duration
+:
+Oct, 2011-Dec,2011
+
+Technology
+:
+SQL, XML, PLSQL, JavaScript, JSP
+
+Role
+:
+Team member
+
+Description (in brief): Post live bank onsite support for two months.
+ 
+Responsibilities (in brief): 
+
+Post live bank support, onsite for two months and was handling the bank all alone.
+Analyzing the issues/requests raised by client and provide a solution and workaround.
+Communicate Issues to Offshore team from a Product point of view.
+Understand Site specific functionalities and suggest work around for the same to client.
+
+5.
+Project
+:
+FLEXCUBE Upgrade 
+
+Client
+:
+NATIXIS
+
+Duration
+:
+4 Months
+
+Technology
+:
+SQL, XML, PLSQL, JavaScript, JSP
+
+Role
+:
+Team member
+
+Description (in brief): The project is for the upgrade of the software (FLEXCUBE) from one of the earliest versions to the latest version of FLEXCUBE.
+
+Responsibilities (in brief): 
+
+Responsibly includes analyzing the units and identifying the sections which required retro. Was responsible for USER ACCEPTANCE TESTING and design specification for the old functionalities to be incorporated in the new version.
+Involved in developing random screens in different modules of web based application FLEXCUBE.
+Intensive front-end and Back-end Debugging to understand existing functionality in various modules as to develop on them.
+Catered to Various Front end Validations and Enhancements received from Onsite.
+Creating and editing existing Repository (RPD) across modules and creating dashboards and reports including BI Publisher Reports as per the requirements.
+Writing PLSQL Packages, modifying existing packages as per business requirement.
+
+6.
+Project
+:
+CA Implementation support
+
+Client
+:
+CA, Romania, Albania
+
+Duration
+:
+3 Months
+
+Technology
+:
+SQL, XML, PLSQL, JavaScript, JSP
+
+Role
+:
+Team Member
+
+Description (in brief): This is a multi country rollout implementation of the FLEXCUBE. 
+
+Responsibilities (in brief): 
+Providing the offshore support to the onsite implementation team and worked mainly on Term Deposit(TD) and reports issue fixing for the bank during offshore support from Bangalore.
+Involved in developing random screens in different modules of web based application FLEXCUBE.
+Intensive front-end and Back-end Debugging to understand existing functionality in various modules as to develop on them.
+Catered to Various Front end Validations and Enhancements received from Onsite.
+Creating and editing existing Repository (RPD) across modules and creating dashboards and reports including BI Publisher Reports as per the requirements.
+Writing PLSQL Packages, modifying existing packages as per business requirement.
+
+7.
+Project
+:
+EFT Implementation support
+
+Client
+:
+EFT, Portugal
+
+Duration
+:
+2 Months
+
+Technology
+:
+SQL, XML, PLSQL, JavaScript, JSP
+
+Role
+:
+Team Member
+
+Description (in brief): Offshore support for the implementation. 
+
+Responsibilities (in brief): 
+
+Providing the offshore support to the implementation of the FLEXCUBE in Portugal and was member of the support team in Bangalore.
+Involved in developing random screens in different modules of web based application FLEXCUBE.
+Intensive front-end and Back-end Debugging to understand existing functionality in various modules as to develop on them.
+Catered to Various Front end Validations and Enhancements received from Onsite.
+Creating and editing existing Repository (RPD) across modules and creating dashboards and reports including BI Publisher Reports as per the requirements.
+Writing PLSQL Packages, modifying existing packages as per business requirement.
+
+8.
+Project
+:
+AXA Implementation support
+
+Client
+:
+AXA, Czech and Slovakia
+
+Duration
+:
+5 Months
+
+Technology
+:
+SQL, XML, PLSQL, JavaScript, JSP
+
+Role
+:
+Team Member
+
+Description (in brief): This is a multi country rollout implementation of the FLEXCUBE. 
+
+Responsibilities (in brief): 
+
+Providing the offshore support to the partner implementation of the FLEXCUBE in CZ and Slovakia. This includes interacting directly with the partners on the issues and attending meetings and member of the support team in Bangalore.
+Involved in developing random screens in different modules of web based application FLEXCUBE.
+Intensive front-end and Back-end Debugging to understand existing functionality in various modules as to develop on them.
+Catered to Various Front end Validations and Enhancements received from Onsite.
+Creating and editing existing Repository (RPD) across modules and creating dashboards and reports including BI Publisher Reports as per the requirements.
+Writing PLSQL Packages, modifying existing packages as per business requirement.
+
+9.
+Project
+:
+Micro Bank Interfaces
+
+Client
+:
+Micro Bank, Germany
+
+Duration
+:
+1 Months
+
+Technology
+:
+SQL, XML, PLSQL, JavaScript, JSP
+
+Role
+:
+Team Member
+
+Description (in brief): The project is for the notifications of messages in FLEXCUBE.
+
+Responsibilities (in brief):
+ 
+Development of interface and customization of message notifications.
+Writing PLSQL Packages, modifying existing packages as per business requirement.
+Development of Web Services as per requirement.
+
+10.
+Project
+:
+Customization for Tax Collection
+
+Client
+:
+AK BANK
+
+Duration
+:
+2 Months
+
+Technology
+:
+SQL, XML, PLSQL, JavaScript, JSP
+
+Role
+:
+Team Member
+
+
+Description (in brief): The project is for the enhancement for the collection of taxes.
+
+Responsibilities (in brief): 
+
+Writing Design specification and Program Specification and doing testing.
+Involved in developing random screens in different modules of web based application FLEXCUBE.
+Intensive front-end and Back-end Debugging to understand existing functionality in various modules as to develop on them.
+Catered to Various Front end Validations and Enhancements received from Onsite.
+Creating and editing existing Repository (RPD) across modules and creating dashboards and reports including BI Publisher Reports as per the requirements.
+Writing PLSQL Packages, modifying existing packages as per business requirement.
+
+
+Achievements and Awards:
+
+Client Appreciation for my work In Natixis and CA.
+Appreciation from Territory head for my current work in IGCP during critical time of Project.
+Won WE APPLAUD award in 2012 – Team level recognition (1 out of 15).
+
+
+PERSONAL PROFILE:
+
+Name			:		Archit Goel
+Father’s Name		:		Mr. Rakesh Goel
+Mother’s Name	:		Mrs. Manju Goel
+Nationality		: 		Indian
+Marital Status		: 		Single
+Date of Birth		:		19th July,1987	
+Languages Known	: 		English, Hindi, Portuguese(Intermediate)
+
+
+
+
+Place: Bangalore						(Archit Goel)

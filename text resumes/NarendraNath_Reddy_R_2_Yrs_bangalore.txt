@@ -1,0 +1,95 @@
+﻿                                           NARENDRANATH REDDY R
+	                     
+E-Mail : rnreddy555@gmail.com
+Assistant Systems Engineer             
+TATA Consultancy Services Ltd. 
+Mobile: +91- 8884842005
+ 
+SUMMARY
+         Having 2 years of experience in all phases of Software development life cycle including System Analysis, Design, Development, Implementation, Testing, Support and Maintenance of various network applications.
+Strong experience in coding and implementation of applications based on object oriented Programming using C++.
+Good Experience in developing network protocols based applications using C, C++.
+Hands on Experience in SQL and PL/SQL.
+Experienced in Shell Scripting. 
+Worked with MS visual studio 2006 IDE and Linux gdb(GNU debugger).
+Experienced in using MySQL Server.
+Academic Qualifications
+
+M.Tech(Embedded Systems)
+JNTUH,A.P
+72.70%
+B.Tech(E.C.E)
+S.K.University,A.P
+74.43%
+Intermediate
+Board of Intermediate,A.P
+91.50%
+S.S.C
+S.S.C Board,A.P
+81.82%
+
+PROFESSIONAL EXPERIENCE
+
+Having a total of 2 years experience in TATA Consultancy Services Ltd., Bangalore, INDIA and currently performing developer role under the designation of Assistant systems Engineer.
+Having basic domain knowledge in Telecom.
+Possess excellent communication and interpersonal skills with ability to work under pressures and meet deadlines.
+TECHNICAL PROFICIENCIES
+
+Languages		: C, C++, Shell scripting, SQL, PL/SQL.
+DBMS  		: SYBASE, ORACLE.
+Operating Systems	: Windows XP, Windows 7, Linux, Solaris.
+PROJECT PROFILE
+
+Title		  : VQIP (Vital Quadratek IP Address management)
+Client		  : ALU, U.S.
+Technologies    : C, C++,SQL,PL/SQL.
+Environment    : Eclipse 3.4.x/3.5.x, IBM Clear Case, MS Visual studio 2006.
+Duration	  : June 2011 to till date.
+
+Description:
+VitalQIP is a powerful IP name and address management tool. VitalQIP simplifies the assignment and allocation of IP addresses and services, such as Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS). This product is a comprehensive collection of management tools and user interfaces. Each management tool and user interface provides the ability to plan, manage local administrator IP addresses and services across LINUX, UNIX, and Windows platforms. VitalQIP works with directory services and RDBMS configurations.
+
+Responsibilities:
+Learned telecom domain basic knowledge in Networking. 
+Learned the architecture of VQIP.
+Followed AGILE way of working.
+Developed QIP features and applications in C++.
+Developed QIP related DHCP and DNS modules.
+Fixing client related QIP issues.
+Analysis and writing of QIP feature documents 
+Responsible for design and development of new features and modifying existing features.
+Implementation of the requirements as per the Design.
+Actively participated in weekly teleconferences with clients to gather the requirements of QIP new features and discussing the QIP issues.
+Mentored some of the new team members about basic knowledge of QIP and its usage.
+Helping to testers by giving clarifications on QIP new features and resolving QIP issues.
+
+ACADEMIC PROJECT PROFILE
+
+Title		  : Time based Event management with SNTP client and server.
+Technologies 	  : C, Network Programming.                                                                      Environment    : Windows XP, Linux (Ubuntu).
+Duration	  : 6 months.
+
+Description: 
+Project proposes a method of implementing standard time based client and server using Simple Network Time Protocol (SNTP) application with in an embedded home Audio/video (A/V) device.
+First the SNTP client in the AV sub system requests for a precise time and obtains time information from the SNTP Server, SNTP server will in turn get the standard time (UTC) from remote NTP(Network time protocol)server through internet. So SNTP server will give this standard time to SNTP client. Next SNTP client will set the Real Time Clock (RTC) inside the AV system is adjusted with the SNTP server time with a call back mechanism. Multiple events (playing audio file, playing video file) inside the AV sub system will be performed at user configured time making the embedded RTC time as a reference.
+
+Responsibilities: 
+Developed Event management module.
+Porting Mplayer to ARM Target board.
+Cross compiling Linux kernel-2.6 to ARM Target board.
+Implemented SNTP client and server in C language. 
+Cross compiled SNTP client to ARM processor.
+
+PERSONAL PROFILE
+
+Father’s Name	: Ramachandra Reddy R 
+Date of Birth 		: 25-march-1986
+Languages Known	: English, Hindi, and Telugu.
+Residence Address 	: H.NO:1-1-580, R.K Nagar, Ananthapur,
+                               Andhra Pradesh-515001.
+
+DECLARATION 
+
+I hereby declare that the above written particulars are best of my knowledge and belief.
+
+(NARENDRANATH REDDY R)                                                                                    

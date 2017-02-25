@@ -1,0 +1,88 @@
+﻿  
+ Apoorv  Agrawal				            Email: apoorvagrawal56@gmail.com
+31D, 2nd Flore Ashwath Nagar		            Mobile: +91-8971243475
+2nd Cross, Marathalli,		         						
+Bangalore - 560037                                                           
+ IT Professional with Strong Technical Skills
+                                   	                  C, C++, Linux.
+
+Professional Summary
+
+ Around 2 years of experience of Programming and Application Development in IT. 
+Having good awareness of all phases of the software development, working on Agile process for software development.
+Had been successfully involved in release of software to various operators like Avia-Turkey, Megafone-Russia, H3G-UK, KPN, TATA-India,LOOP-India,Swiss Sunrise, PCCW-China, Claro-Brazil and GLOBE – Philippines etc.
+Proficient and proven abilities in C, C++ and certified  in ECQ (Enhanced Coding  Quatily) at Huawei level.
+Excellent communication skills, quick learner.
+Maintaining team spirit to achieve organization goals and time management skills..
+Currently working as a part of maintenance team and supported many migration and upgrade.
+
+ Education
+       
+B.Tech - Degree Thakral College of Technology from RGPV university Bhopal (M.P.)  
+
+Work Experience
+
+Currently working as Software Engineer at Huawei Technologies India Pvt. Ltd. (HTIPL) in Telecom Domain on SMSC from April 2011.
+
+Technical Expertise
+
+Software Languages:
+C, C++ 
+Tools:
+Source Insight, Source Monitor, VSS,MS Visio, GDB,VCS (Veritas Cluster Server)
+Operating System:
+Windows, Linux.
+Huawei Tools:
+All SMS demo tools, Customized IPC Jira and fish Eye
+IDE:
+VC++, Linux
+Version Control Systems:
+Rational Clear Case, SVN
+IBM Tools
+Purify, Pure coverage, Quantify 
+Protocols
+Using  SMPP3.3, SMPP3.4, GSM, SS7, TCP/IP.
+
+ Projects9
+Huawei SMSE (C21 Series) 
+
+Language        -     C, C++ 
+Platform          -     VC++/Linux.  
+Duration	 -     December 2011 – Till date.
+Description:
+SMSC is Short Message Service Center the application is made for Storing, Forwarding SMS in different networks like GSM, CDMA, TDMA.
+SMSC is a part of GSM network which involve different network Entities such as HLR, VLR, MSC.
+Entire architecture contains different modules which support Storing, forwarding, authentication, routing and bill creation of SMS. 
+My Role:
+Involved in developing Basic SMSC Environment and basic flows.
+Providing Development support according to the requirement of customers.
+Involved in support for the build maintenance.
+As a team member implemented new features based on the operator requirement.
+Team Size: 10 (Development Team)
+Role in the Project:  Coding, Bug Fixing and Enhancement.
+
+
+
+
+Huawei SMSE (2Db series) 
+
+Language        -     C, C++ 
+Platform          -     VC++/Linux.  
+Duration	 -     June 2011 – November 2011.
+My Role:
+Involved in developing Basic SMSC Environment and basic Flows.
+Providing Development support according to the requirement of customers.
+Involved in support for the build maintenance.
+As a team member implemented new features based on the operator requirement.
+
+Team Size: 10 (Development Team)
+Role in the Project:  Coding, Bug Fixing and Enhancement
+
+Strengths
+Ambitious and hardworking in nature. 
+Quick adaptation to the new environment and ability to learn in a short time. 
+To work with positive attitude, analyzing all kinds of situations with honest efforts. 
+Fulfilling the specified task within the given time frame. 
+	    
+ Place: Bangalore		                                                     Signature 
+       Date:                            

@@ -1,0 +1,116 @@
+﻿
+RESUME
+
+HITESH MANGLA                                  MOB - 9886311074
+                                                                   hiteshmangla@gmail.com 
+
+OVERVIEW 
+
+An effective communicator with good relationship building and interpersonal skills, strong analytical, problem solving and organizational ability. 
+
+Education
+
+B.Tech. (E&C)    2004-2008         C.G.P. – 8.3        N.I.T. Kurukshetra
+12th                     2004                   91.6 %              M.L.N. Public School Jind        
+10th                     2002                   84.5 %              G.V.M. High School Jind
+
+PERSONAL EXPERIENCE
+
+Designation: Senior Software Engineer
+Company    : Alstom Project India Ltd.
+Current Location: Bangalore
+Duration     : July’08 to Till now.
+Skills           : C#, C, C++, WPF, XML, HTML, javascript, ADA
+Tools used  : Visual Studio, TestComplete, RTRT, ClearCase etc.
+
+Skills & Projects
+
+Project Name: Gateway HMI
+Details: Gateway HMI is used to convert the input data files(XML, Excel) into different formats that are compatible for a tool named “Sigart” used for data preparation for sub-systems in high speed trains.
+My Role: To implement new features in HMI for the new version of Gateway.
+Skills-Used:  C# .NET, WPF, MVVM. 
+Duration: 2 Months
+
+Project Name: Driver Assistance System
+Details: DAS is driver machine interface used in high speed trains.
+My Role: To implement change request (CRs) for the new DAS version.
+Skills-Used:  C# .NET, HTML, javascript, SQL database. 
+Duration: 5 Months
+
+Project Name: IDP tool
+Details: IDP offline tool is used in Alstom for ATS(automatic train supervision) data-preparation.
+My Role: To implement the new requirements for the new IDP version.
+Skills-Used:  C#, Understanding of railways signaling concepts, XML, XLS.
+Duration: 2 Months
+
+Project Name: CIXL Boolean Decompiler
+Details: CIXL Boolean de-compiler is used to convert S3 records into Boolean equations. S3 record is a format in which Boolean equations are converted to make it readable to virtual machine.
+My Role: To write C Code for SIL4 (highest safety integrated level used in railways for safety) systems.
+Skills-Used:  C, knowledge of SIL4 guidelines, Understanding the requirements.
+Duration: 1.5 years.
+
+Project Name: GADS_Evolution
+Details: GADs tool is used to generate safety data for ATC system.
+My Role: To enhance the tool by adding new modules in source code for newer versions.
+Skills-Used: CPP, ATC (automatic train control) system domain knowledge.
+Duration: 4 Months
+
+Project Name: Hanzelijn Test Scripts
+Details: Writing test scripts for testing data files and Boolean equations that are the basis of interlocking in high speed railway lines in Europe.
+My Role: To convert test requirement into test scripts using Test Conductor script language. 
+Skills-Used:  Analysis of railways signaling concepts, test-script language
+Duration: 3 Months
+
+Project Name: TDMS (Train Data Management System)
+Details: TDMS is Train Data management system.
+This application software runs on central unit board of ATC (automatic Train control). This software handles the database management and data transfer between various on-board equipments.
+My Role: To implement the CRs (change requests) by updating the source Code in C.
+Skills-Used: C, ATC (automatic train control) system domain knowledge.
+Duration: 3 Months
+
+Project Name: CIXL_GS_GP-MT
+Details: CIXL is application software that handles the data transfer between various application software and equipments of trackside ATC (automatic Train Control).  
+My Role: To prepare MD (module description) for the system functions of CIXL_GSGP.
+Skills-Used: ADA language, C. 
+Duration: 2 Month
+
+Project Name: CIXL_GS_GP-DataBuilder2.	
+My Role: Integration Testing of Source Code in C++ and C#.
+Skills-Used: C++, C#, RTRT tool, Integration testing concept.
+Duration: 4 Month
+
+Project Name: U-200 ATP (Automatic Train Protection)
+Details: U-200 is a solution for High-speed train and metros' automatic operation and      protection. ATP (automatic train protection) is responsible for the protection of train automatically.
+My Role: To implement CRs (change requests) of application software by updating the source Code in C and B-Method.
+Skills-Used:  C, ADA, U-200 system knowledge, B-Method 
+Duration: 2 Month
+
+Internship project:-
+
+Project Name: Correlation Peak Detection in Electro-Optic Correlate
+Details: Designing embedded system for 2D FFT implementation on the FPGA board as the part of DRDO project “Correlation Peak Detection in Electro-Optic Correlate”. (in IIT Delhi)
+My Role: To develop C Code to implement 2-D FFT on FPGA Board of Xilinx.
+Skills-Used: Knowledge of FFT (Fast Fourier Transform), C
+
+
+Personal Information
+
+Father’s Name       : Shyam Lal Mangla
+Date of Birth         : 03rd Dec, 1986
+Hobbies               : Cricket, Solving Puzzles
+Languages Known : Hindi, English
+Address                  : #52D-1, Munnekolala, Bangalore-37
+                               
+ 
+   Recommendations from current employer:
+Excellent Analytical skills for problem solving
+Flexible in working with hardware and software.
+Sharp Learning Curve
+Excellent aptitude and IQ
+Sincere in attitude
+
+Declaration
+I do hereby confirm that the information mentioned in the resume is true to the best of my knowledge.
+
+Date: January 04, 2013                                                                  Signature
+Place: Bangalore                                                                          Hitesh Mangla

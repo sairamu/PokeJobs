@@ -1,0 +1,176 @@
+﻿                                             
+
+Madan Kumar M
+Email:   madan.m.kumar8@gmail.com 
+Mobile: +91- 9986743710 
+
+
+
+Professional Experience
+
+3 years of experience in software industry.
+Working as Systems Engineer in Tata Consultancy Services Bangalore, from January 2010.
+
+Major Skills
+
+Proficient in 
+Core JAVA
+GIT
+Identity Management
+Scripting
+Hibernate
+
+Knowledge of 
+SQL 
+Web Technologies like HTML, JavaScript.
+
+OS Platform: Windows XP
+
+Work Experience:
+
+Company: Tata Consultancy Services (TCS)
+Designation: Systems Engineer 
+Domain: Banking and Financial Solution
+Duration:  January-2010 to Till Date
+
+
+
+Project Details:
+
+
+TCS ILP Training
+
+Period
+JAN-2010 to MAY-2010
+Description
+TCS ILP Program is an initial training programme consisting of two parts. A generalized program, which concentrates on the grooming skills of an employee, and a specialized program, which is technology oriented.
+Role
+Assistant System Engineer
+Skills
+Oral and written communication, Professional grooming and Etiquette, Software Development Process, Requirements Engineering, System Design Overview, Reviews, walkthroughs & Inspections, Testing and Debugging, Software Maintenance, Object Oriented Concepts, OOAD using UML, Database Management Systems.
+
+
+
+
+TCS FS - Architecture
+
+Period
+ May-2010 to October-2010
+Description
+TCS FS – Architecture is a product team, which delivers its products to both internal teams in TCS and external Clients throughout the world. This is the core architecture of the TCS – Bancs product.  
+Role
+Assistant System Engineer
+Skills
+Core JAVA, JSP, Oracle/SQL, HTML, XML
+Responsibilities
+Java coder
+Reports designing and generation
+Oracle query writing.
+Tools
+IBM WebSphere, Oracle SQL Developer, 
+
+
+
+
+Morgan Stanley - TCS BANCS Implementation
+
+Period
+October-2010 to May-2012
+Description
+TCS BANCS is a universal, integrated Banking solution for operations in a global environment. TCS BANCS supports the complete range of a Bank's middle and back office activities, and provides full integration of front office functions. 
+TCS BANCS incorporates core banking functionality to which additional layers of business functions can be added. These additional functions are offered as the Business Modules. 
+Role
+Assistant System Engineer
+Skills
+Core JAVA, JDBC, JSP, Oracle/SQL, HTML, XML, JavaScript, GIT Management, Hibernate
+Responsibilities
+Business rules management
+Compiling the package and building EAR to deploy in Web logic/Web sphere
+Defect/Bug fixing
+Module Integration
+Code Merging 
+Maintaining the GIT repositories.
+
+Tools
+Eclipse, Rational Clear Case, GIT, Oracle SQL Developer, 
+
+
+
+
+American Express – SSO support
+
+Period
+May-2012 to February-2013
+Description
+We provide support on all the SSO deployed servers. Since this is a highly critical support only the best people with attributes of responsibility and leadership qualities to make decisions on the spot are recruited. This is a 24/7 project to provide complete support on not only all the servers but also the Identity management for entire Amex database.
+Role
+Programmer Analyst
+Skills
+Identity Management, Light Weight Directory Access(LDAP), UNIX, Oracle Identity Analytics, SiteScope monitoring, Spring Framework, Hibernate
+Responsibilities
+Monitoring the smooth flow of Identity management.
+Automation of monitoring through scripts
+Monitoring all SSO servers through Sitescope
+Complete hands-on on IDM tools like Oracle Identity Analytics
+LDAP directory servers
+
+Tools
+IDM tools, Sitescope, LDAP
+
+ Education 
+    
+
+Course
+Institution
+University
+Year
+Percentage
+
+
+10th
+New Horizon Public School
+ICSE
+2003
+84
+
+
+PUC
+St. Joseph's PRE University
+State Board
+2005
+84
+
+
+B.E.
+New Horizon College of Engineering
+VTU
+2009
+70
+
+
+
+
+
+
+
+
+Personal Profile 
+
+Father’s Name
+Muthu Kumar P
+Mother’s Name
+Vijayalatha M
+Date of Birth
+17h October 1987
+Nationality
+Indian
+Sex
+Male
+Languages known
+English, Hindi, Tamil, Kannada,
+Hobbies & Interests
+Meditation, Playing Tennis, Volley ball and Basket Ball, Listening to music.
+
+                             
+                                                                                                                
+

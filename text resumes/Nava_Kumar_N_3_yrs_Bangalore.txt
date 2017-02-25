@@ -1,0 +1,97 @@
+﻿
+  Email-id: navakumar.87@gmail.com
+NAVAKUMAR . N          				  Mobile No: +91 9663368175	
+								                 
+Career Objective
+To work with dedication that stimulates learning through work, and to deliver the responsibilities assigned to me to the best of my abilities utilizing all my knowledge being flexible and innovative.
+Professional Summary
+
+Having 3 Years and 07 months of experience in development, deployment of Enterprise applications using Java and JavaScript technologies.
+Working as a Associate Consultant in Oracle Financial services Software, Bangalore from June 2011 to till date.
+Worked as a Software Engineer in Keane International India Pvt. Ltd, Bangalore from June 2009 to April 2011.
+Involved in developing the applications using Core Java, JavaScript, XSL, SQL ,PLSQL technologies.
+Having good knowledge in Web logic ,OC4J ,Web sphere. 
+Working in Banking domain (net banking) 
+Working in Flex cube Direct Banking (Leap Frame work).
+
+Trainings Attended
+Core Java, JavaScript, HTML, CSS, SQL training for 45 days from Keane International India Pvt Ltd.
+Project specific trainings on Flex cube direct banking in Oracle Financial services Software.
+Key Activities
+Good team player with excellent technical, interpersonal skills.
+Effective problem solving skills. interested in learning new tools and technologies.
+Flexibility in adopting a new environment and new technologies.
+
+
+Project Description
+
+Project 1: 
+Flex cube Direct Banking - (Up to 6 Europe Bank projects)
+Client:	
+Oracle financial services  software 
+Location: 
+Bangalore
+Period: 	
+June 2012 – Till Date
+Description: 
+Deployed the product (flex cube ) and done many customizations required by the bank and also supported them to rectify issues
+Position: 
+Team member
+Contribution:
+Setting up the environment in offshore team
+Migrating the older version to new version
+Replaced the old products (3 rd party's banking product)  which bank was using for the day with our product(Flex cube in net banking)
+Single handedly supported 2 banks at a time and worked on Vasco API (security token )  and given training to fresher's in my team
+Technologies: 
+ Core Java, Java script , XSL ,Sql, PLSQL and XML related technologies
+Application servers
+Web logic ,OC4J , Web sphere
+Tools
+Flex cube direct banking , Eclipse , Sql developer 
+
+
+
+
+Project 2: 
+Morgan Stanley (Keane International India Pvt. Ltd )
+Location: 
+Bangalore
+Period: 	
+Jan 2011 – April 2011
+Description: 
+Done customization and also done support in the application related to report generations 
+Position: 
+Team member
+Contribution:
+
+Setting up the environment at Offshore.
+Development of the new module.
+Technologies: 
+Core Java, Unix, SQL ,PLSQL Framework, Shell scripting
+
+
+
+
+
+Academic Details
+
+B.TECH( ECE ) – PSNA College of Engineering and Technology, Dindigul
+ (Anna University).Year - 2008 with 76%
+H.S.C – V.C . Hr. Sec. School, Chennai. Year - 2004 with 92.5 %
+S.S.L.C – Sri A.L.V Hr. Sec. School, C.pudupatti. Year - 2002 with 95 %
+
+Personal Information
+
+Date of Birth	  	: 10th June 1987
+Marital Status	: Single
+Email			: navakumar.87@gmail.com
+Mobile		: +91 9663368175
+Nationality		: Indian
+
+Declaration
+
+I hereby declare that the above written particulars are true to the best of my    knowledge and belief.
+
+
+
+Place: Bangalore								(Navakumar .N)

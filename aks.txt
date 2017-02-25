@@ -1,0 +1,249 @@
+---------------------Page 1---------------------
+
+Akshay Vasudevan               
+Email: saikiran225@hotmail.com
+Mobile: +91 9880667770 
+ 
+ 
+
+Summary                                                                                        
+
+ 
+   o  Currently working as  Business Objects Technical specialist with iGate global solutions,India 
+   o  Worked as Business Objects Technical Lead with Tech Mahindra, India. 
+   o  Over 10 years of experience in Data Warehousing Methodologies.  
+   o  Having a track record of delivering high quality business intelligence 
+   o  Expert in the analysis, design, development, testing and implementation of SAP Business Objects XI 3.1, 
+       SAP Business Objects XI R2 and BusinessObjects6.5 reports and universes. 
+   o  Extensive experience in Business Objects Desktop Intelligence reports, Designer, Supervisor, Web 
+       Intelligence, Infoview, Broadcast Agent, Xcelsius 2008, Crystal Reports 8.5, Live Office, Life Cycle 
+       Manager, Import Wizard & CMC. 
+   o  Hands on experience in the Installation & Configuration of SAP Business Objects XI 3.1 
+   o  Worked as Production Support Lead for the Business Objects Reporting environment. 
+   o  Expert at performance tuning of Report Queries and stored procedures written in Oracle 11g 
+   o  Exposure to project management methodologies, planning, scheduling methods and  Project 
+       management tools  
+   o  Have worked across Banking and Telecom domains. 
+   o  Efficiently lead small to large sized teams in various assignments 
+   o  Experience in handling pre-sales engagements where I have both shaped and sized the proposed 
+       solution. 
+   o  Built CoE & BI Labs and collaborated with the Business Objects competency team. 
+ 
+
+Technical Expertise                                                                                    
+
+    o  Reporting  Tools:  BusinessObjects6.5,  SAP  Business  Objects  XI  R2,  SAP  Business  Objects  XI  3.1  SP5, 
+       Business   Objects   Desktop   Intelligence   reports,   Designer,   Supervisor,   Web   Intelligence,   Infoview, 
+       Broadcast Agent, Xcelsius 2008, Crystal Reports 8.5, Live Office, Life Cycle Manager, Import Wizard & 
+       CMC. 
+    
+
+   o  Languages: SQL, PL/SQL, UNIX shell scripting 
+
+   o  Data modelling Tools:  CA Erwin Data Modeler 
+
+   o  ETL Tools: IBM - InfoSphere DataStage V7.5 
+
+   o  Databases: Oracle 8i/9i/10g/11g, MS SQL Server 7.0/2000, MS Access 
+
+   o  Operating Systems: Windows NT, Windows 98/XP/2000/2003/2008, UNIX, Linux. 
+
+   o  Versioning Tools: Star Team 
+---------------------Page 2---------------------
+
+    o  Other Tools: PL/SQL Developer, Test Director 10, Microsoft Visio and Microsoft Project Professional 
+
+        2007. 
+
+         
+ 
+Awards and Achievements           
+ 
+Special Appreciation Awards received for Best Associate of the Month and b Pat on the Backb  awarded for  
+ 
+    o  Consistent zero defect delivery of projects well ahead of deadlines. 
+    o  Exemplary performance displayed in mentoring team members and motivating them to perform to best 
+        of their abilities 
+    o  Increasing project revenue by recommending improvements in the existing process that were critical for 
+        the functioning of the project and increased billing to a considerable extent.   
+ 
+ 
+     
+
+Projects Profile and Responsibilities                                                             
+
+ 
+ 1.   Project Name       Data Intelligence b  BI BAU (Hutchison3g,UK) 
+
+      Duration           Oct 2010 till date 
+
+      Description of the project 
+
+      Hutchison3g is a leading telecom service provider in the United Kingdom specializing and 
+      offering services in the 3g arena. The role involves analyzing the data required for development of 
+      reports for the Management Information System of Hutchison3g, UK for each of its monthly 
+      voucher schemes and revenue analysis 
+
+      Team Size           :  5 
+
+      Role                         :  Business Objects Technical Lead 
+
+      Responsibility      :  1.  Interacting with the client to understand the clientb s report needs. 
+                             2.  Requirement Gathering, Analysis and Design of Universes.  
+                             3. Preparation of Impact Assessment and High Level Design documents 
+                               for reports. 
+                             4.  Delegating tasks to team members and managing project modules 
+                             5.  Reviewing of Reports and Universes. 
+                             6. Liaison between the Business Analyst and the ETL technical leads to 
+                             develop Detail Design Specifications  for reports  
+                                 
+      Software            :  SAP Business Objects XI 3.1 SP5, Microsoft Project Management 2007, 
+                             Microsoft Visio 2007 
+
+                              
+
+ 
+ 
+ 
+ 2.   Project Name       Data Intelligence (Ericsson Services Limited, Romania) 
+
+      Duration           Nov 2009 b  Oct 2010 
+
+      Description of the project 
+
+      Ericsson Services Limited, Romania is a contractor to Hutchison3g, UK.  Ericsson Services Ltd, 
+      manages Threeb s IT division. The role involves development of reports for the Management 
+---------------------Page 3---------------------
+
+       Information System of Hutchison3g, UK 
+
+       Team Size                :   12 
+
+       Role                       :   Business Objects Team Lead and Analyst 
+
+       Responsibility           :   1.  SQL generation for Reports 
+                                   2.  Developing Universes and Reports in Business Objects 
+                                   3.  Test Plan Preparation 
+                                   4.  Unit/Integration Testing 
+                                   5.  Bug Reporting and Tracking 
+                                        
+       Software                 :   Business Objects XI R2, IBM - InfoSphere DataStage V7.5, Test Director 10 
+
+                                    
+
+  
+
+  
+
+ 3.    Project Name            Management Information System - BSNL 
+
+       Duration                Mar 2007 b  Nov 2009 
+
+       Description of the project 
+
+       Bharat Sanchar Nigam Limited is one of the largest mobile network providers in India and this 
+       project involves Reports that calculate ARPU (Average Revenue per user) and Roaming Reports 
+       mainly for revenue calculation. Reports were also created to find out the usage per cell site and 
+       region wise ranking based on usage. 
+
+       Team Size                :   3 
+
+       Role                       :   Business Objects Developer 
+
+       Responsibility           :   1.  Generate SQL for reports 
+                                   2.  Developing Universes and Reports in Business Objects 
+                                   3.  Test Plan Preparation 
+                                   4.  Unit/Integration Testing 
+                                   5.  Bug Reporting and Tracking 
+                              1.             
+       Software                 :   Business Objects XI R2, IBM - InfoSphere DataStage V7.5, Test Director 10 
+
+ 
+ 
+ 
+ 4.    Project Name            Business Intelligence b        
+
+       Duration                Jan 2006      b          
+
+       Description of the project      
+
+       Barclays PLC is the second larges       t bank in the UK. The project involves development of adhoc and 
+       scheduled reports for the Top Management so that decision could be made with respect to yearly 
+       revenue projections and revenue by region could be calculated.                
+
+       Team Size                :    6 
+
+       Role                         :    Business Objects Developer   
+
+       Responsibility           :    1.   Generate SQL for reports      
+                                   2.     Developing Universes and Reports in Business Objects             
+                                   3.   Test Plan Preparation                         
+       Software                 :    Business Objects 6.5 
+
+ 
+ 
+ 
+---------------------Page 4---------------------
+
+ 5.   Project Name        GE -  Power Systems 
+
+      Duration            Feb 2004 b  Dec 2005 
+
+      Description of the project 
+
+      GE-Power systems, USA manufactures and maintains turbines, pumps and motors mainly for its 
+      GE Shipping Unit worldwide. The project involves preparing canned and un-canned reports for 
+      the top management of the company.  
+
+      Team Size           :  3 
+
+      Role                         :  Business Objects Developer 
+
+      Responsibility      :  Developing Universes and Reports in Business Objects 
+                                   
+      Software            :  Business Objects 6.5 
+
+ 
+         
+         
+         
+         
+         
+
+Education                                                                                                   
+
+ 
+ Year              Qualification                                   Board/University 
+ 1999 b  2003       Bachelor of Engineering                         Visweswariah Technological 
+                                                                   University 
+ 1999              Pre-University Course Examination  (12th)       State  Board for Secondary Education  
+                                                                   (Karnataka)             
+                                                                                        
+ 1996              Secondary School Examination  (10th)            Indian Council for Secondary 
+                                                                   Education  (ICSE)  
+ 
+ 
+ 
+
+Personal Details                                                                                            
+
+ 
+ 
+ PASSPORT NO.                              :    E0593215    
+ Date of Birth                             :    26 November 1980 
+ Sex                                       :    Male 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Akshay Vasudevan 
+Place: Bangalore 
+ 
+ 
+---------------------Page 5---------------------
+
+ 

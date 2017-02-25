@@ -1,0 +1,177 @@
+﻿
+Deepika K                                                         Emailid:deepikasai88@gmail.com                                                                       
+                                                                               Mobile no: 09620012579
+
+
+Summary
+
+2.6 years of experience as a Software Engineer in developing web applications. 
+Experience in developing web applications using JAVA and J2EE.
+CCNA trained and have good knowledge in networking.
+Ability to understand functional requirements and design documents.
+Possess excellent communication and inter personal skills, agreeable personality, positive attitude and perseverance to undertake challenging jobs.
+Committed, result oriented, innovative, hardworking person with quest and zeal to learn new technologies.
+
+Work Profile
+Network Solutions Pvt Ltd(An IBM Company) Bangalore, Nov 10 – Till Date as a Software Engineer. 
+
+SKILL SET
+
+Academic Credentials
+
+B.E. (Information Science) from Visveswaraiah Technological University (City Engineering College, Bangalore), Karnataka in 2010. (Secured 73%)
+Pre-University Education from Vijaya Pre-University College, R.V.Road, Bangalore in 2006. (Secured 77%)
+SSLC from St.Anne’s Girls High School, Bangalore in 2004. (Secured 89%)
+
+Achievements
+
+I am proficient in grasping new technical concepts and utilize the same in productive manner.
+Received award for excellence in academics in engineering.
+Indulged in other cultural activities in college and received prizes. 
+   
+
+Project Profile	
+Project Title #5
+Server Side Validation for all the fields in asset Management 
+Tool for VAPT Complaince
+Technologies
+Java, XML, Struts
+Role
+Developer and Involved in bug fixing, Unit testing and Sanity testing.     
+Duration
+July 12 – October 12
+
+Description:    
+
+Server Side Validation for the fields which are mandatory and important is secured from
+accessing them from a external or hacking tools like (Burp Tool).
+When a user tries to hack a particular field from a tool, then it is validated from server side, 
+and application will redirect to an error page.
+
+Responsibilities:-
+
+Involved in the analysis of the requirements
+Involved in the documentation of the requirements
+Involved in the documentation of the design
+Involved in Development
+Involved in bug fixing
+Involved in Unit testing and Sanity testing.
+Co-ordinate with the Team for the design and Development of  Framework.
+
+
+Project Title #4
+Maker Checker for contracts and capturing audit for all the fields changed in asset management tool for ASCA Compliance
+Technologies
+Java, JSP, Java Script, XML, Struts, Ajax
+Role
+Developer      
+
+Duration
+March 12 – July 12
+
+Description:    
+
+Maker checker - allows a user to add the details of vendors, Warranties, Maintenance
+Contracts, Payments, Purchase Orders, Insurance policies and depreciation Policies and send 
+it for approval. The user who have the permission for approval will check the details of the
+contracts/Finance details and approves it. It avoids entry of wrong contracts/Finance details 
+by a user. 
+Audit is captured for the fields that are changed by the user.
+
+Responsibilities:-
+
+Involved in the analysis of the requirements
+Involved in the documentation of the requirements
+Involved in the Database design
+Involved in the documentation of the design
+Involved in Development
+Involved in bug fixing
+Involved in Unit testing and Sanity testing.
+Co-ordinate with the Team for the design and Development of  Framework.
+Project Title #3
+Snappimon
+Technologies
+JSP, Servlet, MySQL, Java, J2ee, Ajax, XML, JSON
+Role
+Developer 
+Team Size
+10
+Duration
+December 11 – March 12
+
+Description:    
+
+Snappimon tool is a network  monitoring tool, which is capable of detecting and reporting 
+failures of devices or connections. It will often send messages over the network to each
+host to verify it is responsive to requests.
+Responsibilities: 
+Involved in Development of new enhancements.
+Involved in bug fixing
+Involved in Unit testing and Sanity testing.
+
+Project Title #2
+Customized Executive Dashboards
+Technologies
+Java, Struts, JSP, XML, JavaScript, MySQL
+Role
+Design and Development 
+Team Size
+2
+Duration
+October 11 – November 11
+
+Description:    
+
+Queries can be configured and reports can be generated in the form of graph view or table – view. It helps the user to generate  the reports based on his query.
+
+Responsibilities: 
+
+Involved in the analysis of the requirements
+Involved in the documentation of the requirements
+Involved in the Database design
+Involved in the documentation of the design
+Involved in Development.
+Involved in bug fixing
+Involved in Unit testing and Sanity testing.
+
+
+Project Title #1
+Asset Management
+Technologies
+Java, J2ee, Struts, XML, Ajax, JSP, MySQL
+Role
+Developer & bug fixer
+Team Size
+8
+Duration
+March 11- Till Date
+
+Description:    
+
+Asset Management tool is used to maintain the IT and Non-IT assets of the company.
+It is also used to discover all the nodes of the assets	
+
+Responsibilities: 
+
+Involved in Development of new enhancements.
+Involved in bug fixing
+Involved in Unit testing and Sanity testing.
+
+
+Academic Project	
+
+Title                 : Network Operation Center (NOC)
+Description      : A Network Operations Center, or NOC, is the primary work space engineers 
+                           utilize to monitor, manage and troubleshoot problems on a network. NOC is
+                           used to send alerts through EMAIL and ONLINE reports.        
+Tenure              : 3 months
+Language          : JAVA
+Team size         : 3
+
+
+Personal Details
+                          
+Date of Birth		:	16th Dec 1988.
+Sex			:	Female.
+Language Known	:	Telugu, English, Kannada, Tamil and Hindi.
+Nationality		:	Indian.

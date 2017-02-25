@@ -1,0 +1,160 @@
+﻿Nikhil V Walvekar
+
+Mobile: +91 9663756434		 	 Email: nikhil.walvekar@gmail.com
+
+
+OBJECTIVE
+
+To acquire professional and challenging career in a dynamic work environment by utilizing skills and technical knowledge to the best of my ability to contribute effectively to growth and profitability of the organization.
+
+
+WORK EXPERIENCE
+
+Associated with Infosys Limited, Mangalore presently as a Senior System Engineer for Finacle Mobile Banking team which expertise in building Mobile Banking Application, since September 2010 post Infosys Foundation Training program. 
+
+
+
+CAREER SNAPSHOT
+Around 2 years & 6 months of experience in IT industry, in developing and deploying web applications using Java, JPA, POJO & Tomcat, Websphere application server.
+Experience in development of Web Based Mobile Banking Application using JAVA, JPA, Java Servlets, JSP, MVC and SQL.
+Part of implementation team as a key resource at onsite-client location for ICICI Bank and BOI.
+Experience in development of various Demos and POC’s for multi-national banks across North America, Africa and Asia.
+Technical expertise in Software Development Life Cycle entailing requirement analysis, design, development, testing and troubleshooting.
+Have been rewarded with Infosys On-Spot Award twice for remarkable contribution for critical projects.
+Excellent communication, interpersonal & analytical skills with proven abilities in resolving the complex software issues.
+
+
+SKILL SET
+
+TECHNICAL
+
+Language			:	Java, C
+Web Tools			:	Servlet, JSP
+Script and Web Languages          :	XML, JavaScript, JSTL	
+Database			:           Oracle
+Server				:	Apache Tomcat, Websphere Application Server
+Tools				: 	Eclipse, Netbeans, Toad, SQLYog
+OS				:	Windows
+
+
+Current Assignment
+
+Project:  ICICI Mobile Banking Application for all platforms.
+
+Client		:	ICICI Bank
+IDE/Tools	:	Eclipse, Tomcat, Websphere
+Team Size	:	4
+
+Project Overview:
+Web application for ICICI Bank, Mobile Banking application. Easy, convenient and secure application which allows the users to do banking transactions such as transfer funds, pay bills, prepaid mobile recharge and mobile shopping etc.
+This is a mobile banking application that works with most smartphone models, GSM and CDMA handsets. This application is considered as one of the most advance banking iPhone App for various platforms like iPhone, Android, Windows 7.5, Blackberry and Java phones etc.
+
+
+
+
+
+
+Responsibility:
+Building server side web application in Java with a team of 4 using Java, jsp, servlets, xmls, JaxB and Jstl. 
+Deployment and implementation of application at client location.
+Challenging integration with third party host systems (http/https and socket calls)
+
+Also currently involved in testing support activity for fixing the issues faced during product certification.
+  
+
+CAREER CONTOUR
+
+Infosys Limited., Mangalore, Mysore & Bangalore: Since September’10
+System Engineer
+
+
+Project: ICICI BANk, Application for windows 8.
+
+Client		:	ICICI Bank, Mumbai 
+Environment 	:	Windows 8 
+Tool		:	Eclipse, WAS
+Team Size	:	2
+
+Project Overview:
+Java based Web application for ICICI Bank, Banking application for Windows 8 desktop and tablets. Easy, convenient and secure application which allows the users to do banking transactions such as transfer funds, pay bills etc.
+This application is considered the first banking application for Windows 8 operating system and is certified by Microsoft and is available in Windows-8 app store
+Responsibility:
+Key engineer in the study of the requirements
+Programming/Development of middleware for the application.
+Deployment and implementation of the application in client location.
+Unit testing and bug fixing in UAT and production environment.
+	
+
+
+Project	: Finacle Mobile Banking product development
+Environment    : A product of Infosys.
+Environment	: Java
+Tool		: Eclipse
+Team Size	: 15
+
+Project Overview:
+Finacle mobile banking product is a banking application for mobile phones which can be used across devices of all platforms. Development involves building of product with all banking services mentioned above. This product is used for implementation for various banks across the globe. 
+
+Responsibilities:
+Involved in the requirements gathering, development, testing and bug fixing.
+Also made some critical changes in application framework according to MVC architecture standards and some security fix to make the product more secure.  
+Involved in the development of different modules in JAVA and XMLs.
+
+
+
+
+Project	: Finacle Mobile banking architecture.
+
+Contribution to product to improvise the performance
+Framework	:	MVC
+IDE		:	Eclipse
+Team Size	:	2
+
+Project Overview :
+
+Architecture team objective was to reframe the architecture to improve the product development process and also build a framework which follows MVC architecture. This team also focussed introducing new features into the product. Also involved in discovering the new technology in the market, which could help in increasing the efficiency of the product and also increase the performance.
+
+Responsibility:
+As the only key developer, involved in designing and coding of the new architecture.
+Unit testing and regression testing.
+Integration with existing architecture
+
+
+
+
+Project:  Education Network System
+
+Client		:	Internal to Infosys during training
+IDE		:	Eclipse
+Team Size	:	5
+
+Project Overview:
+Education Network System (ENS) is to help aspiring students to satisfy their educational needs to study anywhere in the world. The project is to create an online application for ENS enterprise. This would provide better service to their users and a better technique to manage the education system. Complete project was divided into 5 modules named Registration, login, Facility, Maintenance & Report.
+
+
+Responsibility:
+Development & Unit testing of Registration module.
+Integration with other modules.
+Integration testing.
+
+
+
+ACHIEVMENTS
+Received Appreciation Certificate for ICICI Bank – Windows 8 project
+Also received appreciation from client for ongoing ICICI Bank project for fast and stable delivery.
+
+
+
+SCHOLASTICS
+B.Tech (Electronics & Communication engineering) from Gogte Institute of technology, VTU, Belgaum, Karnataka in 2006-2010. Secured 71.5%
+Higher Secondary (12th) from Govindram Sekseria Science College, Belgaum, Karnataka, Karnataka Board in 2004 – 2006. Secured 88%
+Matriculation (10th) from St. Xavier’s High School, Belgaum, Karnataka, Karnataka Board in 2004. Secured 84%
+
+
+
+PERSONAL DOSSIER
+Father’s Name	:	Shri Venkatesh Babacharya Walvekar
+Date of Birth	:	13th July 1988
+Address		:           Flat no 1104, Divya Enclave, M G Road, Mangalore.
+Languages         : 	English, Hindi, Marathi, Kannada.
+Passport No	:	J8278297

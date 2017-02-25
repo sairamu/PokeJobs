@@ -1,0 +1,138 @@
+﻿
+Mahesh Asangi		                            
+E-mail: maheshasangi@gmail.com (08983536407) 	 
+
+Objective:
+
+To pursue a challenging career wherein I will be able to learn continuously and grow consistently and add value to the organization through my capabilities and learning.
+
+Summary: 
+
+Having 27 months of working experience on object oriented programming (C++) in TELECOM domain. 
+Currently working with Tata Consultancy Services for Ericsson and Kapsch CarrierCom client. Also have good knowledge on core java, UNIX and SQL.
+Having in depth knowledge in requirement gathering from client side.
+
+Academic Profile:
+
+BE (Electronics and communication) from Visvesvaraya Technological University with an aggregate of 74% during year 2010. 
+
+Technical Strength: 
+
+Technology background with in-depth, hands-on experience in object oriented component technologies.
+ Knowledge on core JAVA, UNIX and SQL.
+ Worked on various tools and utilities including Clearcase, Eclipse, Quality-center, Clarify and Putty.
+
+Skills Set :
+
+Programming Languages  : 
+C++, C. Basics of UNIX, LINUX & SQL.
+Domain                                :
+Telecom MGC (Media Gateway Controller). CDMA Network.
+Protocols                             :
+H.248, SIP, ISUP.
+Operating System              : 
+Windows 98/2000/XP, UNIX,LINUX
+Tools                                    :
+Clearcase, Eclipse, Putty and Clarify.
+
+
+Education :
+
+Course
+University/Board
+Institution
+Aggregate (%)
+B.E (ECE)
+Visvesvaraya Technological University, Belgaum.
+Basaveshwar Engg. College, Bagalkot.
+73.94
+P.U.C
+P.U.E Board Bangalore.
+Basaveshwar Science College, Bagalkot.
+80.33
+S.S.L.C
+Karnataka Secondary Education Examination Board.
+New High School Jalihal, Badami.
+81.44
+
+Professional Details :
+
+Sr. No.
+Organization Details
+From
+To
+1
+Tata Consultancy Services Ltd.
+November 2010.
+Till Date
+
+PROJECTS :
+
+1.Project Name
+“Kairos 13U Migration”
+Client
+Kapsch CarrierCom
+Project Abstract
+This project is mainly a migration from “12U atca chassis” to “13U atca chassis”. Basically we are developing a new system for a telecom network named as Kairos. This system provides the basic platform for all the future applications for Austrian railways.
+Role
+I am currently working in porting the code to new architecture with some enhancements in the older architecture. 
+Environment
+C, C++, UNIX, LINUX, Clearcase.
+
+
+2.Project Name
+MGC (Media Gateway Controller)
+Client
+Ericsson.
+Project Abstract
+MGC (Media gateway Controller) or GWC is the node in a telecom network which establishes bearer (voice) connection between pair of MG (Media Gateway).
+Main aim of MGC is to exchange the codec information between the pair of MG hence establishing a voice path for a call.
+MGC PLM (Product Line Management) is the one in which make customer needs to be satisfied with enhancements and handling critical live sites issues.
+Role
+Involved in feature, enhancement and sustenance of MGC. 
+As a part of MGC PLM was actively involved in enhancements and resolving the issues from live sites by satisfying customer without any escalation.
+Environment
+C++, basics of Unix & Linux, Clearcase.
+
+
+
+
+Extra Activities:
+
+Presentation:
+Presented a paper on “A REAL TIME FACE RECOGNITION SYSTEM USING CUSTOM VLSI” at SDM College, Dharwad.
+Participated in National level Technical Paper Presentation in REC, Hulkoti.
+Presented a paper on “DOMASTIC LOAD CONTROL USING DTMF” at KLE College, Belgaum.
+Participation:
+
+Organized Technical Competitions in the Collage.
+Played Basketball Tournament in Collage as a captain.
+
+
+
+Personal Information:
+
+Name:
+Mahesh Asangi
+Gender: 
+  Male  
+
+D.O.B:
+29th March 1988
+Mobile No.: 
++91-8983536407 , 09738784657
+Passport No.: 
+H8693151
+Interests:
+Playing Cricket & Basketball, listening To music & making friends.
+Permanent Address:
+S/o Y.S.Asangi, Sector No 08, Plot No 64, Navanagar, Bagalkot -587103.
+
+
+Declaration: 
+
+I MAHESH.Y.ASANGI, hereby declare that the details given above are true to my knowledge and belief.
+
+
+Date:   									                     Mahesh Asangi
+

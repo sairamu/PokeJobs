@@ -1,0 +1,116 @@
+﻿CAREER OBJECTIVE
+
+Use my best analytical and technical skills to solve business and technical problems and increase the company's profitability.
+
+  PROFESSIONAL SUMMARY
+
+Analyst Programmer, TATA Consultancy Services, Mumbai (Nov’ 09 – To Mar’12)
+Key Responsibilities:
+Responsible for System development on C, C++ tool
+Responsible for System enhancement from 32bit to 64bit support
+Involved in various phases of software development cycle like design, development, coding, testing and implementation
+Interacting with clients regarding queries, follow up on identified issues and recommend corrective actions to ensure problem resolution
+Worked as a developer, module leader and process management leader
+Conducted training on process management at team level
+
+Project Handled:
+Project Name
+HP-NED-OS-SMP
+Client
+Hewlett Packard
+Duration
+23/11/2009 to 07/03/2012
+Team size
+25
+Tools/Skills
+C, C++, TAL, Egarth, Einspect
+Environment
+Guardian, Unix
+Description
+The project deals with the development and maintenance of non-stop operating system. It deals with the process control and its management. Its domain comprises of the various phases of a process from its creation to its stop at the system level. Any bug reported on the functionality of the operating system needs to be handled and also the enhancement to enable the operating system for updated version of the operating system architecture.
+Contribution
+As a developer of the team handled various cases reported by sensitive customers
+Involved in direct communications with customers as module leader of the process control module for design development
+Individually handled a system enhancement from 32bit to 64bit for process control module
+Conducted various process management trainings at team level
+
+Software Engineer, Manhattan Associates, Bangalore (Mar’12-To Date)
+Key Responsibilities:
+Responsible for Module development in C++, Oracle PL/SQL.
+Responsible for processes related to Client Technical Services Organization.
+Involved in various phases of software development cycle like design, development, coding, testing and implementation.
+Direct interaction with client regarding queries and identified issues and recommend corrective action to ensure problem resolution.
+Conducted training related to Area Specialization- Wave module at company level.
+Worked as developer and module leader.
+Developed a script tool to enhance efficiency and productivity for post build activities.
+Project Handled:
+Project Name
+Area Specialization-WAVE
+Duration
+12/03/2012 to till date
+Team size
+25
+Tools/Skills
+C, C++, Oracle PL/SQL
+Environment
+Windows, Unix
+Description
+The project deals with development and maintenance of warehouse management system. Our module domain comprises all warehouse internal activities from inbound to outbound functions. Internal activities include various steps from allocation to consolidation functionalities. Any bug reported on the functionality of the application needs to be handled and also the enhancement to enable application to behave as per requirement.
+Contribution
+As a developer of the team handled various cases reported by sensitive customers
+Involved in direct communications with customers as module lead for customization and design development.
+Developed a script tool for post build activities. It enhances efficiency and productivity.
+Conducted Area Specialization training for AS-Wave module at company level.
+
+ TECHNICAL SKILLS
+
+Software / Tools					       Proficiency Level
+C, C++, Oracle PL/SQL						Proficient
+JAVA, UNIX, TACL, TAL, EINSPECT				Intermediate
+
+ EDUCATION 
+
+B. Tech 
+(2005-2009)
+Computer Science & Engineering
+Sikkim Manipal Institute of Technology
+8.55/10
+XIIth 
+(2003)
+Science with Computers (CBSE board)
+Delhi Public School, R. K. Puram, New Delhi
+86%
+Xth 
+(2001)
+CBSE board
+Loyola High School, Patna
+83%
+
+
+  AWARDS & RECOGNITIONS
+
+Awarded “TCS Gems” for an extra ordinary work at project level.
+Awarded “TCS Gems” for an extraordinary work at the completion of one year
+Awarded “Best Programmer” in 2008-09 for an outstanding performance in various programming contests
+Awarded “Best Student” for on outstanding all round performance in 2008-09
+Awarded “Best Vice-President” for organizing “VAASTUSASMITAM -08”  an inter college Cultural-Tech fest
+
+  ACHIEVEMENTS
+
+Developed software on Finger print Security mechanism to enhance the security at an individual level
+Developed a Relational Database Management System (RDBMS) software in C++
+Successfully modified an algorithm for enhancement of an image segmentation algorithm for satellite images as B.Tech major project
+Participated in Asian region in international programming contest 2008 conducted by ACM
+Worked as Vice-President in college for year 2008-09
+Qualified All India Engineering Entrance Examination-05
+
+ PERSONAL DETAILS
+
+Marital Status:		Single
+DOB:			20th Jan 1986
+Languages Known:	Hindi, English
+Nationality:		Indian
+Passport Details:	K8350784
+Personal Interests:	Movies and Listening Songs
+
+ASHISH BHUSHAN

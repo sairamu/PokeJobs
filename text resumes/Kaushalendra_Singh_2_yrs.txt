@@ -1,0 +1,129 @@
+﻿Kaushalendra Singh
+H No. 1220 Akshaya, 10th Cross, Gokulam 3rd stage, Mysore - 570002
+Email: kaushalendraasingh2007@gmail.com
+Mobile: +918861960793
+
+CAREER OBJECTIVE
+I am seeking to serve as a Developer for an organization which provides healthy environment to work with opportunities for career growth and stability.
+                                                                                    
+Professional Experience
+
+Senior System Engineer with 2.6 years of experience in Infosys Limited involving Property, Auto and Boats insurance domain that includes Application development, Maintenance, and Production Support.
+Experience in handling all the stages of the Software Development  Life-cycle involving Requirement Analysis,  Design, Test Case Preparation, Build & deployment, Test Case Execution, Defect Prevention, Management and Fixing. 
+Experience in Enterprise Application development, frameworks, Design patterns, architecture and specifications.
+Communicating directly with the Clients, BA team and across with the other independent parties on resolving issues.
+
+Educational qualification
+B.Tech in Computer Science from ABES Engineering College, Ghaziabad (affiliated to UPTU) securing 69.76% (2006-2010)
+Class XII from Kendriya Vidyalaya Airforce Station Bareilly (affiliated to CBSE) securing 73.00% (2006)
+Class X from Kendriya Vidyalaya Airforce Station Bareilly (affiliated to CBSE) securing 84.60% (2004)
+
+Technical Skills
+Skill Type
+Skill Name
+Programming
+J2SE, J2EE (Servlet, JSP, EJB, Web Services), SQL, Design Patterns
+Frameworks
+Struts, DWR, TILES, Hibernate
+Development Tools
+IBM RAD, Eclipse
+Web Technologies
+HTML, JavaScript, XML, WSDL
+Server
+Websphere Application Server 7.0
+Configuration Management
+Clearcase, ClearQuest, HPSM
+Domain
+Financial Services and Insurance
+Project Details
+
+Project#: I
+
+Client Name		Allstate Insurance, USA
+Project Title		Alliance - Allstate House and Home Base State, Bundle 4, 6, 7, 8, 9
+Project Duration	July 2011 – Jan 2012 and Apr 2012 – Till Date
+Team Size		15-20
+Technology / Tools	J2EE, Struts framework, DWR, TILES, JUnit, JavaScript, XML, WSDL, RAD, ClearCase, ClearQuest, WAS 7, QTP, Service Now
+Project Description	Allstate has ALSTAR as a mainframe application, used to process and generate policies covering Homeowners, Renters and Condos. It seeks to modernize the aging ALSTAR legacy platform with a SOA and component-based J2EE application ALLIANCE. This migration program is carried out in 2 phases – firstly Base state implementation and then Expansion phase with bundles of states.
+
+Responsibilities and Contributions:
+Analyzing the requirements and creating technical design documents from the requirement artifacts.
+Preparing Unit Test and Integration Test Plans.
+Planning and performing Defect Prevention activities
+Coding and preparing JUnits for java classes in the business layer.
+Refactoring code for optimization and robustness.
+Tracking through Requirement Traceability Matrices.
+Creating QTP scripts which can be used for all the rollouts.
+Executing the Test Plans, JUnits and QTP scripts.
+Keeping track of merge conflicts and resolving them.
+Participated in peer and group reviews of the project documents.
+Analyzing and fixing the defects found in Unit, Integration, System, Regression, Final Acceptance and User acceptance  testing phases
+Active participation in KM activities which involves KT to new joiners, Tool for tracking and maintaining database of the application
+
+Project#: II
+
+Client Name		Allstate Insurance, USA
+Project Title		Alliance – Auto Production Support
+Project Domain		Auto Insurance
+Project Duration	Feb 2012 – Mar 2012
+Team Size		6
+Technology / Tools         RAD, ClearCase, ClearQuest, J2EE, Java Struts framework, AS400, WAS 7, HPSM
+Project Description	The maintenance support is provided for the Auto projects in production. 
+
+Responsibilities and Contributions:
+Providing with the transaction fix (correcting the transaction data in order to let the Agent continue his business)
+Replicating, analyzing and fixing defects reported for the Production states.
+Testing and Impact analysis for the code fixes.
+Keeping track of and assigning the defects to the team members.
+
+Project#: III
+
+Client Name		Allstate Insurance, USA
+Project Title		Alliance – Boats Base State
+Project Duration	April 2011 – June 2011
+Team Size		8-10
+Technology / Tools	J2EE, JUnit, Struts, RAD, ClearCase, ClearQuest, AS400, WAS 6
+Project Description	Introduction of new line of business (Boats Insurance) along with Property, Auto and Motorcycle Insurance in Alliance application.
+
+Responsibilities and Contributions:
+Analyzing and fixing defects in QC, regression and user acceptance stages.
+Creating and Executing the Test Plans and JUnits.
+Analyzing and reporting security threats to the application.
+
+
+
+Certifications
+
+Technical Certifications in JEE Technology
+Certification in IQ Foundation(Process)
+STAR Infoscion (Behavior)
+
+Trainings Attended
+Course
+Conducted By
+ RDBMS, OOP, Unix, User Experience Design and Web Technologies.
+HTML/ JavaScript, Oracle, JAVA, POJO, JPA, EJB 3.0, Struts, Hibernate
+INFOSYS LIMITED
+Core JAVA, J2EE
+DUCAT, Noida
+
+Personal Details
+Date of Birth
+18th Aug, 1989
+Sex
+Male
+Marital Status
+Single
+Languages
+English, Hindi 
+Permanent Address
+Vill–DADANKHERA, P.O–Korsam, Tehsil–Bindaki, Dist.–Fatehpur (U.P), PIN - 212665
+Passport Number
+J2872115
+                                                                                                                                                                                              
+Declaration
+I hereby declare that the above written particulars are true to the best of my knowledge & belief.
+
+
+Place:  Mysore, Karnataka
+Date:   January 16, 2013								Kaushalendra Singh

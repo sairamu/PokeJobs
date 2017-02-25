@@ -1,0 +1,145 @@
+﻿
+RESUME
+ 
+MOUSUMI BEJ
+Mobile: +91-8095993580
+Email: moushmibej@gmail.com
+Experiences: 4+years
+    
+Summary:-
+
+Having more than 4years of experience in Software Development and implementation of various application software as well as System Software, my core areas of skills include Core Java.
+
+Primary Skill:-
+
+Core Java
+
+Secondary Skills:
+
+DBMS	: Oracle9i
+Internet Technology	: JSP, Servlets, HTML,GWT
+Job Function	: Requirement - Analysis, Design, Coding, Testing & Documentation.
+Language                      : SQL
+OS/Environment          : Windows 2003, Windows 95/98
+Tools	: Eclipse
+Others	: Completed two lean Six Sigma projects.
+
+
+PROJECTS:-
+
+Project 1
+
+Project 	SIP (System Integration Platform)
+Employer	Causeway 
+Type	Business Applications 
+Role	Client communication / Developer
+Platform	Windows
+Technology/Software	Core JAVA, GWT, jBPM(BPM Tool)
+Duration	June 2012 to till date
+Client	Causeway
+
+Workflow is a cloud based application, that allows Causeway to automate and streamline construction related business processes to increase efficiencies, improve supplier data quality. 
+I have basically worked on jBPM which is a BPM tool used to provide workflows to the architects to know where the process lies and with whom in a construction module. This involves GWT technology and Core java.                    
+
+Responsibilities:
+Requirement gathering and analysis 
+Prepared functional specification design documents
+Developed major UI part of the application and provided cost effective solutions in GWT for  jBPM
+Provided support for the critical issues in the application.
+Guiding team in critical issues
+
+
+Project 2
+
+Project 	SIM (Supplier Information Management)
+Employer	iGATE
+Type	Business Applications 
+Role	Client communication / Developer
+Platform	Windows
+Technology/Software	Core JAVA
+Duration	July 2009 to May 2012
+Client	GE
+
+
+SIM (Supplier Information Management) is a web-based application, that allows GE to automate and streamline supplier information-related business processes to increase efficiencies, improve supplier data quality, drive compliance, and reduce costs. Furthermore, SIM offers GE’s suppliers an easy-to-use, self-service interface to author and maintain information required to do business with GE at both the corporate and business-unit levels. SIM allowed GE to create, configure, and launch a new set of firm-wide supplier enablement and management processes that offer task-level information and visibility to all global users via role-based dashboards and alerts.	                    
+
+Responsibilities:
+Requirement gathering and analysis
+Prepared functional specification design documents, SOP and test cases
+Developed  major part of the application and provided cost effective solutions
+Status Reporting to Client
+Provided support for the critical issues in the application
+Involved in code review and defect fixing activities
+Guiding team in critical issues
+Excellent exposure to end users
+
+Project 3 
+
+Project 	Account Reconciliation (Auto Assignment Process)
+Employer	iGATE
+Type	Business Critical Applications
+Role	Client communication / Developer
+Platform	Windows
+Technology/Software	Core JAVA
+Duration	Jan to June 2009
+Client	GE
+ 
+Account Reconciliation is a web based project through which transaction for any account can be reconcilited in a very convenient way. It is run by an auto assignment process. Through this process we can identify new accounts and generate the SSD and KAI.auto assignment process reduces a lot of time in reconciliation.	                    
+ 
+Responsibilities:
+Requirement gathering and analysis
+Prepared functional specification design documents, SOP and test cases
+Developed  major part of the application and provided cost effective solutions
+Status Reporting to Client
+Provided support for the critical issues in the application
+Involved in code review and defect fixing activities
+Guiding team in critical issues
+Excellent exposure to end users Mentor
+Provided KT to new team members on both technical and functional aspects.
+Assigned tasks to them and constantly monitored their progress. 
+
+Awards / Achievements:-
+
+1) Won VCA (Valuable Contribution Award, organization level) for SIM (Supplier Information Management).
+2) Completed a Lean Six Sigma project on Aravo GSL. 
+3) Won Team Award.  (For year 2009)
+4) Cleared Level1 Internal Certification for Java/J2EE LOT in Patni.
+5) POB (Pat on back) for value addition in project by customer.
+
+
+Education Qualification:
+
+Sl no
+Type
+Institute
+% of Marks
+Year of passing
+1
+B-Tech
+National Institute of Science and Technology(NIST),Orissa
+73
+2008
+2
+ISC
+ST.Joseph’s Convent School, Orissa
+73
+2003
+3
+ICSE
+ST.Joseph’s Convent School, Orissa
+79
+2001
+
+
+  
+
+DECLARATION
+
+I hereby declare that the statements made above are true, complete and correct to the best of my knowledge and belief. I also certify that I am at present in sound and mental and physical condition to undertake employment with the organization.
+
+
+
+
+
+Date:          
+Place: Bangalore                                                                                       Mousumi Bej

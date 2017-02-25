@@ -1,0 +1,116 @@
+﻿Objective
+
+To work in an organization which uses my knowledge and skills for the development of its process growth while giving me opportunities to learn and enrich my knowledge.
+
+.
+Summary of Experience:
+Having overall 3+ years of experience in the Banking and Financial services sector.
+Onsite Production Support to National Bank of Kenya Nairobi.
+Good experience of handling clients.
+Worked under different teams such as Implementation Team, Development teams, Customer Services Team and professional services teams.
+Having good experience in implementing the core banking software.
+Experienced in Functional Testing, BAT (Build Acceptance Testing) and SIT (Site Implementation Testing) and giving support for the banks for their User Acceptance Testing (UAT) the product for the go live project. 
+Experience in analyzing and resolving customer issues on the product.
+Good communications ,inter-personal skills and Team player
+
+
+Education Details:
+Academic Profile: 
+B.E in Electronics & Communication Engineering.
+Passed out in 2008.
+Aggregate: 67%
+University: VTU, Belgaum, Karnataka.
+S.L.N College of Engineering, Raichur, Karnataka.
+
+Pre - Academic Profile: 
+PUC from L V D College Raichur in 2004 with 67%.
+SSLC from Kalmath School Manvi in 2002 with 87%.
+
+Technical Skills:
+Programming Languages	:  Java (JDK1.6.0)
+Query Language			:  SQL
+Client/Server Technologies	            :  JSP, JDBC
+Web Technology                               :  XML, HTML
+Application/Web-Servers		 :  Web Sphere 7.0 & JBoss 
+ORM Frame Work                              :  Hibernate 3.3                                                                   
+Development Tools		             :  Eclipse 3.4, Log 4j 1.2
+Support Tools			             :  Sales Force, HP-QC, SQL Workbench 
+Databases	                		 :  Oracle 10g, DB2
+Operating System			 :  Windows XP, UNIX
+Domain Knowledge	                        :  Retail Banking
+
+Professional Experience:
+Current Employer Details:
+Company: Fidelity Investments, Bangalore
+Designation: Software Engineer.
+Duration: Feb 2013 -Till date.
+
+Previous Employer Details:
+Company: Misys Software Solutions, Bangalore
+Designation: Support Consultant Associate. 
+Duration: Jan 2010 - Jan 2013.
+
+Achievements: 
+Handled Critical priority issues and was able to provide the solutions within the prescribed times lines.
+Onsite production support to National Bank of Kenya Nairobi. 
+Assisted many clients on implementation of various modules from offshore and as well as onsite.
+Supported the client with constant interactions from explaining the modules and assisting them all the way till Go Live.
+Received many appreciation mails from the clients and higher management of Misys.
+Trained colleagues and the new joiners on various modules of the product.
+Individual award winner for SLA adherence for Live critical and High cases
+Appreciated by the client for effective and timely support.
+
+
+
+Project Details:-
+
+Product: - Bank Fusion Universal Banking (BFUB)
+
+Clients: CRDB Bank Tanzania, Actinver Bank Mexico, BOC Bank London, BCB Bank of Bermuda, NBOK Bank Kenya, COPK Bank Kenya.
+Duration: From Jan 2010 to Jan 2013
+Role: - Support Consultant Associate
+
+Product Description	:  
+Bank Fusion Universal Banking (BFUB) is a customer-centric core banking system providing retail business functionality for both front and back office. UB is a true 24x7 real-time transaction processing system that removes the constraint of disabling all user interactions during end-of-day batch processing. Bank Fusion Universal Banking is the client application that is built on the Bank Fusion platform. The solution provides for a scalable, customizable banking solution. It covers a wide range of retail banking instruments such as lending, deposits, and payments in addition to supporting business and enterprise banking requirements including treasury and trade services. Audit, security and control capabilities allow for the effective management of bank processes and the deployed solution.
+The Misys Bank Fusion Universal Banking solution fully supports & compliments effective deployment and operation of the Universal Banking business model. It is a scalable, multi dimensional and componentized solution that enables ambitious financial intermediaries to deliver the same range of products and services as larger financial institutions at justifiable cost levels, and makes it possible for larger institutions to professionally manage and effectively serve the growing sophistication of client and market demands while efficiently executing high volume transaction processing.
+ 
+
+
+Responsibilities:
+Analysing functional and technical cases to provide a resolution within the Production Support Procedure (PSP) timescales to ensure customer satisfaction.
+New requirements gathering from client, Product consultancy, Support to production system issues. 
+Provide immediate fix /resolution when any critical case is raised.
+Development of change requests.
+Testing and preparing the fix.
+
+
+Software Used:Java1.6.0 , JSP, Hibernate, Oracle10g, DB2, Web Sphere 7.0.0.7,JBoss-4.0.5, Crystal Reports Server 11.0, LDAP, Web Sphere MQ 6.0.2, Apache ant1.8.
+
+
+
+
+
+
+
+
+
+
+
+Personal Profile:  
+
+            Name           	           : Manoj Kumar Mutalik
+            Father’s Name           : MuddurangaRao Mutalik
+            Date of Birth 	            : 12/05/1987
+            Sex  	                        :  Male 
+            Nationality                   : Indian
+            Status	                         :   Single 
+            Language Known         :  English, Hindi, Kannada and Telugu
+            Strengths                      : Honesty, Optimistic, Patience & Team Spirit
+            Hobbies                         :  Listening To Music, Reading Books, Playing Cricket      
+                                                                      
+Declaration:                                        
+
+ I do hereby ascertain that the above information provided by me is true to the best of my knowledge.   
+
+                                                                                             
+Place: Bangalore     					         Manoj Kumar Mutalik                                                                                                

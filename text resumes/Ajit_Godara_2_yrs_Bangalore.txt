@@ -1,0 +1,81 @@
+﻿
+Curriculum Vitae
+
+AJIT GODARA
+
+Address: #62&63, Narayana Swamy Reddy Layout, Electronic city-Phase 2,
+Bangalore 
+Phone: 8904048406
+E-mail: ajitgodara@rediffmail.com/godaraajit@gmail.com
+
+
+Objective: 
+
+To pursue a challenging career in the IT industry and work with the emerging technologies, where I can prove myself while being resourceful, innovative and flexible and use my skills for a continuous endeavor for growth and positive contribution.
+
+ Computer Skills: 
+
+Operating Systems 
+Windows XP/vista/Linux/Solaris/Unix
+Programming Languages
+C, C++,Unix System Programming, OS internal
+Tool
+IBM Rational Clear Case, SVN, Wireshark,AX4000,CT
+
+Academic Qualifications:
+
+
+Examination
+Board / University
+School/College
+Year
+Percentage
+B.Tech (Computer Engineering)
+Rajasthan Technical University Kota
+Govt. Engineering College Ajmer
+2010
+75.38(Hons.)
+XII 
+RBSE
+G.B.Modi Senior Secondary School,JJN
+2005
+88.62%
+X
+RBSE
+Keshav Adarsh Vidya Vihar,Jhunjhunu
+2003
+85.0%
+
+Work Experience:
+I have 2 year and 4 month experience in WIPRO Technologies LTD in Telecom Equipment Domain.
+Client: Nokia Siemens Networks
+Project: FSM3 WCDMA Transport Development
+Duration: 2 year 1 month
+I have worked in transport layer of FSM3 WCDMA base station. I have worked in application layer and device manager area. I have worked and good knowledge in network management agent (NMA), Site Management Agent (SMA) and Device Manager (DM) / Device Adapter area. I have worked and good knowledge in Certificate Management Protocol (CMP), CRL (Certificate revocation list), Light Weight Directory Access Protocol (LDAP), SSL (Secure Socket Layer), TLS (Transport Layer Security) and Socket Programming. I have good knowledge of GDB. I have worked and good knowledge in hardware management and alarm handling/Performance Management Counter.
+Design Pattern:  Observer pattern and Singleton Pattern
+Role: - C and C++ developer
+Award: - Feather In My Cap 
+Project & Training:
+
+1. Completed project training with HCL Technologies Ltd., BPO Services, Noida on Electronic Leave Management System.
+2. Built a project on Environmental Sustainability for Microsoft Imagine cup 2009 and selected at national level.
+
+Achievements & Extra Curricular Activities:
+     							
+1) 3rd topper of Computer Engineering branch. 
+2) Active Participation NSS at college.
+3) Participated on the short play on the topic female foeticide during college fest tarangini 2008.
+4) Received IOCL Scholarship on the basis of academic record.
+
+Hobbies: 
+ Playing Volleyball, Watching movies
+Personal Information:
+
+Date of Birth                 :         12-OCT-1988
+Father’s Name              :         Mr. Dayanand Singh
+Nationality                    :          Indian
+Sex                                 :          Male
+Languages Known       :          Hindi, English 
+Permanent Address     :          Shrimati Bhikaji Kama Vidya Vihar, Kisan Colony, Jhunjhunu             
+E-mail			   :	  ajitgodara@rediffmail.com/godaraajit@gmail.com
+

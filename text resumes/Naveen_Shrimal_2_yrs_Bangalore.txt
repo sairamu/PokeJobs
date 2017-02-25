@@ -1,0 +1,378 @@
+﻿
+
+
+Naveen Shrimal
+Ph. +91-814-717-5619
+Email:naveen.shrimal@gmail.com
+
+                                                                             
+                            										NAVEEN  SHR I MAL     
+Career Objective
+
+
+
+
+Experience
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Current Organization
+
+
+
+
+Work Experience
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Work Experience
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic
+Qualification 
+
+
+
+
+
+
+
+
+
+
+
+
+Technical Skills
+
+
+
+
+
+
+
+
+Strengths and Skills
+
+
+
+
+
+
+
+
+Interest and Hobbies 
+
+
+
+
+
+
+
+
+Personal Profile
+
+To have a steady learning through on-the-job environment in core application development projects and seeking challenging assignments in Software Development & Implementation. I look to  work in a team for the company with full vigor and purpose.
+
+
+2 Years experience in Curam, Java, J2EE, Struts 1.2 
+
+Experience in developing Web applications using JAVA/J2EE.
+Having good knowledge of Curam v6 OTB functionality, RSA.
+Experience in working of JBOSS 4.2.2
+Experience with Oracle 11g
+Experience on working Web-Services.
+Having a good Knowledge of Servlets/JSP
+Experience in working of MVC
+Experience in working of Struts 1.2 Framework.
+Experience in working  on HTML,JavaScript
+Experience in preparing the Test Cases, Product Design Requirement, Requirement Analysis, Impact Analysis (CMMI Docs).
+Good communication and interpersonal skills coupled with excellent problem solving expertise.
+
+
+
+ Working with IBM India Pvt. Ltd. For the past 10 months on UK Govt. project on Curam Technology (Curam V6 certified).
+
+
+
+PROJECT I
+
+
+
+IBM India Pvt. Ltd. (Dept. For Work and Pensions)
+
+
+Title		          :  DWP Personal Independence Payments Assessment Tool
+Environment	:   Curam v6, Java, Oracle ,Rational Software Architecture (RSA)
+Role	              	:   Requirement Analyzing, Software Developer
+
+
+Description	: The Department for Work and Pensions is responsible for welfare and pension policy and is a key player in tackling child poverty. It is the biggest public service delivery department in the UK and serves over 20 million customers.
+
+The Personal Independence Payment (PIP) has been introduced to replace Disability Living Allowance (DLA) for eligible working age people aged 16 to 64.The Government is committed to supporting disabled people to lead independent and active lives. It recognises that disabled people can face additional challenges to leading independent lives and is committed to maintaining an extra-cost, non-means-tested disability benefit to support disabled people.
+
+Modules Handled: Claimant Registration, Assessment File Type Creation, Outbound Web-Service to talk to another interface(PIP CS).
+
+Claimant Registration: This module handles the registration process for an eligible claimant for allowances with supporting evidences as provided by the claimant. This module comes into picture when the PIPCS is down or the claimant is NEW, in that case we won’t be able to have the details for the claimant so we have to register him/her.
+
+Overview: Claimant Registration requires some basic information’s related to claimant like
+
+A)  Identification proof information (NINO,SSN,CRN etc.)
+B)  Address proof related information
+C) Basic related information of the claimant (first,middle,last names, DOB,DOD, 
+     Other health related information's etc)
+
+Tools Used	: Curam V6, RSA (Rational Software Architecture), JAVA/J2EE, Web Sphere, Oracle11g, Sql Developer, Axure (to design UI prototype)
+
+Responsibilities:
+
+Involved in all the client and architecture related meetings.(UK)
+Actively involved in all the process of the project from scratch to deliverables.
+High Level Design Document Preparation (Interface Specification ,HLSO)
+Component Design Model (Low level Design document-Development Guidelines)
+Planning, Analysis and Design.
+Developed Claimant Registration Module,Outbound Web Service 
+JUnit test case preparation & execution.
+ Bug removal of various modules like Assessment File Creation, Phrase Capture Tool, Evidence Gathering etc .
+Coordinate with other team members to resolve issues.
+
+
+
+
+PROJECT II
+
+HCL INFOSYSTEM(Core Banking Solution)
+ 
+
+Title		:	           BancMate CBS
+Environment	: 	JAVA/J2EE, MS SQLSERVER2005.
+Role		: 	           Software Developer
+
+
+Description	:	India’s first bilingual (CBS) Core Banking Solution -Its purpose is to draw a computerized banking system. CBS 24x7 Enterprise Web Application provides a Central repository of Database, which is available for all the Branches of a Bank. CBS is a component based modular application which has been built on J2EE platform. These components leverage industry standard protocol and methodologies to seamlessly interface with multiple bank office systems & enable banks to offer a single point access to various products. It is inherently platform independent w.r.t. database, hardware & OS. 
+
+Core Banking is normally defined as the business conducted by a banking institution with its retail and small business customers. Many banks treat the retail customers as their core banking customers, and have a separate line of business to manage small businesses. Larger businesses are managed via the Corporate Banking division of the institution. Core banking basically is depositing and lending of money.
+
+
+Modules Handled: Major-Minor, Remittance, Customer ID Creation, Voucher Transactions, Account Editing on 3-tier architecture and Followed MVC framework.
+
+
+Customer Module: In this module when a customer opens any kind of  account, Bank has to open a new customer account with all information of the customer like name, address, contact number, PAN number, email ID, URL, category and other information. The opened account should be unique customer ID and it should be for whole bank. This customer id generated very first when customer wants to use banking services provided by bank.
+
+A customer can have its multiple accounts (deals) in same branch or in different branch or branches of bank. Every single account of that customer always identified based on the customer id. If there is a joint account then each member of the joint account must have his/her own unique customer id. 
+
+Overview: Customer id generation operation requires some basic information’s related to customer like
+A)  Identification of customer related information
+B)  Address proof related information
+C)  Introducer to customer information
+D)  Occupation related information
+E)  Family and insurance related information
+F)  Guardian related information if customer is minor
+G)  Spouse related information if customer is married
+
+Tools Used	: MS SQLSERVER2005, JAVA/J2EE, JBOSS 4.2.2, Eclipse IDE, Struts 1.2, EJB1.3. 
+
+Responsibilities:
+
+Understanding of the User Interface Requirement.
+Planning, Analysis and Design.
+Developing a new modules Account Detail in edit mode.
+Test case preparation & Execution.
+Customization & Bug removal of various modules like CustomerID,Account Open,Voucher Print Authorization, Maker & Checker ,BC Agent Details etc ,
+Performed Back-End testing by writing queries using SQL Server 2005
+Co-ordinate with other team members to resolve issues.
+
+
+
+B.Tech. (Honors)
+B.TECH. IN COMPUTER SCIENCE ENGINEERING FROM GYAN VIHAR SCHOOL OF ENGINEERING AND TECHNOLOGY, JAIPUR.
+
+Degree/Course
+Institute/College
+CPI / Percentage
+Year of Passing
+B.TECH.
+Gyan Vihar School Of Engineering And Technology
+71.00
+2011
+
+Senior Secondary
+CBSE
+73.80
+2006
+Secondary
+Rajasthan Board, Ajmer
+85.17
+2004
+
+
+
+Languages		           	      JAVA/J2EE 
+Framework                    	      Struts 1.2
+Web Technologies 	  	      HTML, JSP, Servlets, JDBC, EJB 1.3 and JavaScript
+Server			                     Apache 6, JBOSS 4.2.2
+Data Base		           	       MS SQL-Server 2005
+Platforms     		       	       Windows XP/Vista/7
+Tools and Utilities      	       Edit plus, Eclipse Jboss IDE
+
+
+ 
+
+Self Motivated
+Quick Decision Making Ability And Smart Working Attitude.
+Time Management Skills 
+Team Spirit, Will Power, Fast Learner
+
+
+
+
+
+Get information about latest technologies (Micro)
+Working on Mobile Firm wares (Nokia)
+Playing Cricket, Chess
+Travelling
+
+
+
+
+Father’s Name 		:	Mr. Shyam Lal Shrimal
+Mother’s Name		:	Mrs. Santosh Shrimal
+Address		           :	116-B, Surya Nagar, Taro Ki khoot
+                                        Tonk Road, Jaipur, Rajasthan.
+                                        Pin Code- 302029
+Date of Birth		     :	 01st September 1988
+
+
+
+
+

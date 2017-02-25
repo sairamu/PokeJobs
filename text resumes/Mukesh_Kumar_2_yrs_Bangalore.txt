@@ -1,0 +1,130 @@
+﻿
+Objectives
+
+In quest of a position that affords me the opportunity to bring my technical expertise, problem solving skills and willingness to learn to make an organization successful
+
+professional ABRIDGEMENT
+
+Software Developer with 2.9 years of experience in Analysis, Design and Development, of software application.
+Successfully managed development projects in supply and Retail management, Fraud Detection  using Java, DB2.
+Technical expertise in Software Development Life Cycle entailing requirement analysis, design, development, testing and deployment. 
+Adept in analyzing information system needs, evaluating end-user requirements, custom designing solutions and troubleshooting information systems.
+Excellent communication, interpersonal and analytical skills with proven abilities in resolving the complex software issues and a good team player.
+
+
+CAREER CONTOUR
+
+                    
+               IBM India Software Labs     (Software Developer)                       Apr 2010 –  Till Date
+                         
+
+Technical expertise
+
+
+
+
+Languages & Scripts
+Core java, Hibernate, JPA JDBC,Servlets, JSP
+Database
+:IBM DB2, MySQL
+Modeling Tool
+:IBM RSA, RTC Jazz
+IDEs
+:Eclipse IDE
+
+
+
+
+
+
+
+Scholastics
+
+
+B.E (Computer Science Engineering ) in 2009 from B.I.T.S with 73% 
+
+
+
+
+
+projects, Roles and responsibilities
+
+
+
+
+
+
+
+
+
+
+Project                        : IBM Global Data Synchronize is an ongoing business process that enables continuous exchange of data between trading partners (suppliers and retailers) to ensure synchronized information.  
+Responsibility            : Responsibilities include designing and including the frames based on Java. Responsible for the documenting, developing and maintaining the highly complex software application.Writing codes for New Features and Enhancement raised by a customer. Worked on some features in upcoming release. 
+Worked on integration of GDS and  Wodm  to provide the workflow and user to define his own rule set through a simple UI. This will help the user to frame his own custom rules according to their requirements .
+Debugging codes for fixing bugs. Implemented the Data Migration Features from 1.3.1 Environment to 9.1 Environment with the team and performed the Export & Import of Customer Data and checked the compatibility of data.  Provide unit and integration testing as required. Experienced in Software development and business modeling of Web applications, Client/Server systems, Distributed Applications and other custom-built projects on Linux and Windows. Thorough knowledge with J2EE application platform configuration and performance optimization. Hands on experience with J2EE application deployment technology, EJB transaction implementation (CMP, BMP, Message-Driven Beans) .
+Have excellent communication skills, work ethics and the ability to work well in a team or individual environment. 
+
+Key Assignments/Initiative: 
+Understood the existing framework and codebases of the product quickly and started participating in the various deliveries of the product.
+Analysis of the user requirements and helped in formulating the modules based on the requirements.
+Member of the team for generating ideas for the betterment of the product.
+Interaction with the customer on product related issues. Trying to solve the issues without much delay.
+Quality verification of the product in customer like environment.
+In-depth knowledge of the object oriented programming, object oriented analysis and development J2EE technologies.
+Sound knowledge of the Software Development Life Cycle and Web Sphere application server.
+Proficient in server side Java programming
+JAVA: Core Java, J2EE technologies including servlets, JSP,Hibernate, JSF,
+Working knowledge of the open source technologies like Eclipse, JavaScript, , Tomcat
+ Great knowledge of database such as My Sql, Db2.
+Exceptional ability to analyze and interpret technical and financial reports and legal documents also. 
+
+Use of Core Java, Hibernate, multi threading, JDBC, DB2 
+
+
+Project                        : Identity Insight The Identity Resolution process determines whether multiple records that appear to describe different individuals or organizations even with different attribute variations are actually records for a single identity. Once the process has determined that two or more identities are the same, it integrates multiple records into a single entity and assigns a unique identifier called a persistent key. The resolved identity data is presented in a comprehensive, unified view that maintains all of its original attributes, such as information about the individual or organization from prior records even identifying the source system records that provided the original data. 
+
+Responsibility            : Solving the Apars and Enhancement according to the market and customer needs.
+Key Assignments/Initiative: 
+Understood the working of the product and codebase of the product. Solving  the Apars related to products .
+Analysis of the user requirements and helped in formulating the modules based on the requirements.
+Code reviewed for the other developers and made performance improvements.
+Interacted with customers for better understanding of their requirements and market needs.
+
+   
+ACHIEVEMENTS 
+
+Promoted From Associate Software Engineer to Software Developer.
+Awarded as Eminence & Excellence Award in IBM.
+Awarded for Hard worker and for Dedication to Client.
+Awarded as Quick Learner in IBM 
+University topper of Engineering Mathematics.
+Organizer Member of National level event.
+Won applauds in Essay writing competition
+Member of School team in Basketball & Cricket.
+
+STRENGTH
+
+Analytical thinker that consistently resolves ongoing issues, defects.
+Optimistic with a positive approach with excellent problem resolving abilities.
+Team player with leadership skills. Can interact with people at all levels.
+Keen learning skills and an ability to imbibe new knowledge and technologies with ease.
+Strong mathematical and analytical skills with excellent domain knowledge and technical expertise.
+Hardworking with intense desire to learn and excel. Good communication and interpersonal with ability to work within specified deadlines.
+
+HOBBIES
+ 
+            Listening music, Gardening and chatting
+
+
+
+
+
+PERSONAL DETAILS
+
+		  Gender		: Male
+                          Marital status		: Single
+                          Languages		: English and Hindi
+                               Address		: House No 32, 6th  Cross, Laxmi Layout, Munnekolala
+                                                                          Bangalore 560036
+
+

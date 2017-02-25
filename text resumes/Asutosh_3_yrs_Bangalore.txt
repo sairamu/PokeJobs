@@ -1,0 +1,169 @@
+﻿
+Asutosh Pati
+
+Phone: +91 8095115654 / E-Mail: asutosh179@gmail.com
+
+
+
+Seeking assignments in Application Development with a growth oriented organisation.
+
+
+PROFESSIONAL SYNOPSIS
+
+A dynamic professional with 2 years 10 months of rich experience in Web Application Development.
+Presently associated with Infosys Limited as System Engineer.
+Adept in end-to-end development of windows and web application software products from requirement analysis to system study, designing, coding testing, de-bugging, documentation and implementation.
+Proven skills in handling various tasks for achieving business and individual goals.
+Bachelor of Technology (B-Tech) – Computer Science
+Excellent communication & interpersonal skills with proven abilities in resolving complex software issues.
+Have successfully domain and technical certifications available for System Engineer role.
+
+
+IT SKILLS
+
+
+Operating Systems	     :  Windows XP
+Languages / Frameworks	     :  Core Java, J2EE, JSP, HTML5, XML, JavaScript, Servlets, JSTL, Struts 1.2, Struts 2,JDBC
+RDBMS			     :  Oracle 10g
+Tools		 	     :  Toad, Filezilla
+IDE			     :  Eclipse, Rational Application Developer (RAD), BEA Workshop 9.2
+Version Control		     :  Visual Source Safe (VSS), Clear Case	
+Architectural pattern	     :  Model-View-Controller (MVC)
+
+ORGANISATIONAL EXPERIENCE
+
+
+Tenure	
+Company Name	
+Designation
+July 2010 till date
+Infosys Limited
+System Engineer
+											
+
+CORE COMPETENCIES
+
+Project Operations
+Implementation of assigned modules / tasks within deadlines.
+Done thorough testing which comprised of unit testing, regression testing and integration testing.
+Designed UTS of various requirements.
+Implemented the assigned modules and optimized it for performance tuning.
+	
+Web Application Design & Development 
+Understanding the technical & functional specifications.
+Design, development, testing, troubleshooting and debugging of the applications.
+Providing post-implementation, enhancement and maintenance support to client.
+          
+
+PROJECTS HANDLED
+
+
+Project Name:-
+Service Online (SOL)
+Skills:-
+J2EE, Java Script, JSP, Oracle 10g, HTML
+Environment:-
+Struts 2
+Team Sizes:-
+8
+Project Period:-
+6 Months
+Client:-
+Bank of America
+
+
+Project Description: 
+
+Service Online is a web-based channel for Middle Market, Business Banking, Large Corporate, Large Corporate Real Estate and Commercial Real Estate clients to input and track service requests. Clients can login to a secure site (www.bankofamerica.com/serviceonline ) and input requests for service on their accounts.  Clients can also track the status of their previously submitted service requests and communicate with the bank associate performing the service via the comments functionality.  Clients can be notified by email upon submission and status change of a request; this is a user definable setting.     
+
+Contribution:
+
+1. End to end testing of the application.
+2. Used soap UI tool for web service testing.
+3. Fixing of production defects and maintenance.
+4. Designed UTS for various requirements.
+5. Collaboration of WebEx chat services with SOL by using xml api.
+
+
+
+Project Name:-
+Trade Pro Admin Tool (TPAT)
+Skills:-
+J2EE, Java Script, JSP, Oracle 10g, HTML
+Environment:-
+Struts 2
+Team Size:-
+3
+Project Period:-
+6 months
+Client:-
+Bank of America
+
+
+Project Description: 
+
+Trade pro Admin Tool is a web application tool for Trade technology which provides a secure web user interface to search and maintain data in tables used by custom client agents, change auditing and also ability to maintain customer files required for supporting custom clients thereby avoiding delays in servicing customer requests.
+ 
+
+Contribution:
+
+1. Designed Unified test Scripts (UTS) for various requirements.
+2. Coded the Add/Update/Delete flow for all the modules which also included maintaining audit table for recording each and every action occurring in the application.
+3. Wrote a new utility method for displaying Date in a proper format in UI using SimpleDateFormat.
+4. Done Unit testing on individual modules along with regression and integration testing of integrated module.
+5. Provided post-implementation, enhancement and maintenance support to client.
+
+       
+
+Project Name:-
+Real Estate Equity Financial System (REEFS)
+Skills:-
+J2EE, Java script, JSP, Oracle 10g, HTML, JSTL
+Environment:-
+Struts 1.2 , 
+Team Size:-
+10
+Project Period:-
+1.7 years
+Client:-
+Bank of America 
+
+
+Project Description: 
+
+REEFS is a financial application used by Community Development Bank(CDB), that replaces existing Excel spreadsheets used for accounting that incorporates accounting rules, financial modelling functionality and interfaces with related Bank systems including ledger and wire.
+
+Contribution:
+
+1. Designed Unified test Scripts (UTS) for various requirements.
+2. Developed a new module called Cloning where users can clone some existing upper tiers with some fields having same values so that they don’t have to create same kind of upper tiers separately.
+3. Developed an entirely new and critical module called GL Process (General Ledger) which reduced human intervention and automated all the process of managing and searching accounts.
+4. Used Display tags for displaying fetched records from database and customized it for sorting and displaying in a proper format.
+5. Done Unit testing on individual modules along with regression and integration testing of integrated module.
+6. Done code review for some modules.
+7. Provided post-implementation, enhancement and maintenance support to client.
+
+
+
+
+TRAININGS AND CERTIFICATIONS
+
+Microsoft Certified HTML5, JavaScript Developer
+Completed training in Infosys Limited which comprised of C, java, RDBMS, JSF, Oracle, JPA, Pojo etc
+Completed domain certification on banking in Infosys.
+Completed technical certifications on basic and advanced java in Infosys.
+
+
+QUALIFICATIONS
+
+
+2010:	Bachelors Degree (B-Tech) – Computer Science and Engineering with 7.56 / 10 CGPI from Institute of Technical Education and Research (Bhubaneswar)
+
+XII   :	78%
+
+X      :	    86%
+
+
+
+
+

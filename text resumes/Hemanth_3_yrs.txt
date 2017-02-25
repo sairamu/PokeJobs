@@ -1,0 +1,79 @@
+﻿
+Career Objective
+To have a challenging assignment in the technological industry in a competitive, world class and quality driven organization with the scope for professional development and to contribute towards the achievement of the business objectives of the organization.
+
+Career Summary
+3+ years of relevant experience in analysis, design and development of Enterprise Application Integration (EAI) based application using JAVA/J2EE. Presently designated as System Engineer with Tata Consultancy and Services (TCS),  Bangalore. Well conversant in Java/J2EE.
+Good domain knowledge & comprehensive understanding of various Software.
+
+Technical Skill Set
+Languages : Java.
+Java skills: OO Design patterns, Socket Programming, JDBC,RMI,RMI-IIOP, Webservices,EJB.
+Framework: Spring(AOP,DI,Spring JDBC,Spring JMS,Spring RMI,Spring Transaction).
+Web/App servers: Oracle Web logic 10.3,IBM websphere.
+Worked on IBM MQ.
+Scripting :Unix Shell scripting.
+Internet Tools & Techniques : HTML.
+Good knowledge about TCP/IP.
+Operating Systems : MS-DOS, UNIX, Windows XP.
+Database : Oracle 11g
+IDE : Eclipse.
+
+
+
+
+
+
+
+Key Projects Undertaken
+Project 1
+Duration: 3.2 years
+Team size: 20
+Role: Programmer
+March  2010 - Till Date with Tata Consultancy Services
+
+Working as Systems Engineer in Tata Consultancy Services since March 2010.
+
+Projects:
+
+TCS Bancs Service Integrator (EAI):
+
+Service Integrator is a web based integration platform that enables seamless integration among various applications. It is highly configurable processing engines to tackle various integration challenges. It allows messages and files that are exchanged across multiple systems. High volume jobs processed using file based interfaces. It supports rich set of in-built adapters like FTP/SFTP, SCP, JMS, MQ, TCP-IP and COM and easy-to-use rules definition framework, enabling rapid integration with Financial Networks such as SWIFT, FIX, Link Up Markets and Feeds such as Reuters, Bloomberg, Telekurs. Configuration changes are flexible since it is incorporated through XML.
+Technologies handled: 
+
+Core JAVA, J2EE(JMS,JDBC, EJB’s, Web services,JAXB, XML ,XSL’s), Oracle SQL,MQ Series, IBM WAS, Oracle Weblogic and Shell Scripts, SPRING Framework.
+Application Servers Used:
+Oracle Weblogic.
+IBM Websphere.
+
+
+
+
+
+Role and Responsibility:
+Worked on Developing CR raised by the customers and other implementation teams(TCP/IP synchronous communication channel,MQ channel, DB to XML converter etc. ).
+Worked on Fixing defects raised by Testing and implementation teams.
+Deploying of the application on application server.
+Worked on POC(Proof of concept) for new customers who want to buy product on which I am working(Worked on POC’s done for SCB,Zions,Loyds Banking group UK etc. ).
+Provided offshore support for TCS Bancs implementation for SCB.
+
+.
+Education:
+
+Course Name
+University
+Completion Date
+%Aggregate marks
+B.E(Electronics & Communication)
+visvesvaraya Technological University
+July/2009
+75.26
+
+
+
+I hereby declare that the information furnished above is true to the best of my knowledge.
+
+
+Place:  Bangalore		Hemanth Kumar N T
+
+

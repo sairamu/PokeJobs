@@ -1,0 +1,106 @@
+﻿
+Nagaraj Bennisur
+Mobile: +918884199915
+Email: nbbennisur@gmail.com , n_b_bennisur@yahoo.co.in
+
+
+Utilizing and enhancing my potential by working in a suitable environment comprising of technical expertise, that will allow me to grow professionally as well as personally
+
+
+BRIEF  OVERVIEW__________________________________________________________________________
+
+A BE (Computer Science) graduate from PDA College of Engineering, Gulbarga (affiliated to Visvesvaraya Technological University)
+2 Years of programming and application development experience with analysis, design & coding in Java. 
+Domain expertise in banking sector.
+Worked on Globally accepted ISO 8583 banking transaction format.
+Self motivated individual with strong analytical and planning skills.
+Effective communication & interpersonal skills and expertise in working in highly competitive environments.
+Strong debugging and problem solving skills with excellent understanding of system development methodologies, techniques and tools.
+Delivering Results equally well on own initiative or in a group.
+Worked on Govt. Of India initiated NREGS and SSP programmes.
+Quick learner with ability to grasp new technologies.
+
+
+TECHICAL SKILLS________________________________________________________________
+
+Operating System		:	Windows XP, Linux
+Programming Languages		:	Java, MySQL
+J2EE Technologies	            :  	Servlets, JavaScript
+Application/Web Servers		:	Apache Tomcat, JBoss 4.0
+Tools 		                        :	NetBeans 6.8/7.0, SQLYog Ultimate, iReport 4.0
+Database            		:	MySql 5.0
+	
+
+WORK EXPERIENCE______________________________________________________________
+
+
+INTEGRA MICRO SYSTEMS (P) LTD, BANGALORE INDIA
+
+As Senior Software Engineer.
+
+Project #1                       :             Integra's Mobile Financial Applications Secure Terminal (iMFAST)
+Clients   		: 	Corporation Bank, Indian Bank, CBI, PNB, PGB etc
+Team Size		:	4
+Duration		:	March 2011 – Till date
+Technologies		:	Java, MySql, JSP, JavaScript
+Description                    :	
+
+iMFAST: Integra's Mobile Financial Applications Secure Terminal (iMFAST) is a platform designed to handle financial applications specifically targeted at rural customers.
+         It offers all the advantages of the current day mobile banking environment, in a secure manner. The Terminal is highly secure as it uses RFID technology for identification and Biometrics for authentication. The device also requires online secure confirmation for the transactions made and thus facilitates absolutely safe transactions at the cost of a mobile phone call. The device uses normal phone connectivity for transactions and in areas where there is no phone connectivity available, it can record all the transactions offline and transfer them onto the server later, which makes it more flexible to use in the remote rural areas of the country. The Terminal gives a voice guidance support in the local language for the customers to self-operate the Terminal with minimal help. 
+
+
+Responsibilities:
+
+iCSDataSync Application
+Implemented File Parsing and File processing thread using Core Java and Swings Framework.
+Used Multithreaded Programming.
+Runs as both Background and Foreground process.
+XML files are used as configuration process and USP (User Defined Procedure) for business logic.
+Live implementation of ISO 8583 message format for Central Bank of India (CBI) CBS and 4 RRBs to send and receive financial transactions online.
+Worked on web based Management Information System (MIS) portal.
+Developed complete Data Management Application starting account opening and preprocessing applications to sending transactions to bank.
+Enrollment application Design and Implementation using Core Java and Swing Framework.
+Transaction Scheduler application Design and Implementation using Java Mail and SFTP.
+Client interaction for resolving issues.
+Deployed the System at the client premises.
+Reconciliation module implementation and extensively worked on reconciliation process.
+
+Project #2                       :             Remote Maintenance System (RMS)
+Clients   		: 	Integra Micro Systems Pvt. Ltd. (Product).
+Team Size		:	2
+Duration		:	March 2012 – May 2012
+Technologies		:	Servlets, JSP, JavaScript, JDBC
+Role in the project	:	Software Engineer
+Description                    :	
+
+Remote Maintenance System (RMS) is web based portal in which software, Account number change, Card Id change, Terminal Id change and terminal software updations can be done remotely.
+
+Responsibilities:
+
+Understanding requirements, analysis and designing System and Database. Coding, debugging and unit testing.
+Implemented master management module in portal.
+
+
+PERSONAL DOSSIER_____________________________________________________________
+
+Name    		: Nagaraj B
+Father’s Name		: Basavaraj B
+Date of Birth		: 2nd June 1989
+Sex       		: Male
+Nationality		: Indian
+Marital Status		: Single
+Linguistic Skills		: English, Kannada and Hindi.
+Present Address             : #23/1 2nd Main 4th Cross Beside Maheshwaramma Temple Hosahalli Vijayanagar 
+                                      Bangalore – 560040 Karnataka.
+Permanent Address        : #9-587/29/3B Vishwaradhya Colony Aland Road Gulbarga – 585101 Karnataka. 
+
+DECLARATION__________________________________________________________________
+
+ I hereby declare that all the information given above is true to the best my knowledge and belief.
+
+                                                                                                                             Nagaraj B
+
+REFERENCES___________________________________________________________________
+
+ Available Upon Request.
+

@@ -1,0 +1,163 @@
+﻿             
+Name:  ARUN KUMAR.G                                                                                          
+Email: arunkumar.ganitam@gmail.com                                                                                  
+Mobile: +91-9739887690                                                                                                                                                                                                                                               
+                                                                                                                                                                                                  
+                                          
+
+Experience Summary:
+
+3.9  years of Total experience in Design and Development of Web based Applications in Java, J2EE and relational database.
+
+Employer
+Serving Period
+Designation
+Micro Terra Systems Pvt Ltd
+  June 2009 to till date
+Software Engineer
+
+Professional Experience:
+
+Good experience on Core Java (OOP’s, Multithreading, Exception Handling, Collection API) and J2ee
+               (Servlet, JDBC, JSP).
+Good   exposure   in  strutcs and SQL.
+Worked on  Web  Server  Apache  Tomcat  5.5.
+Worked on IDE’S and Good exposure on Hibernate.
+Worked on MVC Architecture and Java Scripting.
+
+Technical Skills:
+
+Operating Systems Worked on:    Windows XP
+Sun Technologies: 	Core Java(JDK 1.5), J2EE(JSP, Servlet, JDBC)
+Databases worked on: 	MYSQL.
+Architecture Frameworks:              Struts 1.1, MVC Architecture.
+IDE’S: 	My Eclipse 6.0 and Eclipse 3.1.
+Web and Application Servers: 	Apache Tomcat 5.5.
+Web Technologies: 	HTML, XML, Java Script.
+
+Education Qualification:
+
+Bachelor of Engineering in Electronics and Communication   Engineering from JNTU,  Anantapur.
+Board Of Intermediate Education from Sri Ranganatha Junior College, Madanapalli.
+SSC from Vidyodaya High School, Madanapalli.
+
+Strengths:
+Flexible to any environment. 
+Good organisational skills.
+Self confidence.
+
+
+Current Job Profile:
+
+Working as J2ee Developer(Software Engineer)
+Worked on Understanding the Requirement and done POCs.
+
+
+
+
+
+Projects:
+
+Project 1:     
+Name		:	Arzoo 
+Client                    :        Navin Communications, USA
+Size	           :	        5	
+
+Environment  	 :	J2SE1.5, Struts1.2, JavaScript, HTML
+
+Project Description:
+	Arzoo.com has been launched with one vision - "To be your travel partner". Arzoo aims to be a one stop shop for travel, where all the varied and drivers needs of customers are taken care of and satisfied, while planning a trip. Arzoo serves different consumer segments viz. individuals, families and businesses. 
+
+Arzoo Modules:
+Air Ticket Bookings (Domestic and International)
+Hotel Bookings
+Holiday Packages (Domestic and International)
+Weekend Getaways
+Corporate Group Incentive Holidays
+Car Rentals
+Travel Insurance
+Foreign Exchange for Travel
+Roles/Contributions:
+Flight Search and Flight Reservation module
+Hotel rooms availability and booking module.
+Customer Registration module and Login module.
+Image Upload 
+Responsible as a team member in coding and understanding the existing system.
+Developed Servlets and Java Server Pages.
+
+
+ 
+
+
+Project 2:     
+ Title                  :  ACEntricit
+Client                :  Acentricity Solutions, US
+Role                  : Software Engineer.
+Environment     :  JAVA, Java Server Pages (JSP), Servlets
+Project Description: 
+                               ACEntricity is CRM Software designed for Group Health and Life business market place. It is a web-based system which is used by the insurance agency to supplement the needs of any organization which provides policies to their employees. This application targets to become a central point to all the process of the Insurance Organization. The application besides maintaining all the details about Types of policies, Transactions of organization, Approval of policies, Sanctioned policies of Customers, Sanctioned policies of Employees, Premium List of policies, Companies and Carriers, it also manages workflows, which are assigned to various categories of staff of an agency. This project is implementing by using extensive use of J2EE technologies and Struts, ORM Integration.
+Responsibilities:
+Involved in Coding using Java, JSP, Servlets and JavaScript.
+Designed and developed the front end using HTML and JSP.
+Development of Servlet code as a handler for the request from the client end.
+Involved in client interaction
+Reaching the SLA target (Service line agreement) with in the period. 
+Gathering the assigned task information from the end user.
+Involving in the service improvement
+
+Project 3:     
+ Title                  :  Online Banking System      
+Client                :  JPMorgan Chase, Arizona, UK
+Role                  : Software Engineer.
+Environment     :  Java , Jsp , Servlet , Jdbc
+
+
+
+
+
+
+Description: 
+              Chase Online Banking System is an internet banking system, which helps the customers to make online transactions. This banking system contains two types of transactions. They are Customer Transaction and Banking Transaction. In this banking transaction, the user has to give his customer id and password. Then he will be giving the list of transaction like balance enquiry, transaction enquiry, Transferring money from one account to another account, fixed deposit, position, fixed deposit renewal, check status, stop payment of checks etc.
+Responsibilities:
+Involved in Analysis and documentation.
+Involved in Designing interfaces of project.
+Involved in development and deployment of project.
+
+Personal Details:
+
+Father’s Name 	:
+Nagappa.G
+
+Date of Birth 	:
+18-07-1987
+
+Sex 	:
+Male
+
+Present Address             :
+402-28-1,16th Main,BTM 1st            Stage,Bangalore
+Venkateshwara layout,
+BTM 1st Stage,
+Bangalore
+Venkateshwara layout,
+BTM 1st Stage,
+Bangalore
+Venkateshwara layout,
+BTM 1st Stage,
+Bangalore	.
+
+
+Languages Known 	:
+English, Telugu and Hindi.
+
+Phone 	:
++91-97398 87690
+
+
+Declaration:
+
+I here by declare that all the statements given above are true to the best of my knowledge and belief.
+
+Place:   Bangalore
+
+ARUN KUMAR.G

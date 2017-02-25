@@ -1,0 +1,77 @@
+﻿
+		CURRICULUM VITAE
+
+AKSHAY SRIVASTAVA
+548/C-233,
+Chandrodaya Nagar,
+Rajajipuram, Lucknow. 
+Mobile no: +919019680541
+E-mail id: akshay.s.leo@gmail.com
+
+
+
+
+OBJECTIVE
+
+To work in a challenging atmosphere where my professional growth gets an edge to sustain in this highly competitive world and give me a suitable platform to sharpen my technical skills.
+
+WORK EXPERIENCE   
+
+2.5+ years of work experience in Java, J2EE and Web development.
+
+Via.com (Apr’11 – Present): Software Engineer on Hotels platform of Via.com, with hands on experience in various Web Services(JAXB and WSDL), Hibernate and other web development technologies. 
+Infosys Technologies Limited(July’10 –Mar’11): Worked in the Java development team of Infosys for their client ‘Charles Schwab Bank.’ Major work exposure was on Core Java, J2EE.
+
+INTERNSHIP
+
+Final Semester Internship (Feb’10-Jun’10) at Infosys Technologies Limited Mysore,   was trained in Java, Hibernate and developed a Bulletin Board for the Infosys Mysore Campus.
+
+PROJECTS DETAILS:
+
+	TEAM     :      Via.com Hotel Product Development Team
+	ROLE     :      Software Developer
+	PERIOD :      April 2011 Onwards
+
+Centralized Hotel Booking System: A centralized booking system which could process bookings from different customer flows given Via’s huge customer base and various possible ways of booking. The system allows booking to be done online from the website or manually from the Via operation team’s end. The system implementation involves the Core Java, web development with use of data structures like Hash Maps, Set etc.
+
+Web Services / API Integration: Integrated APIs from different service providers, using the web services technologies like JAXB and WSDL. Designed and developed a scalable model for the API integration with the current hotel platform of the website. The technical integration involved XML processing and Java-XML mappings using JAXB.
+ 
+Inventory Management System: Designed, developed and maintained the Inventory and Pricing Management structure for Hotel product. This system is used to update the inventory of various hotels, their pricing, and the commission structure. The update can be done by the Hotels, or even the operations team.
+
+TECHNICAL PROFICIENCY
+
+Languages				: C, Java/J2EE
+Frameworks				: Hibernate
+Server Technologies			: JAXB,  XML processing
+Database Tools			: MySQL, PostgreSQL
+Tools and IDE’s                      	: ECLIPSE,SVN,ANT
+Operating Systems			: Windows, Linux
+
+
+ACADEMIC RECORD
+
+B.Tech (IT)
+2006 – 2010
+Amrita School Of Engineering, 
+Coimbatore, Tamilnadu
+8.44 GPA
+12th 2004
+Lucknow Public School,Lucknow
+84.2%
+10th 2002
+Lucknow Public School,Lucknow
+86.4 %
+	
+
+PERSONAL PROFILE
+
+Father’s Name				: H.K. Srivastava
+Mother’s Name			: Madhu Srivastava
+Date of birth				: August 19, 1987
+Languages				: English, Hindi 	
+
+Date: 21-02-2012				        		
+Place: Bangalore							
+
+
+(AKSHAY SRIVASTAVA)

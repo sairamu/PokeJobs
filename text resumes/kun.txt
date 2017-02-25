@@ -1,0 +1,154 @@
+﻿
+Kundan Kumar
+
+
+Mobile:91-8147652600                                               E-Mail :k7kundan@gmail.com
+
+ Summary of Experience
+
+3+years of Experience in IT Industry in Developing JAVA and J2EE applications using Web logic, Tomcat, Eclipse Broad Vision.
+Good Experience in Developing Applications using JAVA and J2EE (JDBC, JSP, Servlets, Broad Vision, Java Script, Struts, and Hibernate).
+Work on both agile and waterfall development techniques.
+Skilled in requirements analysis and project documentation.
+Able to communicate effectively with both technical and non-technical project stakeholders .
+Expertise in current and emerging trends and techniques.
+Proficient in coding and developing the new programs.
+Experience in Struts Framework.
+Experience in Dax Framework.
+ Experience in BROAD VISION 7.1
+Experience in J2EE Design Patterns.
+Experience in Hibernate Framework.
+Experience in XML.
+Knowledge in java Script  
+Knowledge in   Log4J, CVS, Eclipse, CSS. 
+
+Organizational Experience 
+
+
+Hewlett-Packard global Soft(HP) Sep2012 to till
+Tech Tree It System Pvt Ltd May 2010 to July 2012
+Academic Background
+ 
+B.Tech from CUSAT(Cochin University of Science and Technology)
+12th From BIEC Patna
+
+
+
+Skill Set
+
+Operating System		: Windows 98/2000/XP
+Languages			: Java, Java Script, SQL, HTML, XML
+J2EE Technologies		: JDBC, Servlets, JSP
+Frameworks			: Struts, Hibernate, Dax Framework.
+Technology            	: Broad Vision.
+Database                         	: Oracle, My Sql
+Web Server           	: Internet information Server (IIS), Tomcat
+Application Servers	: Broad Vision, Web Logic.
+Design Pattern 		: Dao, Singleton, J2ee
+IDE			          	: Eclipse
+Miscellaneous		: SVN, CVS
+
+Project #1                                                                                        Date: Sep 2012 to till
+
+Project Title		 : eComCat
+Client Name		 : Hewlett Packard
+Team Size 		 :12
+Environment		 :Core Java, JSP, Java Script, Struts, Dax Framework, Web Logic, Jdbc , JBuilder, Toad
+Database			 :Oracle 9i,PL/SQL
+Application Server  	 : Web Logic
+Design Pattern		 : Dao, Singleton,Mvc
+
+Description:
+. Catalog management includes data sourcing, customization and publishing. The first stage is the data sourcing. Here all the information needed for catalog management is aggregated. Various sources provide the data required. These sources are Eclipse, GPSY, PATSY and a few other sources. These sources contain product, pricing, purchasing, order management and all other necessary information
+Next section is the customization section. Here is where Ecomcat is into action. It contains its own worldwide database called WW ECOMCAT PIT DATABASE. The ECOMCAT catalog engine which is present works with this database to provide the required customization. The final stage is publishing. In this stage the ECOMCAT engine outputs the catalogs into third party tools such as E-Prime, E-Procurement and traditional Non E-customers
+
+Responsibilities: 
+Responsible for writing Struts Action classes for the controller layer.
+Responsible for writing the JSPs page for the presentation layer.
+Used Struts Tiles and Validation Framework.
+Implementing Dax Frame work.
+Written Java Script for the client side validation.
+To written the log message in log file used Log4j
+Responsible for Software testing and quality assurance
+Responsible for software analysis, code analysis, requirement analysis and system risk analysis
+Identify new technologies for implementation
+Prepare software designs as per the requirements of the clients
+Modification of existing software to improve its performance
+Used design Pattern techniques in modeling the components
+
+Project #2                                                                               Date: Dec 2011 to Aug 2012           
+
+Project Title		: Payment gateway Module
+Client Name		: Malayala Manorama
+Team Size 		:7
+Environment		:Core Java, JSP, Java Script, Struts, Hibernate, Web Logic and Oracle, Toad
+Application Server	: Web Logic
+Design Pattern	           : Dao, Singleton, MVC
+
+Description:
+M4marry is Kerala's Biggest Malaya lee Matrimonial Site. It helps to search the Kerala brides and grooms Partners from all communities in the world .This is a complete wedding portal.
+Visitors can Register Free and   quick for this site. After register the form visitor can search the soul mate easily. After the Registration   visitors can change the password, update the Address, Contract Information, Visitor can search the partner as he preferred match. 
+
+Responsibilities: 
+Responsible for written Struts Action classes and JSPs.
+Responsible for written the Broad Vision 
+Used Struts Tiles and Validation Framework.
+Written Mapping Documents.
+Written java Script for client side validation.
+Identify new technologies for implementation
+Prepare software designs as per the requirements of the clients
+Modification of existing software to improve its performance
+
+
+
+
+
+
+
+
+Project #3                                                                               Date: Feb2011 to Dec 2011
+
+Project Title		: Online Banking
+Client Name		: May bank  Malaysia
+Team Size 		:10
+Environment		: Java, JSP, Servlets, Java Script, Struts, Hibernate, Web Logic.
+Database			: MySql
+Application Server      : Web Logic.
+
+Description:
+Web-Banking Module is an Internet Banking Application. It provides very useful features to the bank customers who have registered for Internet banking facility. It is a free registration facility provided by the bank. Once the customers register for online banking facility, they will be provided with a USERID and a password to carry out the online transactions in a secure manner.  Some of the main online Banking features include.
+
+Responsibilities: 
+Responsible for writing Struts Action classes.
+Responsible for writing the JSPs.
+Used Struts Tiles and Validation Framework.
+Written Hibernate Mapping Documents.
+Responsible for written the Persistence class in hibernate
+Written java Script for the client side validation. 
+Identify new technologies for implementation
+Prepare software designs as per the requirements of the clients
+Modification of existing software to improve its performance
+
+
+Project #4                                                                              Date: May 2010 to Feb 2011
+Project Title		: Online News Portal
+Client Name		: Malayala Manorama
+Team Size 		: 10
+Environment		: Java,Jsp,Servlet ,Java Script, Broad Vision, IIS and Oracle
+Application Server	: Broad Vision 7.1
+Web Server		: IIS
+
+Malayala Manorama: is a daily newspaper in Malayalam Language published in the Kerala India. It was first published as a weekly on 14 March 1890, and currently has a readership of over 20 million 
+It has 32 publications all over India in five languages
+Responsibilities:
+Responsible for writing Programs , Channel , Content, Category
+Used Struts   Validation Framework.
+Written Mapping Documents.
+Written Broad vision
+Written java Script for client side validation
+Identify new technologies for implementation
+Prepare software designs as per the requirements of the clients
+Modification of existing software to improve its performance
+
+
+

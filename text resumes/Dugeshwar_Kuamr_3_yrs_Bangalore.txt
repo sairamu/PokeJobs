@@ -1,0 +1,170 @@
+﻿.
+                                                                                  Mobile: +91-8792345238
+                                                                                  E-mail: dugeshwar12@gmail.com 
+                                                                                        
+SUMMARY
+
+
+3+ years of Experience in IT Industry in Developing JAVA and J2EE technologies.
+Experience in Java, JSP, Servlets and JDBC.
+Experience in Struts Framework.
+Experience in Hibernate Framework.
+Experience of Spring Framework.
+Experience in J2EE Design Patterns.
+
+
+PROFESSIONAL SUMMARY
+
+Company Name
+Position
+Duration
+Crimson Logic
+Java Developer
+March 2011 to till Date
+SLK Software
+Java Developer
+Oct 2009 to Feb 2011
+
+
+Education
+
+
+BE (Electrical & Electronics) from Institute of Engineering & Science, IPS Academy Indore in Jun 09
+
+Skill Set
+
+Operating System
+Windows Family.
+Languages
+Java, SQL,HTML
+Web Servers
+Apache Tomcat.
+Java Technologies
+J2EE (JDBC, Servlet, JSP).
+RDBMS
+Oracle, MySQL
+Frameworks
+Struts, Hibernate, Spring
+Misc
+Ant,Log4j
+
+
+
+
+
+
+
+Project Details:	
+
+Project# 1                                                 
+Mortgage-PLUS
+Client
+Habib Bank, UK
+Team Size
+12
+Roll
+Team Member.
+Duration
+Nov 2011 to Till Date
+Environment  
+Jsp, Struts, Spring, Hibernate, Eclipse, MYSQL
+Web Server
+ Tomcat.
+
+Project Description:
+
+ The objective of Mortgage-PLUS (loan against security of collateral for housing purpose) is to cater to the software requirements of the departments involved in sanction and disbursal (pre and post) of loans against the collateral for housing purpose, in order to provide efficient customer service. The end plan is to have Mortgages-PLUS as a separate system. The system takes the entire flow right from sourcing the application by the sales department with or without the help of DSA through the credit department. In the credit department the loans are sanctioned based on the eligibility criteria of the applicant, to the operations dept. where the disbursals are made and subsequent follow up done for recovery if any.
+
+Responsibilities:
+Responsible for writing Struts Action classes and JSPs.
+Used Struts Tiles and Validation Framework.
+Implemented Form Beans Validations using Validation Framework.
+Written DAO’s and their implementations With Hibernate.
+Written Hibernate Mapping Documents
+Written Spring Business Services.
+
+
+
+Project# 2                                                 
+Sales Information
+Client
+Wintel Software’s USA.
+Team Size
+8
+Roll
+Team Member
+Duration
+March 2011 to Oct 2011.
+Environment  
+Java, Jsp, Struts, Hibernate, Eclipse, Oracle
+Web Server
+Tomcat
+
+Project Description    
+
+This System is about the web based company information which provides the user with all information regarding the functionality of the company.  It involves the Inventory, Accounts, Sales and Marketing Activities.  Sales Management System is for marketing and sales staff for providing information regarding Products, price, Discounts, Taxes Product Specifications and Configurations for the products dealt by the organization,  Orders booked by customer, Competitor information, Product availability, shipping Details and Customer details.
+
+Responsibilities:
+
+Responsible for writing Struts Action classes and JSPs 
+Implemented Validation using Struts validation framework.
+Written Hibernate Mapping Documents.
+Written Hibernate Persistence Classes.
+
+
+
+Project# 3                                                
+Rewards for Action (RFAR)	
+Client
+United Health Group.
+Team Size
+10
+Roll
+Team Member
+Duration
+May 2010 to Feb 2011
+Environment
+Java, Jsp, Struts, JDBC Eclipse, Oracle
+Web Server
+Tomcat
+
+Project Description:  
+
+The Rewards for Action - Replacement (RFAR) pilot application is a stand-alone module that contains multiple disease and wellness management programs.  Consumers will enter the application through the Health AtoZ portal.  Consumers will be able to earn incentives for following the advice given in the online disease and wellness management applications.  
+It uses a very common layered approach for web applications based on Spring MVC, service for transactions, andHibernateORM.
+RFAR depends on some external systems.  SSO from V2 is provided by Ping Federate.  RFAR also invokes the UPM Read Consumer web service to get the I Plan Indicator for the member.  Articles and videos are associated to RFAR programs and retrieved from Vignette
+
+Responsibilities:
+
+Designed JSP’s as per the Requirement.
+Implemented Action Classes.
+Implemented Form Beans and their Validations using Validation Framework.
+Updated Struts configuration file, Validation and tiles xml document
+Written DAO’s and their implementations With JDBC.
+
+
+Project# 4                                                
+Order Management
+Client
+SAFCO (Saudi Arabian Fertilizer Company
+Team Size
+8
+Roll
+Team Member
+Duration
+Oct 2009 to April 2010
+Environment
+JSP, Servlets, JDBC, Log4J,Eclipse,MYSQL
+Web Server
+Tomcat
+
+Project Description: 
+The system developed for distributor of Fertilizer Company. System automates varies functionalities of distributor agency via Purchase order, Purchase return, Amendments, sales Order, Sales return, Bill Generation, Goods rejection etc. system also generates necessary reports via Debtor’s A/c, Payment Recovery etc. The project also maintains the customer contact program for distributors/dealers and their customers. The project maintains the complete history for fertilizers sold to a company.
+
+Responsibilities:
+
+Implemented JSP`s for the Presentation
+Implemented Servlets for the controller logic.
+Implemented JDBC Components for the persistence logic.
+Implemented Client side validation using Java Script
+Implemented Based on MVC Architecture

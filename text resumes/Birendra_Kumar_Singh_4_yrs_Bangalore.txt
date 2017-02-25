@@ -1,0 +1,192 @@
+﻿
+                                                                             	Email: birendrakddd@gmail.com 
+                                                                                     +91 9900754474
+ Birendra Kumar Singh                                                                      _______________________________________________ 
+
+
+Objective
+
+To work with a growing and dynamic organization as a software developer, where I can use my technical skills to convert my ideas into realty and contribute to the organization in its growth.
+
+PROFESSIONAL SUMMARY                                                                                           
+
+Having 4+ years of experience in JAVA and J2EE Environment.
+Expertise in Web Services(Axis 1.4, IBM WebSphere JAX-RPC, IBM WebSphere 
+JAX-WS, JAX-WS), JMS, EJB 2.x, 3.x(Session Bean, Message Driven Bean),Struts1.x, 
+Hibernate 3.x, Spring 2.x
+Good Knowledge of RESTful web services (Jersey), SOAP Over HTTP & SOAP over JMS using EJB Web Services.
+Excellent analytical and programming skills.
+Quick learner and ability to grasp new technologies.
+
+
+Work Experience
+
+Presently working as a Sr. Software Engineer on J2EE platform with Capgemini Consulting India Pvt. Ltd, Bangalore since October 2009 to till date.
+
+Previously worked as a Software Engineer (Dev) on J2EE platform with R2K Software India Pvt. Ltd, Bangalore since  July 2008 to August 2009    
+
+
+Technical Skills
+
+Operating Systems		:	Windows 2003 Server, Windows XP, Windows 7
+
+Languages			:	C, Core Java 1.6, JavaScript, HTML, XML
+
+Technologies			:	Servlet, JSP, EJB, Struts 2.0, JSF, Portlets , Ajax, Ant, Log4j,
+FileNet, SOAP Over HTTP & SOAP over JMS using EJB Web Services, VSS, RESTful web services(Jersey)
+
+IDEs				:	Eclipse, EditPlus 2,  MyEclipse 7.0, NetBeans, RAD 7.0 & 7.5
+
+Web Servers			: 	Tomcat4.x, 5.x, 6.0, 7.0
+
+Application Servers	: 	BEA WebLogic 8.1, Oracle WebLogic Server 10gR3, 11gR1,  
+					Oracle WebLogic Server 12c, WebSphere 6.0, 6.1, 7.0, jboss,
+					IBM  WebSphere Portal Server, Liferay Portal server
+
+MOM				:	WebSphere MQ V7.0.1.3 (JMS Server)
+
+RDBMS	: 	Oracle 9i, Oracle 10g, MS SQL Server 2000,  MySql
+					
+Project Details                                                                                                                                 
+
+1. Project			:	CIA WLPECM Web Services Layer
+    Client			:	WELLPOINT (USA)
+    Operating System 	:	Windows 7
+    IDE	:	RAD 7.5
+    Application Server	:	WebSphere 7.0
+    MOM	:	WebSphere MQ V7.0.1.3
+    Technologies			:	JDK1.5.0, Web Service (IBM WebSphere JAX-WS), EJB 3.0
+                           			(Stateless Session Bean, Message Driven Bean), JMS 1.1,
+					Log4j, FileNet4.5, xml
+    Duration 			:	Dec-2011 to till date
+    Team Size			:	8
+    Role				:	Developer
+
+
+PROJECT DESCRIPTION:
+	Wellpoint uses Blue2 application to facilitate Inter-Plan business processes in real-time. These processes include claim submissions and adjustments, claims settlement, exceptions management etc. For this purpose, Wellpoint uses a web services toolkit is called WLPECM. The initial client application will be Blue2, but the WLPECM web services must have the flexibility to allow other applications to utilize these web services for content access in the future. 
+     	The WLPECM Web Services Layer consists of these layers: Core Enterprise WLPECM Layer, Plan Processing Layer, Individual Content Connectors. The basic functions of WLPECM web services are Search Repository, Get Document, Store Document, Create WorkItem, Get WorkItem etc. 
+
+Responsibilities:		 
+Responsible for creation of Enterprise WLPECM Layer
+Responsible for creation of JMS Layer, Stateless Session Bean and Message Driven Bean for asynchronous communication
+Responsible for integrating WebSphere MQ with WebSphere
+Responsible for creation of request xml and response xml
+Responsible for parsing xml data using sax parser
+Helping QA team
+Ensured timely deliveries of work requests
+
+2. Project			:	Training and Licensing 
+    Client			:	MetLife India Insurance Company Limited
+    Operating System 	:	Windows XP
+    IDE	:	RAD 7.0
+    Application Server	:	WebSphere 6.0
+    Midrange computer	:	AS/400 (eServer iSeries)
+    Technologies			:	JDK1.4, Struts1.1, Hibernate 3.0, Spring 2.0, .NET Web
+                          			Services, Java Script, Ajax, xml, Log4j, FileNet3.5
+    DB				:	DB2
+    Duration 			:	Jan-2011 to Nov-2011
+    Team Size			:	5
+    Role				:	Developer
+
+PROJECT DESCRIPTION:
+	It is an end to end process that helps to track and act of a Financial Advisor (FA) applicant. An applicant has to go through many stages like registration, document verification, training, giving IRDA exam, receiving license. Training and Licensing software is useful for managers and back office team to go through this whole process.
+	This project has following basic steps: Agent Details, Checking Documents, Fixing Training data, Monitoring Training, Booking etc.
+Responsibilities:		 
+Responsible for stub creation of .net web services
+Responsible for writing validation code for JSPs using JavaScript
+Responsible for writing Custom DAO class for spring.
+Responsible for creation of xml String.
+Helping QA team
+Ensured timely deliveries of work requests
+
+
+3. Project	:	Money Manager 
+    Client			:	The Co-operative Bank (UK)
+    Operating System 	:	Windows XP
+    IDE	:	Workshop for WebLogic 10gR3
+    Application Server	:	WebLogic 10gR3
+    Technologies			:	JDK1.5, Struts 1.2, Spring, Hibernate, Web Services, Log4j,
+					JavaScript, Ajax                           
+    DB				:	Oracle 9i
+    Duration 			:	Oct-2009 to Dec-2010
+    Team Size			:	12
+    Role				:	Developer
+
+PROJECT DESCRIPTION:
+	This application was developed for bank known as The Co-operative Bank. This application has various modules i.e. View Accounts, Registration, E-Payment, Transfers Pay bills, Email, Customer Service and Change Profile, Message Center etc. Admin Module will be used by internal employees of the Bank which provides the facility to login, add and update account, process request etc. Customer Module will be used by Customers online which provides the facility for Customers to check their balance, check Address to send various requests to bank, do online transaction.
+
+Responsibilities:		 
+Responsible for development of Action classes 
+Responsible for creating some JSPs
+Responsible for creating Some web services using axis 1.4
+Responsible for stub creation of axis 1.4 web services
+Responsible for writing validation code for JSPs using JavaScript
+Helping QA team
+                                                       
+4. Project			:	Policy Information System (PIS)
+    Client			:	ADNIC (UAE)
+    Operating System 	:	Windows 2003 server
+    IDE	:	RAD 7.0
+    Application Server	:	WebSphere 6.0
+    Technologies			:	JDK1.4, Struts 1.1, Hibernate, web services, Java Script,  
+					Ajax, Log4j                        
+    DB					MS SQL Server 2000
+    Duration 			:	Dec-2008 to July-2009
+    Team Size			:	8
+    Role				:	Developer
+
+PROJECT DESCRIPTION:
+	ADNIC (Abu Dhabi National Insurance Company) is the largest mutual property and casualty insurer in the UAE and Gulf Countries. This company provides different services such as auto, homeowners, life, health, and commercial insurance. The PIS application consists of modules New Business, Policy Servicing, Loan Module, Green Channel, Customer relationship Management, billing, agent locator and Claims Module.  This application maintains all the information about insurance policies, payment transactions, claims, agents, accounting, names and address of owners, policy status etc.
+
+Responsibilities:		 
+Responsible for preparation of user entry screens
+Coding Action classes
+Creation of Hibernate related DAOs
+Static client generation of web services
+Helping QA team
+Ensured timely deliveries of work requests
+
+		
+5. Project			:	CABS 
+    Client			:	DTC (Delhi Transport Corporation)
+    Operating System 		:	Windows 2003 server 
+    IDE	:	Eclipse 3.2
+    Application Server	:	WebLogic 8.1
+    Technologies			:	JDK1.4, Struts 1.1, Jdbc, web services, Java Script,  
+					Ajax, Log4j                        
+    DB					MySql
+    Duration 			:	July-2008 to Nov-2008
+    Team Size			:	5
+    Role				:	Programmer
+    
+
+PROJECT DESCRIPTION:	  
+                                 CABS is an intranet application used for the management of commercial taxis (cabs). This application enables a company to keep record of every taxi, driver and client. A user can find out details like the distance covered by each taxi in a day or in a month, information about every driver, number of client visited, amount to be charged from every client etc. 
+Responsibilities:
+Responsible for development of some Action classes 
+Responsible for creating some JSPs
+Responsible for stub creation of axis 1.4 web services
+Writing DAOs using jdbc and Data Source
+Provide Help to Testing Team
+
+
+Educational Details                                                                                                                     
+
+Matriculation			:	Bihar School Examination Board, Patna.
+
+Senior Secondary		:	Bihar Intermediate Education Council, Patna. 
+				
+Graduation			:	B.E Computer Science & Engineering
+				Amravati University, Maharashtra
+	
+Personal Details                                                                                                                              
+
+Father’s Name			:	Shri Banshi Dhar Singh
+Sex				:	Male
+Mail Address			:	#36,12Th Main H.M.T Main Road Mathikere,Bangalore-54
+Language Known		:	Hindi, English
+
+Interest and Hobbies                                                                                                                      
+
+Playing Football, Listening to Music, Helping Poorer

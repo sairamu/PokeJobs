@@ -1,0 +1,199 @@
+﻿Amit Agrawal
+
+Bangalore, India
++91 8050184500    						
+
+Email: amiton2006@gmail.com                                                                                         
+
+Objective
+Seeking challenging assignments as Software Developer with a reputed company 
+to carve a niche and effectively deliver towards organization’s target & aspirations.
+
+Professional Synopsis
+A Sincere and Competent software professional with an enriching total experience of more than 2 years 7 months (Permanent, Full Time) in Software Development.
+Proficiency in : 
+                                                          Java/J2EE(JSP, Servlet)
+                                                           HTML, JS 
+                                                        
+Strong Computer Science fundamentals, Strong analytical and troubleshooting skills with an ability to perform in a challenging environment.
+
+
+Technical Skills
+Languages :                   Java
+Domain :                     Retail(Legacy)
+Database:                       Oracle, My SQL
+Tools/SDK :                    Eclipse
+Operating Systems :   Windows 
+Server :                         Oracle Weblogic Server 11gR1 , Tomcat 6.0
+  
+
+Career Summary
+Company Name 
+HCL Technology Limited 
+Associate Consultant, From September 2010 To Present
+
+Job Profile
+Development and deployment of application
+
+
+
+
+Project(s)
+Requirement gathering from onsite team
+Prepare the test plan and unit test cases as per the requirements.
+
+
+Automated Prepaid Port in (APP)
+Client
+T-Mobile,USA
+Duration
+Nov 2012 to Present
+Team size
+3 
+Platforms used
+Windows
+Tools & Skills used
+Java/Servlet/JSP, Eclipse
+Responsibilities
+Analysis of requirements given by client
+Coding
+Review & Coordination
+
+Detail
+The purpose of this project is for T-Mobile to provide Prepaid Port-In Activations and conversions from Postpaid to Prepaid.  Onsite and offshore developers worked together to meet customer’s requirements. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Title
+
+
+Lost Stolen Handset Reactivation Prevention (LSHRP)
+
+Client
+T-Mobile,USA
+
+Duration
+Aug 2012 to Sep 2012
+
+Team size
+3 
+
+Platforms used
+Windows
+
+Tools & Skills used
+Java/Servlet/JSP, Eclipse
+
+Responsibilities
+Analysis of requirements given by client
+Coding
+Review & Coordination
+
+
+
+Detail
+The Purpose of this project is to stop misusing of the blocked IMEI. During a new line activation or add a line, Watson will check if the IMEI provided by customer has a status as blocked. The handset with blocked status will be restricted from proceeding for activation.
+
+
+
+
+
+
+
+Title
+Lost Stolen Handset Reactivation Prevention (LSHRP)
+
+Client
+T-Mobile,USA
+
+Duration
+Aug 2012 to Sep 2012
+Team size
+1
+Platforms used
+Windows
+Tools & Skills used
+Java/Servlet/JSP, Eclipse
+Responsibilities
+
+Detail
+Coding
+
+Introduced the concept of xml using JAXB Parser for generating service agreements.
+                              
+
+
+
+
+
+
+
+
+
+
+Title : 
+Client:
+Team Size
+Tools & Skills used Role :
+Detail
+
+Detail
+
+
+
+
+TM Tool 
+T-Mobile,USA
+2
+Core Java(Swing) ,Eclipse
+	Analysis of requirements.
+	Coding 
+
+Created a new tool for client to activate a rate plan in many markets in a single shot.
+
+Education
+B.Tech (Computer Science & Engineering), Shri Mata Vaishno Devi University, 2006-2010, Admission through AIEEE. (Secured 79%)
+12th, Govt. Sr Sec School, Gangapur (Rajasthan), 2005 (Secured 84%)
+10th, GD A Sec School, Gangapur (Rajasthan), 2003 (Secured 87%)
+
+
+
+
+Personal Details
+
+
+
+Declaration
+
+
+Place:
+Date:                                                                                                               
+
+   
+                                                                                                                            
+	Date of Birth: 15 Jun, 1988
+	Languages Known: English, Hindi
+
+
+
+I hereby declare that above information is true to my knowledge and I bear the responsibility for the correctness of the above mentioned particulars
+
+
+                                                                                        Amit Kr Agrawal
+
+
+
+  
+
+
+                                                                                                  

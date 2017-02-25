@@ -1,0 +1,206 @@
+﻿
+
+
+Jaculin Beula Devadhas			91-74112-82297
+									Jaculin.beula@hcl.com
+
+Professional Profile
+
+A dynamic professional working with HCL for 2.5 years as Software Engineer .
+Responsible to develop, test, build java applications and developing launcher shell scripts(ksh)/windows scripts(cmd) and Control-M jobs.
+Hands-on experience in LOAN IQ.
+PPM Sheet automation developed by me in VBA got org- level recognition.
+Proven ability to manage multiple projects simultaneously.
+Worked as configuration controller for the previous project
+
+Domain Knowledge
+
+Banking and Finance
+Corporate and Commercial Lending(Loan Servicing)
+Capital Markets
+
+Products Worked on
+Loan IQ
+
+Domain Certification
+Basics of Banking
+
+Technical Skills
+
+Operating System 
+Windows Family , Unix 
+Technologies 
+Core Java, J2EE(jsp, servlets, spring) 
+Build Tool
+Ant
+Server
+Apache Tomcat
+Database
+IBM DB2
+Tools
+Eclipse IDE, Control M, VB Editor, MS Office, Adobe Photoshop
+Source Control
+CVS, VSS 
+
+
+
+
+
+
+PROJECTS HANDLED
+
+CMBS warehouse Reconciliation and Break sheet Generation 
+
+Client: Deutsche Bank, NewYork
+Team Size: 2
+Role: Java Developer(Core Java),Tester,Shell Script and Control-M Developer
+Period: 2 months
+The tool gets the upstream file from their server using SFTP protocol and does reconciliation based on the comparing rules mentioned in the configurable properties file.The tool prepares the break sheet reports with aging and send the reports to the users through e-mail. Aging helps the operation team to make out the age(in days) of unresolved breaks from its occurrence date. All the break records are stored in database for further reference.
+The same tool is used for two different interfaces by configuring the application with the help of properties file and xml file.
+
+Batch Monitoring Automation 
+
+Client: Deutsche Bank, NewYork
+Team Size: 1
+Role: Requirement Analyzer , Java Developer and Tester (J2EE – JSP,Servlet,JFreecharts)
+ Period: 3 months
+This Monitoring is used for comparing the batch performance using historical data in terms of time 
+efficiency in the form of graphical representation like bar charts, Gant charts etc .The tool gets the historical data from the database and produce the batch performance reports for the given period(daily/weekly/monthly).Previously, the performance reports where produced by noting the data in excel with a lot of manual interventions. This report generation got simplified with this tool.
+
+Effort spent  before automation:30 minutes
+
+Effort spent  after automation:2 minutes
+
+
+Trigger Range Migration to Control-M
+
+Client: Deutsche Bank, NewYork
+Team Size: 2
+Role: Control-M and Shell Script Programmer, Tester
+Period: 5 months
+Previously 10 of the major interfaces like Foreign Exchange Rate Daily updater ,Reconciliation and Break Sheet reports, Treasury reports for all the regions,smart stream reports, CMBS ,XFI ,IDMS breaksheet reports and couple of downstream feeds were scheduled and triggered based on the trigger status set in a table called VDB_trigger_range.These jobs use polling methodology. The daemon will poll on the table  for TRIGGER status to kick start the report generation scripts for all interfaces.
+The non-user friendly scheduling had been replaced with Control-M jobs which helped to achieve easy maintenance.
+157  unix scripts(region specific scripts) were remodeled to 33 generic scripts(runs for various regions by parameter passing) which decommissioned 10% of our project source code inturn yielded a increase in performance and easy maintenance.
+The polling methodology had been redesigned to Triggering methodology which reduced the resource utilization for great performance.
+
+Technical Control validator for incoming feeds
+
+Client: Deutsche Bank, NewYork
+Team Size: 1
+Role: Java Coder and Tester ,Windows cmd  programmer
+Period: 2 months
+The Validator performs verification and validation of incoming feeds before processing to ensure that the information arrived without flaws from the source.
+This utility does the following validation,
+Checks the checksum of the file
+Checks the row count to ensure that the file is not partially arrived.
+Checks the sum of the amount column against the total  mentioned in the input file.
+     The validator is compatible for fixed length and variable length input files.
+     The validator is configurable with the help of properties file.
+	Precision can be set for validating the amount column to ensure accuracy of nth digit.
+
+
+DTCC Break clearer 
+
+Client: Deutsche Bank, NewYork
+Team Size: 1
+Role: Requirement Analyzer , VBA Macro Developer for MS Excel and Tester 
+ Period: 15 days
+Depository Trust & Clearing Corporation is the third party to whom the bank send their positions as agent/lender.  DTCC does the clearance of lender and borrower outstanding/positions. Due to human error, some of the positions were rejected from the DTCC portal. These breaks were cleared by manual queries prepared by the IT person by increasing or decreasing the outstanding to the actual value.Usually the breaks arrived will be in  multiples of 100 which consumed huge manual effort.
+This  tool was designed to reduce the manual effort spent on writingbreak clearance queries. The tool generate clearing queries just by a click.
+
+Effort spent  before automation:20 minutes
+
+Effort spent  after automation:<1 minute
+
+
+Result Set Comparison tool
+
+Client: Deutsche Bank, NewYork
+Team Size: 1
+Role: Requirement Analyzer , Java Developer and Tester(Core Java)
+ Period: 2 months
+Result comparison tool was designed to reduce the manual effort spent on comparing 
+report results of production and UAT databases. It is a generic result comparison tool 
+which could be used for most common result comparison activities
+to compare result-set of a given table name with specific filter condition
+to compare result-set of a given procedure output
+to compare the result-set of a given query
+The tool is configurable with the help of properties file which contains the database details and the input query/procedure name.
+
+
+Effort spent  before automation:10 minutes
+
+Effort spent  after automation:2 minutes
+
+Automated Process, Product Measure tool  –value add
+
+
+Client: HCL Technologies
+Team Size: 1
+Role: VBA Macro Developer for MS Excel and Tester 
+ Period: 1 month
+Process Product metrics is the performance predictor tool of the project.
+PPM stands for Process Performance Measure.
+The main objective of the metrics calculation is to ensure that the right process is followed by the right people for delivering the right products which are Better, Cheaper and Faster than the expected deliverables.
+If not , this calculations explain the root cause for the deviations in the process and provides the solution to be followed in future.
+The metrics calculations is mandatory to know the state of our project Quality. 
+
+The calculations are very crucial which got derived from every month project data. Previously the project data are filled manually which consumed a lot of human effort .Hence I came with the idea of automating it and developed a tool using VBA macros which fills the data and does calculation just by a click of button.
+The tool is used by other projects in HCL.
+
+Effort spent  before automation:9 hours
+
+Effort spent  after automation:15 minutes
+
+
+
+
+Conference Attended
+Great Indian Developer  Summit-Java Conference
+Apr 19-2012
+
+Other Achievements
+Awarded as Difference Maker for organizing events for employees in HCL
+
+
+ACADEMIC PROFILE
+
+Computer Science , Bachelor of Engineering				79.28%
+
+Coimbatore Institute Of Engineering and Technology, Anna University,
+
+Coimbatore, Tamil Nadu, India.	
+
+August 2006 – May 2010
+
+Board of Intermediate(State Board)		84.08%
+
+Don Bosco Higher Secondary School, Dharmapuri, Tamil Nadu, India.
+
+June 2004 – April 2006
+
+SSC(State Board)    							  93.60%
+
+Duthie Higher Secondary School, Nagercoil, Tamil Nadu, India.
+
+June 2003 – April 2004
+
+Personal Details
+Father’s Name:		N.Devadhas
+Mother’s Name:		S.Litta Mabel
+Date of Birth:		10-Aug-1988	
+Languages known:	Tamil,English
+Address:		2/917.1,
+Opp to RS Water Tank,
+Nelli Nagar,
+			Dharmapuri.
+Pincode-636701. 	
+ 
+
+
+DECLARATION
+
+I hereby declare that the Information furnished above is true to the best of my knowledge
+
+ Date: 
+Place: Bangalore                        			  (Jaculin Beula Devadhas)                         

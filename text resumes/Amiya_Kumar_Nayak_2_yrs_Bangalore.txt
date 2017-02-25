@@ -1,0 +1,165 @@
+﻿
+Amiya Kumar Nayak		       		      	         Mobile no: +91- 7406169461                       
+		      	    	                                                E-Mail: amiya.kumar86@yahoo.com
+                                                                                                                                   
+
+Objective:
+            To achieve a challenging position in Software Development in a result oriented company, where acquired skills and education will be utilized towards continuous growth and advancement with challenging projects.
+
+Professional Summary:
+
+Around 3 years of Experience in IT Industry in Developing JAVA and J2EE applications using Oracle, Tomcat, Eclipse.
+Experience in Developing Applications using JAVA, JDBC, JSP, Servlets, Struts and EJB.
+Have worked on distributed applications development environment using EJB.
+Strong knowledge in Servers: Weblogic and Tomcat.
+Hands-on experience of IBM-WBIMB & MQ tools.
+Experience in J2EE Design Patterns.
+Good knowledge of HL7 Standards.
+Exposure to Banking and Healthcare Domains.
+Good understanding of requirements and Strong Analytical, Interpersonal, Programming and Problem solving skills.
+
+
+Work Experience:
+
+Working as a Software Engineer for Dell Services, Bangalore from June 2012 till date.
+Worked as a Software Engineer for iGATE, Bangalore from May 2010 to June 2012.
+
+
+Academic Profile:
+
+B.Tech (CSE) from Dr.MGR University, Chennai in 2009.
+
+
+Technical Skills:
+   
+Operating System	: 	Windows 98/2000/XP                                                                                                                                                                               Languages		: 	Java, HTML, XML, ESQL                                                                                         J2EE Technologies	: 	JDBC, Servlets, JSP, EJB                                                             Frameworks		:            JUnit, Struts                                                                                                Servers		: 	Apache Tomcat, Weblogic                                                               RDBMS		: 	Oracle                                                                                                     IDE			: 	Eclipse, WBIMB7                                                                                          Miscellaneous		: 	CVS, VSS, MQ7,Maven
+Project: #1
+
+Project Name 
+EHRA-Integration
+Client
+Dignity Health(Formerly CHW), US
+Role
+Team Member
+Duration
+June 2012 to till date
+Team Size
+8
+Environment
+
+Java ,J2EE,ESQL,DB2,Eclipse,IBM-MQMB
+
+
+
+
+Project Description:
+
+              The Electronic Health Records-Alliance deals with the electronification and exchange of patient related data in a generalized HL7 format. For this purpose an engine called ConneXion is used which converts various types of health related messages into a common HL7 standard. Changes to the data are also done as required by the destination application while passing through the ConneXion Engine. Rules can be applied to the data flowing through the engine to route and transform the information.
+
+
+Roles and Responsibilities:
+
+Responsible for requirement analysis.
+Responsible for preparing and updating the design documents.
+Responsible for developing the adapter files & MQ scripts.
+Responsible for designing various flows & developing ESQL files in MB.
+Responsible for new enhancement in various Interfaces.
+Responsible for Solving the SIT and UAT issues for different Interfaces.
+Responsible for Unit & Integration Testing.
+
+Project: #2
+
+Project Name 
+Funds Maintenance System
+Client
+Value Line, US
+Role
+Team Member
+Duration
+Mar 2011 to June 2012
+Team Size
+6
+Environment
+
+Java ,J2EE,JSP,EJB,JDBC,Oracle10g,Weblogic,Eclipse
+
+
+
+
+Project Description:
+
+               The Mutual Funds GENE of wealth management system provides facility to maintain the funds related information such as Fund family information, Fund characteristics, NAV details etc. It also has the facility to place orders for subscription / redemption and deals with request for transfers / assign - design of units etc. Corporate actions announcement / execution etc are provided. Mutual Funds System is designed to address the needs of Fund Distributors/Investment Managers/ Fund Houses. MF System is primarily designed for Mutual Funds Distribution.
+
+
+Roles and Responsibilities:
+
+Responsible for writing Servlet classes and JSPs,
+Responsible for developing and maintaining all the entity and session beans.
+Responsible for implementing delegate classes and facades.
+Responsible for writing DAO’s and its Implementations.
+Responsible for new enhancement in Fund master and Fund master NAV.
+Responsible for Unit Testing.
+
+Project: #3
+
+
+Project Name 
+UHGS(United Health Group System)
+Client
+United HealthGroup, US	
+Role
+Team Member
+Duration
+May 2010 to Mar 2011
+Team Size
+12
+Environment
+Java,J2EE,JSP,Tomcat,Eclipse,WBIMB,MQ,HTML,ESQL,Oracle 
+
+
+Project Description:
+
+                  This is an internet based application for United Health Care System. This Project is mainly subdivided into two separate parts, which consists of different modules. First part is the Registration module, which is used to register the patients through online and the Second part is the Login module, where an individual can access the application and made the payments through online.
+
+
+
+
+
+
+
+
+
+Roles and Responsibilities:
+
+Designed JSP’s as per the Requirement.
+Responsible for developing the entity and session beans.
+Responsible for designing the flows in WBIMB
+Responsible for writing ESQL code and its Implementations.
+Used JDBC for database connections.
+Responsible for Unit & Integration Testing.
+
+
+Personal Information:
+
+Gender			: Male
+Marital Status		: Single
+Language Known	: English, Hindi, Oriya
+
+
+
+
+
+Place: Bangalore                                                                           Amiya Kumar Nayak
+
+
+
+
+
+
+
+
+
+
+
+
+

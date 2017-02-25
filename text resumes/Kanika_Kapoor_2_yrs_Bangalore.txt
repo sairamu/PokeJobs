@@ -1,0 +1,152 @@
+﻿  
+KANIKA KAPOOR [B.E.]
+SENIOR SYSTEMS ENGINEER
+
+Objective:   To learn by working and add value to work by producing tangible outputs. 
+ 
+E-mail
+kanika1901kapoor@gmail.com
+
+Permanent Address
+d\o Gulshan Kapoor
+D-99, Ramprastha Colony,
+P.O Chander Nagar, Ghaziabad
+UP-201011
+
+Present Address
+C-802, SJR Equinox Apartments,
+Near Velankani Gate 2,
+Electronics City Phase 1
+Bangalore (Karnataka) - 560100
+
+Mobile No. 
++91-9739610129
+Personal Details
+Sex                 : Female
+Nationality     : Indian
+Marital Status: Single
+Date of Birth  : 19th January 1989
+
+
+Summary of Qualifications
+Working as a senior systems engineer in Infosys Labs, research unit of Infosys.
+Java Developer with over 2.6 years of experience in:
+
+Languages : Java
+Advanced Java : JSP, Servlets
+Procedural Languages : PL/SQL
+SOA technologies : USDL, SOAP, WSDL
+XML technologies : XSLT, XPath
+Web Technologies : HTML5, CSS, JavaScript, JQuery, AJAX
+Dependency Injection Frameworks : Google Guice, Spring DI 
+ORM : JPA
+MVC Framework : Spring 
+Testing Frameworks : JUnit, XMLUnit
+Databases : CouchDB, MySQL
+OS : Linux (Ubuntu) ,Windows
+DVCS : Git 
+Continuous Integration tool : CruiseControl
+Web Service Testing Tools like soapUI, XMLSpy 
+BPMN Editor : Signavio
+CMS : Drupal 7
+
+
+    
+Work Experience
+Infosys Limited, Bangalore
+as a Systems Engineer (Infosys Labs) 
+from October 2010 onwards
+
+
+
+Educational Qualifications
+S. No
+Qualification
+Passing Year
+College / Institute
+Board / University
+Score
+1.
+B.E(CS)
+2010
+Apeejay College of Engineering, Gurgaon
+Maharishi Dayanand University, Rohtak
+71%
+2.
+XII
+2006
+Vivekanand School, New Delhi
+AISSCE, Central Board of Secondary Education
+78%
+3.
+X
+2004
+Vivekanand School, New Delhi
+AISSE, Central Board of Secondary Education
+87.6%
+
+Participation 
+Yahoo Open Hack India 2012 
+Chrome Plugin to switch between multiple cloud accounts like Amazon Web Services, Eucalyptus account.
+           https://github.com/kanika1901kapoor/chromeFox
+Microsoft Windows 8 AppFest  
+Windows 8 App to switch between multiple cloud accounts 
+Random Hacks of Kindness 2012
+Application that incentivizes trekkers to follow green habbits while trekking
+           http://kanika1901kapoor.github.com/The-Green-Trail-Project/application.html
+Grace Hopper Celebration Hackathon 2012
+
+Firefox OS App Day
+
+
+
+Project Experience
+
+Research Partner
+/ In-House
+CRC Australia
+Duration
+Jan 2012 to present
+Description
+CRC Smart Services is developing a Service Innovation Hub (SIH) which will be a one-stop service marketplace where service consumers can discover, combine and consume all services from Australian government and 3rd party providers. 
+i) USDL Editor using Spring Roo
+Currently working on a USDL editor to capture business, technological and operational aspects of services.
+ii) UX 
+Built UI Mockups and completed Persona Modelling for SIH   
+iii) Developed a plugin for Signavio BPMN Editor to animate BPMN models with the aim to guide the consumers through the steps of consuming a service. 
+iv) Created SIH Website on Drupal7
+Tools and Technology used
+Signavio BPMN Editor, Sublime Text, Javascript, AJAX, Balsamiq Mockups, Drupal7
+
+
+Research Partner / In-House
+In-House project for Infosys Labs
+Duration
+Jul 2011 to Dec 2012
+Description
+Regression Testing Tool for Web Services 
+Integrated with soapUI, the developed tool does a comprehensive test case selection for regression testing of SOAP based web services.
+Tools and Technology used
+Eclipse Indigo, soapUI, Altova XMLSpy, JDOM, XMLUnit
+
+Research Partner / In-House
+In-House project for Infosys Labs
+Duration
+May 2011 to Jun 2011
+Description
+Code Migration to Guice3.0 (Dependency Injection Framework)
+An existing internal application migrated from Spring DI to Guice 3.0  
+Tools and Technology used
+NetBeans7, Guice3.0, MySQL
+
+Research Partner / In-House
+In-House project for Infosys Labs
+Duration
+Mar 2011 to Apr 2011
+Description
+PoCs 
+i) Setting up of Eucalyptus private cloud for conducting experiments on cloud.
+ii) Building CouchApps.
+Tools used
+Eucalyptus, Apache CouchDB on Linux environment
+
