@@ -1,0 +1,105 @@
+﻿Kalpitha Karamadi
+Mallige Apartments, Flat no. 12,
+4th Main, 11th Cross, Malleshwaram, Bangalore-560 003, Karnataka.                                                                         
+E-mail: kalpitha.karamadi@hotmail.com    		
+Mobile: 9164493518
+
+
+Objective
+To acquire a position in an organization which values my skills and provides opportunity to learn and function effectively, thereby constantly upgrading my knowledge and skills; to gain further experience which will add value to organisational operations and production.
+
+Summary
+Engineering in Electronics and communications, Vishweshvaraya university, Belgaum.
+Worked for two years two months as Systems Engineer in Infosys Technology, Bangalore.
+Working in General Electric, GE Healthcare, Bangalore as Design Engineer.   
+Good Working Knowledge in C, Java, J2EE, Spring, Hibernate, Shell Scripting, UNIX and have good understanding on Eclipse plugin developement.
+
+Work Experience
+Organization: Infosys Limited, Bangalore.
+Experience: Jan 2010 – Feb 2012
+Role: Systems Engineer.
+Department: Finacle Archie - Research and Delivery (RDU0) unit.
+Finacle from Infosys partners with Banks to power up their innovation agenda, enabling them to differentiate their products and service, enhance customer experience and achieve greater operational efficiency. Finacle solutions address the core banking, wealth management, CRM and Treasury requirements of Retail, Corporate and Universal Banks
+The Finacle Archie group develops the technical infrastructure for Finacle and is responsible for integration with other products. 
+RDU0 – RDU0 is the research and delivery unit in Finacle Architecture team. This team primarily looks into reporting and customization competency of the Finacle product.
+Project: Finacle ETL
+Finacle ETL is a tool used for data extraction from the external system to Finacle. It increases the efficiency of job development through an easy to use graphical development environment. 
+Was part of requirement gathering, analysis of the Jasper ETL, and development of custom components
+Creation and documentation of use cases to demonstrate the ease of use and simplicity of the Finacle ETL.
+Technology – EJB and JMS
+
+Project: Finacle Scripting studio (FSS)
+FSS is an integrated development environment for writing the Finacle scripts. It is an Eclipse based IDE, developed using DLTK technology. 
+Worked on porting of FSS, FRS(Finalce Rules Studio) to the eclipse 3.7(indigo) version.
+Maintaining the product and doing enhancement work on the same.
+Technology – IDE creation, Remote Debugging, Script Engine, Grammar Creation and other features of Eclipse plugin developement.
+
+Infosys Limited, Mysore (Jan 10 – May 10)
+
+Department: Infosys Internal Training Program
+Role   : System Engineer - Trainee
+
+Worked as a System Engineer – Trainee during the Infosys Training Program in Mysore where in I was trained in Various Technologies and Soft skills training program and have cleared the Training programs and its examinations. Here I was trained on multiple technologies like C, Java, RDBMS, Unix and few other training programs.
+
+Organization: GE Healthcare, Bangalore.
+Experience: March 2012 – Till Date
+Role: Design Engineer.
+Project: Secure Service Access (SSA)
+Development of a secure service access infrastructure to enable service engineers to access the approriate tools and features of medical devices. 
+This enables secure service and collection of data from medical devices in order to predict and improve their performance. 
+Technology – Java/J2EE, Spring, Hibernate, JavaScript, Two fish encryption
+
+Responsibilities:
+
+Study the Training Curriculum and also clear the relevant examinations.
+Practical Implementation of each of the technologies studied during the training program.
+Involved in Requirement gathering for development work.
+Involved in migration work of few products.
+Involved in Creating requirement and Design documentation.
+Involved in creating and performing various test procedure like Unit Testing, Integration & System testing.
+
+Academic Profile
+
+
+Course
+
+School/Institute
+
+Year of Passing
+
+Score(in %)
+B.E( Electronics and Communication)
+KLE college of engineering and technologies, Belgaum
+2009
+65
+12th
+Govindaram Seksarian Science College, Belgaum
+2005
+88(PCM)
+10th
+Presentation Girls High School, Dharwad
+2003
+85
+
+Technical Skills
+Programming Languages – Java 6.0, C.
+Scripting languages – Shell Scripting, Phython, Sed and Awk, Javascript
+Technology – J2EE, Spring, Hibernate, jQuery, Ajax
+Database – Oracle, MySQL, PLSQL 
+Platform – Unix, Windows.
+Applications – Microsoft Office, Jasper ETL.
+Others – UML, Twitter Bootstrap, Design Pattern basics, Lex and Yacc, ANTLR, Eclipse IDE and plugin developement.
+
+Personal Information
+Date of Birth		:     8th March 1987
+Gender			:     Female
+Mother tongue		:     Kannada
+Nationality		:     Indian
+Marital Status		:     Single
+Languages		:     English, Hindi, Kannada.
+
+Declaration
+      I do hereby declare that the particulars of information and facts stated above are true, correct and complete to the best of my knowledge and belief.
+
+
+PLACE: Bangalore                                                                          Ms. Kalpitha Karamadi

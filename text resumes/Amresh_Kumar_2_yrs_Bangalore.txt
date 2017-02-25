@@ -1,0 +1,182 @@
+﻿                                                                                                                                
+                                                                                  E-Mail: ambreshkumar.sharma@gmail.com
+Amresh Kumar                                                                Mobile: +91-7259405684           
+                                                                                                                                   
+
+Objective:
+To be associated with a dynamic organization that gives me ample opportunity to apply my skills to excel in my work field. Always excited to learn and work in new technologies.
+
+Professional Summary:
+
+Having around 3 years of IT experience in various technologies like Java, JSP, Servlets, JDBC, Struts, Hibernate, spring.
+Expertise in implementing J2EE technologies (JSP , Servlets , JDBC)
+Hands on Experience in Banking and Finance Domain.
+Hands on Experience in Struts1 and 2 Framework.
+Hands on Experience in Hibernate Framework. 
+Hands on Experience in Spring Framework.  
+Hands on Experience in J2EE Design Patterns.
+Having Java programming skills with JDK 1.6
+Having Good knowledge in EJB. 
+Having Good Knowledge in OOPS Concept.
+Having knowledge of Adobe Live Cycle Tool.
+
+
+Work Experience:
+
+Duration
+Designation
+Organization
+June 12 to Feb 13
+Software Engineer
+Peocit Technologies, Mumbai
+June 10 to June 12
+Software Engineer
+SDSoft Solution pvt ltd, Bangalore
+
+Technical Skills:
+
+Operating System
+Windows XP, Windows 7
+Languages
+Java
+Application/Web Servers
+JBoss, Apache Tomcat7.
+J2EE Technologies	
+JDBC, Servlets, JSP and JSTL.
+Web Programming
+CSS, HTML, JQuery
+RDBMS	
+MySQL, Oracle
+Frameworks	
+Struts, Hibernate, Spring
+IDE
+Eclipse, My Eclipse.
+Tools
+Log4j, SVN, ANT
+
+
+
+Education:
+
+B.Tech (Computer Science) form WBUT in JUNE 2010 with 80%.
+
+
+
+
+Professional Details:
+
+PROJECT #1	         
+:
+Transform (MFI Application)
+Role  
+:
+Team Member
+Team Size                
+:
+12
+Duration
+:
+June 12 to Till Date
+Environment
+:
+Java, Struts2, spring, Hibernate3, MySql and Tomcat7
+Description
+:
+
+                            Transform (MFI) Application will be implemented as a product which automate the business process of bank and services and will be useful for various institutions offering Loan to the customer. Loan can be given to the individual Customer or to the group, to Sanction the loan it undergoes different phases such as customer creation, if group then group creation their after it has to fill loan application and all mandatory steps. Transform especially for microfinance institutions. It facilitates the all type and size of bank. Transform helps you to increase efficiency and to fully integrate your financial institution’s key functions including deposits, loans, customer and group create etc. Transform is specifically designed to perform all the functions that are required by microfinance institutions such as, Customer and Portfolio Management, Saving / Deposits,  Dashboard & Reporting, Configuration.  
+
+Roles and Responsibilities:
+Written JSPs and Controller Classes as per the Requirement.
+Implemented their Validations server side and client side.
+Written Service Interfaces and their implementations.
+Written DAOs and their implementations With Hibernate.
+Written Hibernate Mappings.
+Implemented Page layouts using Tiles Framework.
+Implemented Bean Classes.
+Implemented Barcode generation.
+
+PROJECT #2	         
+:
+ITMS
+Role  
+:
+Team Member
+Team Size                
+:
+8
+Duration
+:
+August 2011 – June 2012
+Environment
+:
+Java, JSP, Struts, Spring, Hibernate, Tomcat, Oracle
+Description
+:
+
+                                  ITMS is an Integrated Training Management System which is a product initiated by SDSOFT Solutions (India) Pvt. Ltd. for automating the training process of a training centers across India. It has three types of users like Admin, Employee and Student. Admin is a person who is controlling the entire application. There are many types of Employee like Faculty, Accountant, Manager, Director, and Education councilor. Faculty is responsible for uploading the schedule, updating daily covered topics, uploading the assignments, answering the questions posted by the student etc. Manager is responsible for scheduling the batch, assigning batch to the faculty, tracking the batch schedule etc. Education councilor is responsible for updating daily enquiries, tracking the enquiring, doing the registration etc. Admin is allowed for Maintaining Users. Admin can add users (Employee/Student), update users (Employee/Student) and change permissions of the users, resetting the passwords of the users etc.
+
+Roles and Responsibilities:
+Designed JSP’s using Rich faces Component.
+Implemented Bean Classes.
+Implemented Validations as per the Requirement.
+Implemented Page layouts using Tiles Framework.
+Implemented Spring Service Interfaces and their implementations.
+Implemented Spring DAO’s and their implementations With Hibernate.
+Implemented Hibernate Components.
+
+
+PROJECT #3	         
+:
+Health Management System
+Role  
+:
+Team Member
+Team Size                
+:
+7
+Duration
+:
+Dec 10 - August 2011
+Environment
+:
+Java, JSP, Struts, Spring, Hibernate, Tomcat, Oracle
+Description
+:
+
+                                  HMS (Health management System) Application will be implemented as a product which will be useful various companies offering Health Insurance . Once Customer takes the Health Insurance, we can add all information about customer including personal, insurance details etc . Customer premium details will be stored in HIS and then will be tracked. When customer gets the health problem and joined in the hospital, then customer should collect all the bills and submit to Company . Later company people will verify the details whether it is correct or not and then enter the verification details into the HIS. Credit manager verifies and then sanctions the amount for customers.
+Roles and Responsibilities:
+Designed JSP'S as per the Requirement.
+Implemented Action Classes.
+Implemented Form Beans Validations using Validation Framework.
+Written Business Service Interfaces and their implementations.
+Written DAO'S and their implementations With Hibernate.
+Implemented client side validation.
+
+
+PROJECT #4	         
+:
+Resume Builder
+Role  
+:
+Team Member
+Team Size                
+:
+8
+Duration
+:
+June 2010 – Dec 2010 
+Environment
+:
+Java, JSP, Servlet, JDBC, Jasper Reports ,MySQL
+Description
+:
+
+                               Resume Builder is a product initiated for building the resumes for the job seekers in various formats. This product can be used by the various Educational and Corporate organization. This would be facilitating the job seekers to enter all the information like personal information, educational information, skill set, work experience, projects handle etc. After proving the complete information, you can choose the template for your resume. Resume Builder generates your resume in selected template in different format (PDF/DOC/RTF).Resume Builder also delivers the mail to the job seeker’s Email Id. Resume Builder has the report section where employees can search resume for the required job positions and can communicate with job seekers. Employees and job seekers can download the resumes in PDF/DOC/RTF format.
+
+Roles and Responsibilities:
+Designed JSP'S as per the Requirement.
+Implemented Servlet with Controller Logic.
+Implemented JDBC for Persistence Logic.
+Implemented based on MVC Design pattern..
+
+                                                                                                                    Amresh Kumar

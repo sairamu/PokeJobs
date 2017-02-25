@@ -1,0 +1,222 @@
+﻿	
+	Ish Mahajan
+Ph: (M) + 91 7760899326 Email: ish.mahajan@yahoo.com 
+Hno 23, 17th e cross, 2nd Stage, Indiranagar, Bangalore, Karnatka – 560038 
+
+
+In quest of challenging role in the field of Information Technology 
+
+
+
+IT professional in Banking Domain with more than 2.11 years of experience in JAVA, J2EE, Web services, SQL
+
+Result oriented to meet challenges of this fast-paced, high-turn industry.
+Possessing valuable insights, keen analysis and team approach to implement the best practices. 
+Keen interest in research and development.
+
+
+Areas Of Expertise 
+
+Banking Applications Development with J2EE
+Enterprise Java Beans (EJB)
+Java Persistence API (JPA)
+Design of Automation Tools 
+Oracle Toplink
+SQLJ
+
+
+Executive Highlights 
+
+Solely designed and developed utilities for software development.
+Performance Tuning
+Achieved stated targets of the company within the time constraint.
+Efficiently and productively analyzed all the tasks undertaken.
+Instrumental in research and development.  
+
+
+Skill Set 
+
+Software Skills:
+
+Core Java, J2EE
+EJB 3.0
+Database Management (Oracle 11g)
+Java Persistence API
+Oracle TopLink
+SQLJ
+Application Servers(Weblogic ,Websphere)
+UI Designing with RAD( JavaScript ,XML)
+Java Stored Procedures
+
+
+
+IDE Known                            : Jdeveloper, Eclipse 
+Script Languages				: XML, JavaScript, HTML.
+Web Tools				            : Rapid Application Development (RAD)
+Persistence Design Tool         : Oracle Toplink Workbench,
+Operating Systems 			: Windows 7/ Windows Vista/Xp.
+
+
+Professional Experience 
+
+
+Total experience of 2.11 years in the following company:-
+
+Oracle Financial Services Software Ltd.
+      Bangalore, India (Associate Applications Developer)                       April ‘10 to onwards
+
+
+
+
+Project 1
+
+Project Name
+ELCM 2.0/Flexcube 12.0
+Team Size
+10
+Start Date
+October  2011
+End Date
+Till Date
+Description
+ELCM Integrated with Flexcube based upon JPA Framework with Extensibility. Java Persistence API is light weight Framework for object/relational mapping. Extensibility enables partner companies to write their own code for any modification in product
+
+ http://www.oracle.com/us/industries/financial-services/046893.html
+
+Role & Contribution
+Architecture Designing of Batch Programs for Extensibility
+Screen and business logic redesign in JPA
+Performance Tuning of Batches Used as part of End of Cycle
+Queries Optimization
+Involved in unit testing, integration testing and system testing.
+FS & PS Design along with help files
+
+Technologies
+Java, J2EE, JPA,SQLJ, XML, JS,ASCII File Format
+Tools
+Web logic/Web sphere Application Servers, Jdeveloper, Pl/Sql Developer, RAD, XML Spy
+
+
+
+Project 2
+
+Project Name
+ELCM 1.3.0/Flexcube 11.4
+Team Size
+10
+Start Date
+Jun  2011
+End Date
+October  2011
+Description
+ELCM Integrated with Flexcube based upon SQLJ Technology. SQLJ is a technology for enabling Java programs to access a database using embedded Structured Query Language (SQL) statements. Java classes can be directly Loaded inside database for having single transaction control and faster Processing of Huge Data
+http://www.oracle.com/us/industries/financial-services/046893.html
+
+Role & Contribution
+Designing of Batch Programs
+Performance Tuning of Batches Used as part of End of Cycle
+Queries Optimization
+Involved in unit testing, integration testing and system testing.
+
+Technologies
+Java, J2EE, SQLJ, Oracle Toplink ,Pl/SQL, XML, JS
+Tools
+Web logic/Web sphere Application Servers, Jdeveloper, Pl/Sql Developer, Toplink Workbench, RAD, XML Spy
+
+
+
+Project 3
+
+
+Project Name
+ELCM 1.2.0.0.0 Standalone/ Flexcube 11.3
+Team Size
+10
+Start Date
+January 2011
+End Date
+Jun  2011
+Description
+Standalone ELCM process-centric architecture enables centralized collateral management. Single instance of ELCM can be installed to communicate with multiple Core Banking Applications for Maintaining and tracking Limits globally. It can be embedded with Flexcube, Or Act as Standalone application
+
+http://www.oracle.com/us/industries/financial-services/046893.html
+
+Role & Contribution
+Database design
+Enterprise Java Beans Design, Business Logics Design
+Screen Design
+PS/UTP Preparations
+Conducted sessions related to product design among consulting teams from same company
+Involved in unit testing, integration testing and system testing.
+
+Technologies
+Java, J2EE, Oracle Toplink ,Pl/SQL, XML, JS
+Tools
+Web logic/Web sphere Application Servers, Jdeveloper, Pl/Sql Developer, Toplink Workbench, RAD, XML Spy
+
+ Project 4
+
+Project Name
+Flexcube - ELCM 11.2.0.0
+Team Size
+10
+Start Date
+August 2010
+End Date
+January 2011
+Description
+Oracle FLEXCUBE Enterprise Limits and Collateral Management integrates with existing IT application landscape and offers a single source for managing online, real-time exposure across the enterprise. Its process-centric architecture enables centralized collateral management, enterprise-wide limits definition, and tracking for effective exposure management as well as resource utilization
+http://www.oracle.com/us/industries/financial-services/046893.html
+Role & Contribution
+Requirement gathering, Screen design and Business Logic design.
+Creation of documents for system requirement specification and high level design.
+Involved in unit testing, integration testing and system testing.
+Technologies
+Java, J2EE, Oracle Toplink ,Pl/SQL, XML, JS
+Tools
+Web logic/Web sphere Application Servers, Jdeveloper, Pl/Sql Developer, Toplink Workbench, RAD, XML Spy
+
+ 
+
+
+
+Educational Qualifications
+
+B.E with specialization in Electronics & Communication from Sant Longowal Institute of Engg & Technology, Sangrur. PTU in 2009 with 76%
+
+Diploma (2 Yr) in Electronics & Communication from Sant Longowal Institute of Engg & Technology, Sangrur in 2006 with 79.6%
+
+
+ACADEMIC PROJECT
+
+Title				         : SPEED Control of Motor
+Technology 			 : C Language And Triac Chipset
+Team size			         : 5
+Roles	 			         :  Programming & Triac Threshold Control.
+Scope				         : This project can be used to Control Speed of an Electrical   Motor using C Program.
+
+
+Title					:  RF ID & Traffic Control
+Environment	 		: Microprocessor 8086 (16 Bit), Microcontroller 8051
+Technology 			: Assembly Language
+Team size				: 5
+Roles 				 	:  PROGRAMMING, INFRARED Sensor Control
+Scope					: It can be used for Identification of Vehicles and Traffic Control.
+
+Personal Details
+
+Date of birth		:	19th August, 1986  
+Languages Known	:	English, Hindi, and Punjabi 
+References			:	Available upon request	
+
+
+
+
+
+
+
+
+--------------------------------------
+(Ish Mahajan)
+
+

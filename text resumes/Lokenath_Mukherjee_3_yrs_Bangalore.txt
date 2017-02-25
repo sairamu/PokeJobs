@@ -1,0 +1,146 @@
+﻿
+Career Objective
+
+To obtain a challenging career in an organization having the environment that encourages continuous learning and provides exposure of new technologies. So that I can share the vision of continuous growth and success with the organization and utilize my technical skills to achieve professional and personal growth in the field of Information Technology
+
+Experience Summary
+
+I have around 3 + years of experience in development field working in Java J2EE Web Service (SOA) platform. My database know-how includes Oracle, Sql Server. I am flexible to work under and over people and have ability to accept and delegate responsibility with equal ease and give optimum performance under varied circumstances and environments.
+
+Around 3 +years of experience in Software development and implementation 
+Worked extensively on Core Java, SOA, Web Services (SOAP), JSP, Servlets, Spring, Hibernate and Oracle.
+Extensive Client Side Exposure.
+Good Analytical and design skills.
+Capacity for Work - Meeting Deadlines
+Diagnostic Ability - Ability to go to the core of the problem
+Worked primarily in the domains of Banking and Telecom.  Have been involved with          development projects.
+Have excellent communication, analytical, logical and programming skills.
+Experienced on writing the HLD & LLD documents.
+
+Apart from that I have a learning, problem solving skills and motivational qualities along with zeal to work in team
+
+Technical Skills
+
+Database
+Oracle 10g, Sql Server
+Scripting/Markup Languages
+HTML, XML, Java Script, JSTL, Ant Script (Basic)
+Programming Languages
+Java
+Client/Server Technologies
+Web Services, Java Servlets, JSP, SOA.
+Development Tools / IDE
+Eclipse, Net Beans IDE, Hudson.
+Frameworks
+MVC, Spring, Log4j, Hibernate.
+Web / Application Servers
+Glassfish
+Platforms
+WINDOWS XP / 7, Linux (putty).
+Source Management Tools
+TortoiseSVN-1.7.
+
+
+
+Qualification
+
+
+
+B-Tech (Information Technology) in 2009 from WBUT              DGPA 8.5 (85%)
+
+
+
+Professional Profile
+
+Employer: 				Logica (Now Part of CGI)
+124/124 Divyashree Technopolis,
+Yemlur, Bangalore 560067
+Designation: 				IT Consultant 
+Date of Employment: 			April 2010 – Till date. 
+
+Project Details
+Vodafone Bandicoot (M2M)	                                                          Sep 2011– Till Date
+
+Project:		Vodafone Bandicoot
+Client:		Vodafone UK 
+Domain:		Telecom
+Company:		Logica	
+Team size: 		43
+Duration:		Sep 2011 to till date
+Technology:	Java, spring, Web services, SOA, Oracle10g, SOAP, XML, XSD, BPEL.
+
+Details:	Vodafone is basically provides to support the overall VF M2M service offering. The M2M-service provides a communications capability to allow devices to communicate with a Customer/Service Providers central system(s), primarily using packet-switched data, but also supporting [R2.1] Circuit-Switched Voice (CSV), Circuit-Switched Data (CSD) and Messaging services. This service is delivered over VF-OpCo’s existing mobile network infrastructure. The M2M Service supported through the GDSP platform, which comprise of the following processes:	
+Service Definition and OpCo configuration 
+Customer On-boarding and Service set-up 
+SIM Ordering & Provisioning 
+Service Delivery 
+Operational Service Management
+Usage processing, Pricing and Reporting 
+
+Accountabilities:
+Implementation of Business Logic
+Writing unit test code
+Writing the web Service
+Writing BPEL and xsd, XML
+Interacting with the On Shore for clarification of requirements and issues
+
+
+
+ING Direct Honey Bee                                                                          Mar 11 – Aug 11
+Project:		ING Direct Honey Bee
+Client:		ING Direct UK 
+
+Domain:		Banking 
+Company:		Logica	
+Team size: 		35
+Duration:		March 2011 to Aug 2011
+Software:		Java, J2EE, Eclipse 3.3, Spring MVC, Oracle10g.
+Details:	ING Direct UK (IDUK) is one of nine ING Direct operations operating throughout Europe, North America and Australia. It works on the business model of Direct Banking.ING Direct currently offers customers a direct telephone and internet based savings account along with mortgage products. The purpose of Honey Bee Project is to build a Current Account on the existing savings, mortgages and home insurance product lines. The customers will be able to access current account facilities via following channels i.e. Telephone banking, Internet banking, IVR, Mobile banking and ATM.
+
+Accountabilities:
+Designing various forms
+Implementation of Business Logic
+Writing unit test cases and test plan.
+Writing the understanding document
+Interacting with the On Shore for clarification of requirements and issues
+
+
+
+TNT Doorway                                                                        	         Apr 10–Feb 11
+Project:		TNT Doorway Application
+Client:		TNT Post, UK
+Domain:		Logistics
+Company:		Logica India Pvt Ltd., Bangalore
+Team size: 		30
+Duration:		Apr 2010 to Feb 2011
+Software:		JBoss Seam, JSF, EJB 3.0, Oracle 10g
+Details:	Doorway R1.0 is an application designed to support the business processes of TNT Post DDM. These processes encompass the sales, planning, preparation and execution of the distribution of doordrop media (unaddressed mail) to households in the UK or, in some cases, outside of the UK.
+The DDM processes start with a request for the distribution of doordrops, which can be entered into the system as a quotation. If the quotation is accepted by the customer, a contract is created with one or more briefs, and the exact regions and sectors where the doordrops are to be distributed need to be entered into the system (the schedule). The contract is confirmed by the customer; then, based on the information in the contract and briefs, the system generates instructions for the logistics process, to ensure that the doordrops are transported from the location where they are printed in the correct quantities to the distributors. The system also generates instructions for the distributors to actually distribute the doordrops.
+
+
+
+Doorway R1.0 application is divided into functional sub modules such as Sale, Order, Operation, Distributor, Geography, Report, AddressBook, users and Interface.
+ 
+Accountabilities:
+Writing business logic for some of the business requirements
+Writing Unit test code
+Bug fixing across module.
+Interacting with the On Shore for clarification of requirements and issues
+Implementing RFC
+
+Personal Details
+
+	Date of Birth		:	03rd May 1986
+Mothers name		: 	Dipali Mukherjee
+Father’s Name		: 	Asit Baran Mukherjee 
+Sex			:	Male
+Marital Status		:	Single
+	Languages Known	:	English, Hindi, and Bengali
+Nationality		:	Indian
+Hobbies		:	Music and Movies, Sports – Cricket.
+Passport Number	:	H2973914
+
+
+
+Date: December 5, 2015							(Lokenath Mukherjee)
+

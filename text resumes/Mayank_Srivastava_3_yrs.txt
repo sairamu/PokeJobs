@@ -1,0 +1,107 @@
+﻿MAYANK SRIVASTAVA
+Phone: +91 984-527-5794
+Email: mayank.srivastava89@yahoo.in 
+
+
+
+
+Career Objective:
+Seeking a position to utilize my skills and abilities in the field of Computer Technologies and Applications that offers professional growth and career enhancement as being resourceful, innovative, flexible and a team player.
+
+Profile:
+3 years of experience in IT industry.
+Currently working as a Delivery Software Engineer in Mphasis an HP company.
+Experience in Core Java, Web Application Development and Maintenance Services using Java, J2EE (JSP, Servlet) .
+ Good Domain Knowledge of Insurance.
+Good background in Object-Oriented analysis and design.
+Possess good problem analysis skills with ability to follow project and coding standards.
+
+Skills:
+
+Programming Languages:	Core Java, JSP, XSL, HTML and JavaScript.
+Operating Systems:		Windows XP, 7.
+IDE Products/Tools:		Eclipse 3.1.2, Editplus v2.11, Oracle Documaker, SVN (Version Controlling)
+Web Servers:                      	Tomcat Apache 5.5.Websphere 7.0
+Web Technologies:		JSP,JavaScript, HTML.
+Databases:			MySQL, Sybase.
+Business Domains:		Insurance domain.
+
+Organizational Exposure (3 years):
+
+MphasiS an HP Company		(Delivery Software Engineer)	Apr’2010 – Till date
+Project undertaken:
+
+
+Project:	DAC (Deferred Acquisition Costs)
+Client:	CHARTIS (US)
+Domain:	Insurance
+Technology:      Java, XSL, Java script, Servlets, XML, Ajax, JSon, Sybase 5.5
+Duration:	February 2013 – Till Date
+Description:
+                 Chartis is US based world leading insurance organization which serves more than 40 million clients in more than 160 countries. The international Reporting Offices of Chartis are termed as Chartis International – CI and the Chartis Profit Centers in US are termed as Chartis US - CUS. Chartis DAC application is developed to calculate the DAC (Deferred Acquisition Cost). 
+Deferred Acquisition Cost (DAC) refers to the costs associated with acquiring new insurance policies or renewing the existing insurance policies. These costs are capitalized as an asset because they will benefit in future. The DAC asset is amortized over the periods in which the revenues are earned.
+There are following two types of acquisition costs that can be capitalized:
+Commissions: Commissions paid to enrolled agents, variable bonuses paid, commissions paid to banks etc.
+General Operating Expenses (GOE): Underwriting, policy issuance premium taxes, policy issuance costs, building inspection, and survey fees etc.
+
+Role:		
+Working as one of the Core Developers of the team.
+Involved in each stage of development cycle. 
+Fully involved with the client during the requirement gathering phase.
+Impact Analysis and estimating the delivering the enhancements and defects.
+
+
+
+
+Project:	DDS (Document Delivery System)
+Client:	TRAVELGUARD.INC,AIG (US)
+Domain:	Insurance
+Technology:	J2EE (JSP, Servlet), HTML, JavaScript,DOCUCORP
+Duration:	December 2010 – February 2013
+
+Description:											Many Travel companies – provide Insurance for travel to customers. System will generate and Issues Insurance Policies for customers through agencies based on location, with benefits provided by company. Business to customer, Business to Business and white sites three ways to issue insurance policy. It contains three modules:
+1. WAATS Engine – Retrieve the policy details in XML format  from Database based on input details.
+2. DDS – DDS (Document Delivery System) is a separate web service which interfaces with docucorp (A third party service) to generate documents like policy certificate. Application connects with the Document Delivery Service (DDS) via HTTPS and sends an XML GenerateDoc message with content-type text/xml to create a policy document. The XML message contains a series of parameters that both constitute a unique key to store and uniquely identify the document and provide verification criteria to ensure that the certificate requestor is the same entity that created the policy.
+Documents Delivery System, Generate the Policy in PDF with the details provided by WAATS Engine.
+3. FUI – Fulfillment through UI is the front end which user can view the policy
+Role:		
+Actively involved in development of Change Requests and Enhancements.
+Involved in the creation of PDF files using the Docucorp 
+Developed Unit test plan an d fixing the issues raised in HP QC.
+Involved in the Impact Analysis of the new Change Request.
+
+
+
+Project:	EWS (Extended Warranty System)
+Client:	AIG (US)
+Domain:	Insurance
+Technology:	J2EE (JSP, Servlet), HTML, JavaScript
+Duration:	June 2010 – November 2010
+
+Description:	The Gen-5 Extended Warranty System (Gen-5) is a web-based (java) online
+extended warranty (EW) certificate management system. The purpose of Gen-5 is to support the aggressive expansion of the Extended Warranty line of business around the world. Gen-5 is a robust system that provides end-to-end functionality, incorporating global best practices.
+Role:		
+Actively involved in development application and unit testing of the software.
+Developed Unit test plan and test report for the same.
+Impact Analysis of the new Change Request (Gaps).
+
+
+
+
+Academic Background:
+
+B.E. (Electronics & Communication)				July’2005 – June’2009	
+Bansal College Of Engineering, Bhopal, Rajiv Gandhi Technical University, Bhopal.			
+
+Trainings Undertaken:
+
+Had gone through 3 months of Technical and soft-skills training In Mphasis Learning Academy, Mangalore.
+
+
+Personal Dossier:
+
+Date of Birth				09th-Feb-1989
+Pan Card #				BVXPS0480B
+Languages Known			English, Hindi
+Permanent Address			127/211, W-1 Block,                                              					                       Saket Nagar,Kanpur. U. P. – 208014
+Residential Address			House#35, 1st Floor, 3rd B Cross, 21st Main,                                              					BTM Layout, 2nd stage, Bangalore 560076

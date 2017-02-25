@@ -1,0 +1,156 @@
+﻿                                                                                                                          
+
+HARIHAR DAS
+
+
+
+
+
+
+EDUCATION: 
+
+
+Course
+
+
+Specialization
+
+University
+
+Year
+Bachelor of
+Engineering
+Computer Science and Engineering
+Gauhati University
+2010
+
+
+EXPERIENCE SUMMARY 
+
+Employer
+From
+To
+Tata Consultancy Services Limited
+Dec 2010
+Till Date
+
+
+Areas/Applications
+
+Banking and Financial Services
+IPDAY1 – Universal Landing Zone(ULZ)
+Information Security – Security Review Monitoring
+
+SKILLSET PROFILE
+
+Operating Systems
+WINDOWS NT/2000/XP/7, Windows Server 2008, Linux
+Languages
+Java, JavaScript, HTML, XML, C/C++
+Database/ Database Tools
+SQL Server 2008, Oracle 10g, SQL Server Management Studio, Oracle SQL Developer
+Special Software/ Tools
+Eclipse EE IDE, Putty, SSH Tectia, Citrix Client, Beyond Compare, Blade Logic, IRIS, IPMS, Knowmax, Archer
+
+
+
+
+
+
+PROFESSIONAL CERTIFICATES 	
+
+Certification
+Date Certified
+IBM Certified Associate Developer - Rational Application Developer for WebSphere Software
+
+30th  April 2010
+
+
+IBM Certified Database Associate - DB2 9 Fundamentals
+19th  March 2010
+
+
+CAREER PROFILE
+Since Dec, 2010			Tata Consultancy Services
+Project #1:
+
+Project
+IPDAY1 – ULZ Initiatives
+Period
+June 2012 –Till date
+Client
+Bank of America. USA.
+Role
+Team Member
+Line of business of the client
+Banking
+About the Client
+Bank of America, headquartered in Charlotte, is one of the largest banks in the world. Bank of America provides several products and services to its customers. Other than customer savings account, they provide Merchant services, credit card, mortgage and many other products. Bank of America has entered into a Master Agreement with TATA Consultancy Services to utilize its offshore development services.
+About the project
+Universal Landing Zone (ULZ) receives and processes image based transactions captured from multiple front-end channels, such as ATMs, RDSo etc. Bank of America customers are able to perform check deposits at the ATM and Teller Counters without any need for deposit slips or envelopes. The information of the deposit along with the image of the check is supplied electronically to the ULZ system for processing the deposited transaction. Automatic recognition of the amount and the check information takes place in the ULZ system. ULZ associates may view check images and check information at the same time for verification purposes. If a correction is made to an Image ATM deposit, the correction notice is sent to the customer. This notice is called Advice notice that will have an embedded image of the deposited item(s) and details of the correction made to the customer’s account. After the processing by the ULZ system, the details of the deposit information are sent to the CPCS system (external to ULZ). The CPCS system posts the deposits (credit/debit) to the customer accounts.
+Responsibilities
+Involving in major Development and enhancement tasks
+Providing value adds to the application
+Prepare HLDs, LLDs and Project related documents
+Testing the system at Unit, Integration and System level
+Perform testing and deployment of update packages sent by third party software provider
+Communicate with the Onsite 
+Participate in onsite/offshore/client meeting
+Operating System
+Windows XP/Vista, Windows Server 2008
+Languages
+Java, C#, Informix, Sql server 2008, Oracle, HTML, XML
+Work Location
+TATA Consultancy Services, Bangalore
+
+Project #2:
+
+Project
+Security Review Management
+Period
+March-2011-May-2012
+Client
+Ameriprise
+Role
+Team Member
+Line of business of the client
+Banking
+About the project
+Any third party vendor who wants to do business with Ameriprise needs to go under various information security reviews as per standard guidelines of the bank. SRM team sends out standard questionnaires to third party vendors for their applications. The vendors return the filled in questionnaires and SRM team reviews those for all compliance checks. After completion of review, the SRM team shares review comments with the vendor. It also provides suggestions for closing security gaps if any. Only once the SRM team gives a green status to a vendor or an application that vendor goes with next steps for carrying out business with the bank. The whole workflow is tracked through Archer and an in-house portal which together act as central source of truth between vendor representative, bank LOB and the SRM team.
+Responsibilities
+Involving in major Development and enhancement tasks of the in-house portal
+Providing value adds to the application
+Prepare HLDs, LLDs and Project related documents
+Testing the system at Unit, Integration and System level
+Perform administrative role for Archer 
+Operating System  
+Windows XP
+Languages
+Java, J2EE, Silverlight, Sql server, Oracle
+Work Location
+TATA Consultancy Services, Bangalore
+Personal Details
+Date of Birth			
+July 25, 1987
+Sex
+Male
+Nationality
+Indian
+Marital Status
+Single
+Date of Joining
+December 13, 2010
+Designation
+Assistant Systems Engineer
+Location
+Bangalore
+Passport Details
+H6141579
+Issued at Guwahati on 13/07/2010
+Valid up to 12/07/2020
+Driving License Details
+AS-0120110103156
+Issued at Guwahati on 16/08/2011
+Valid up to 15/08/2031
+
+

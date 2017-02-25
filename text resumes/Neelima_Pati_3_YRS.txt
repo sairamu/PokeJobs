@@ -1,0 +1,79 @@
+﻿                                                        
+Address : House No-1398, 2nd Floor, 9th Cross, 13th Main, BTM 2nd Stage Bangalore, Karnataka- 560076
+Mobile   : +91 –  9916822252	
+
+CARRER OBJECTIVE
+To use my experience, expertise, programming ability and leadership skills to explore new avenues of growth in the IT industry.
+
+PROFILE SUMMARY
+Over 2.6 years of work experience in JAVA Programming, Banking Domain.
+Expertise Java/J2EE, JSP, Servlet, Struts, Hibernate, Oracle 10g, XML. 
+Designed web pages using Struts and JSP.
+Design and coding the application components.
+3.3 yrs of work experience in ICICI Bank as Application developer.
+Communicated effectively in writing and giving oral presentations to business clients.
+
+EDUCATIONAL SUMMARY:
+P.G.D.B (Post Graduate Diploma in Banking) from ICICI Manipal Academy, Bangalore in 2010 [CGPA: 7.9].
+B. Tech in Information Technology from National Institute of Science and Technology, Berhampur in 2008 [CGPA:7.4]
+12th (C.B.S.E, New Delhi) from Deepika School, Rourkela in 2003 (Percentage: 65).
+10th (I.C.S.E, New Delhi) from Sri Aurobindo’s School, Rourkela in 2001 (Percentage: 82).
+
+WORK EXPERIENCE:
+Worked as Application developer(AM-II) with ICICI Bank, New Delhi for 3.3 years.  
+
+CERTIFICATIONS
+SCJP 5.0 Sun Certified Java Programmer for the Java 2 Platform, Standard   Edition 4.0
+AMFI – Mutual Fund(Advisors Module) 
+NSDL – Depository Operations Module 
+
+TECHNICAL SKILLS
+Operating Systems             : Microsoft Windows (7, XP, 2000, NT), MS-Dos, Linux
+Databases                             : Oracle
+Programming Languages  : JAVA, JSP, Servlets, Struts, Hibernate
+Server		           : Tomcat, Weblogic
+Scripting Languages           : HTML, JavaScript, XML
+Skills 	                                 : Designing, Coding, GUI Designing
+
+PROJECT 
+Project Name
+:
+Asset Quality Forecasting
+Organization
+:
+Internal
+End Client
+:
+CPA
+Duration
+:
+May 2010- November 2012
+Language
+:
+Java, Jsp, Servlets, Struts, Hibernate, Oracle, JavaScript, Weblogic
+Description
+:
+The module AQ Forecasting is meant for the employees of ICICI Bank who are involved in forecasting the credit risk and also loss forecasting, so that it will help the company to judge how much wealth to keep and how much to give as loan and who are the customers having high risk rate. This application is basically to calculate the loss forecasting in quarterly basis.
+Role
+:
+Developer
+Responsibilities
+:
+Analyzed the forecasting functionality of the project
+Developed and coded the forecasting screens
+Integrated the data entry points for different lines of business
+Gathered requirements for data entry points.
+Tested the screens developed by other team members
+
+ACHIEVEMENTS
+Got promoted to next level, AM-II in the first year of rating in my first organization.
+Certified for various environmental and wildlife talent quizzes in South Asia region.
+
+PERSONAL SKILLS
+Excellent verbal and written communication skills.
+Good at organizing and managing events.
+
+HOBBIES/INTERESTS
+Gardening
+Reading Novels
+

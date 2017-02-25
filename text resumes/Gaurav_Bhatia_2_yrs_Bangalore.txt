@@ -1,0 +1,160 @@
+﻿
+Gaurav Bhatia
+
+MOBILE: +91- 8095189365
+              +91-9241117217                                                          EMAIL:    ergauravbhatia@yahoo.com
+
+HIGHLIGHTS
+
+
+
+2 Years & 4 month of experience in various phases of software development including System Analysis & Design, Development, Code-Review, Implementation, Documentation with HCL Technologies, Noida and Infosys,Mysore .  
+Good experience in Java, Swings, HTML, Servlets, JSP, XML, Hibernate, EJBs, Tomcat, Spring, Web Services.   
+Experience in Object oriented technologies.   
+Experience in Enterprise Java Beans.   
+Good knowledge of CMM Level 5, Six Sigma process methods.   
+
+SKILLS
+
+PROGRAMMING: Core Java, XML, JDBC, JSP, Servlets, Springs, SQL, EJB, HTML, Hibernite. 
+
+SDLC: Software requirements, Coding and Debugging, Code Maintenance and Bug Fixing. 
+
+TOOLS: Eclipse, Net Beans, MS Visio, Serena PVCS 8.3.1.   
+SERVERS: Apache Tomcat, JBoss v5.1. 
+
+EXPERIENCE
+
+Currently working as Senior Systems Engineer at Infosys Technologies, Mysore, Client :Royal Bank of Scotland (U.K)
+
+Involved in requirements collection and interacted with the client in the process.  
+Involved in the deployment of the developed web services. 
+Involved in the hands-on development and defect fixing of existing code.  
+
+
+Worked as a Software Engineer in HCL Technologies Noida , Client: IGOVERN, USA GOVT, Work Location: HCL Technologies, Noida. 
+
+About IGovern:
+
+IGOVERN™ Unemployment Insurance:
+
+HCL has built a suite of citizen-centric products under the brand-name “iGOVERN”.
+
+The suite comprises of dedicated case management solutions for different programs administered by the Department of Labor.
+
+Involved in requirements collection and interacted with the client in the process.   
+Involved in the hands-on development of web services using Eclipse.   
+Involved in the deployment of the developed web services.  
+Involved in the unit testing of the web services.   
+Involved in performing design and code reviews.   
+Involved in end to end web application development.   
+Involved in Maintenance, Support activities and Bug fixing.   
+
+Technologies Used: Java, Springs, JSP, Servlets, Hibernate, Xml, EHB.
+
+
+
+
+Software Engineer in HCL Technologies Noida  Client: United Nations Organization (UNHCR), Geneva, Switzerland Work Location: HCL Technologies, Noida. 
+
+About UNHCR:
+
+Focus is UNHCR’s software to support results-based management. The Focus client allows users to capture their assessment of the situation of each population of concern in terms of prioritized needs, to plan an operation that responds to these needs, and then to use the plan and its targets as the basis for managing the operation and for viewing and reporting on the progress being achieved, in a way that is consistent across operations.
+
+Involved in performing design, implementation and code reviews of new features.  
+Involved in requirements collection and interacted with the client in the process.   
+Involved in the hands-on development of Desktop Application using Eclipse.  
+Involved in the unit testing of the Desktop Application.  
+Involved in end to end Desktop application development.   
+Involved in Change Request activities and Bug fixing.   
+
+Technologies Used: Java, Swings, Springs, Hibernate, XML, EJB.
+
+ACHIEVEMENTS
+
+
+A slew of client appreciations in iGovern, USA. 
+
+EDUCATION 
+
+
+
+B.Tech in Computer Science and Engineering (2006-2010) Kurukshetra University, 
+Kurukshetra with 68.01%.
+Senior Secondary (10+2) from C.B.S.E. Board with 66% marks from GMSS-19 Chandigarh. 
+Higher Secondary (10) from C.B.S.E. Board with 82.6% marks GMSS-16 Chandigarh.  
+
+STRENGTHS AND INTERESTS
+
+High Level of Dedication and commitment to succeed and accomplish goals.   
+Ability to perfectly plan and execute the given job to perfection.   
+Flexibility and Sincerity are my greatest strengths.   
+
+PERSONAL DETAILS
+
+Date of Birth
+:
+24th  May, 1988
+Sex
+:
+Male
+Marital Status
+:
+Single
+Passport
+:
+Valid till 2021
+Languages Known
+:
+English, Hindi and Punjabi
+Hobbies
+:
+Listening to music, Sight Seeing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I hereby declare that the information declared above is true to the best of my knowledge.
+
+
+
+Gaurav Bhatia                                                                                      Place: Mysore, India
+
+
+

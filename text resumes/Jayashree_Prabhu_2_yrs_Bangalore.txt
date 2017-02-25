@@ -1,0 +1,173 @@
+﻿
+Jayashree Prabhu	 E-Mail:jays21.prabhu@gmail.com	Contact: +91-9538784774
+
+Seeking middle level challenging job assignments in Software Development Life Cycle with an organisation of high repute
+
+
+Professional Preface
+A dynamic and result oriented professional with 2 years 6 months of experience in Software Development Life Cycle including Application Programming, Unit Testing.
+Currently working with Misys Software Solutions (India) Pvt. Ltd., Bangalore as a Associate Software Engineer
+Expertise in development of software products from requirement analysis to system study, coding, unit testing, de-bugging.
+Expertise in Core Java, JDBC,OOAD, Oracle, DB2 & XML,HTML.
+Working Knowledge of SOA and work-flow based system.
+Skilled in various modules of a Core Banking System.
+Knowledge of deploying applications on JBOSS.
+Possess excellent interpersonal, communication and analytical skills with demonstrated abilities in customer relationship management. 
+
+Career Chronology
+
+Since July’ 10 with Misys Software Solutions (India) Pvt. Ltd., Bangalore
+
+The Growth Path
+July’ 10-May’ 11		            Graduate Trainee
+June’ 11-Till Date		Associate Software Engineer
+
+Attainment
+Recognised for the excellent work in the development of the BankFusion Universal Banking product for Misys Software Solutions (India) Pvt. Ltd., Bangalore during Apollo 9 release during nov’ 11- feb’ 12, Received an appreciation letter from CEO of the Company Mr. Micheal Laurie.
+
+Cleared the Universal Banking Level 1 Certification Exam.
+
+
+
+Areas of Expertise
+
+Technical
+
+Programming Languages	:	Java
+J2EE Technologies		:	JDBC
+Databases			:	DB2 and Oracle10g 
+Application Servers	            :	JBoss
+Version Control		:	CVS, VSS & SVN
+Tools				:	Eclipse 4.1, 
+MS Office  2003 / 2007, MS Excel 2007.
+
+Functional
+
+Software Development Life Cycle (SDLC) & Application Testing
+Gathering requirement specifications for application development; knowledge of database design & development. 
+Expertise in tuning the application for performance related issues. 
+Interacting with users for system study, requirements gathering, analysis, implementation and testing of system. 
+Executing software development systems in organisation.
+Handling development, testing, troubleshooting and debugging of the applications.
+
+
+Project Executed
+
+
+Title		:	Bank-Fusion Universal Banking (UB).
+Technology	:	Java, Oracle 10G, Hibernate & BankFusion Platform
+Durations	:	Since Oct ‘10.
+Role		:	Java Programmer
+
+Description        :	As a member of the Performance enhancements team, was brought into the team to help stabilize the product and steer the same to a market leader position. 
+
+My key achievements during working on this project are as follows
+Established software development standards and processing, including Java coding standards.
+Worked on several modules within Universal Banking. 
+Participated in the Performance Lab which involved in tuning the application to perform faster. The results were much appreciated by the entire organization as we achieved a performance improvement of over 300-400%.
+
+
+Product	:	Bank-Fusion Universal Banking (UB).
+Module		:	Treasury Module, FX Module.
+Technology	:	Java, DB2 9.7 & Misys proprietary Platform BankFusion.
+Duration	:	Jan’ 11- Jun’ 11.
+Role		:	Java Programmer
+
+Description        :	My key role during the course of working on this project has been around the Support of the various modules. 
+
+My key achievements during working on this project are as follows
+Worked on various modules of UB, Worked as a part of Implementation Support,
+And fixed Issues which were critical, Followed the standards.
+Quality of development was much appreciated by the organization. This was demonstrated by achieving a defect detection rate that was around 70% lower than the average.
+
+
+
+
+Product	:	Bank-Fusion Universal Banking (UB).
+Module		:	Standing Orders.
+Technology	:	Java, DB2 9.7 & Misys proprietary Platform BankFusion.
+Duration	:	July’ 11-Nov’ 11.
+Role		:	Java Programmer
+
+Description        :	This was a Project worked on Agile methodology.
+                                    My key role during the course of working on this project has been around the development of the CRUD operations for Standing Orders.
+
+My key achievements during working on this project are as follows
+Developed and unit tested the code within a short period of time and maintained standards, which was appreciated by the manager and the team.
+Interacted with the Business Analysts and testing team to help identify potential issues and gaps in the release.
+
+
+
+
+Product	:	Bank-Fusion Universal Banking (UB).
+Module		:	Party On Boarding and Party Management.
+Technology	:	Java, DB2 9.7 & Misys proprietary Platform BankFusion.
+Duration	:	Dec’11-Feb’12
+Role		:	Java Programmer 
+
+Description        :	My key role during the course of working on this project has been around the Party Consumption in Universal Banking (UB). I have been part of the team that has been responsible for the design and development of the Party On Boarding and Party Management Process. 
+Agile Methodology was followed.
+My key achievements during working on this project are as follows
+The Party was developed as an Independent module from UB to replace the Customer creation in the UB.
+I involved in the Party Consumption activity in UB, which involved interaction with the DBA to change the Database structure and testing of all the modules which uses a customer. 
+
+
+Product	:	Bank-Fusion Universal Banking (UB).
+Module		:	Setup Group limits- Country/Industry wise enhancements within Bankfusion Apollo Program.
+Technology	:	Java, DB2 9.7 & Misys proprietary Platform BankFusion.
+Duration	:	Feb’12-  Mar’12
+Role		:	Java Programmer 
+
+Description        :	My key role during the course of working on this project has been around the development of the application and unit testing. I have been part of the team that has been responsible for the design and development of the Group limits- Country/Industry wise enhancements within Bankfusion Apollo Program . 
+Agile Methodology was followed.
+
+My key achievements during working on this project are as follows
+Involved in end to end development of SetUp Group limits.
+Developed test cases before the development which was then used for unit testing of the code developed.
+Made modifications to the existing functionality of Account Opening process for Loan Accounts and Current Accounts, to include the Industry Maximum Limits 
+Interacted with the Business Analysts and testing team to help identify potential issues and gaps in the release.
+
+	
+ 
+
+Academic Credentials
+
+Bachelor of Engineering (Information Technology)
+                                Nitte Mahalinga Adyanthya Memorial Institute of Technology,(NMAMIT, Nitte)- June 2010.
+
+
+Qualification
+Name of Examination
+Year of Passing
+Board / Univ.
+Institution
+Percentage
+Graduation
+B.E(IT)
+2010
+     VTU
+   University	
+Nitte Mahalinga Adyanthya Memorial Institute of Technology, Nitte Udupi Dist. Karnataka.
+72.79%
+XII
+HSC
+2006
+Karnataka Secondary State Board
+Sri Bhuvanendra College, Karkala. Udupi Dist.
+Karnataka
+83.50%
+X
+Matriculation
+2004
+Matriculation
+KMES school, Karkala.
+Udupi Dist.
+Karnataka
+93.28%
+
+
+Personal Minutiae
+
+Date of Birth	:	07th November 1988
+Address	:	#380, Sai Ram Pg. 23rd Main. 2nd Stage Bangalore.
+

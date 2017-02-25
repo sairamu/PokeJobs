@@ -1,0 +1,135 @@
+﻿
+Jitendra Kumar
+C/O-Ganesh Poojari,
+House Number: 103, Kullappa Colony,
+Jeevan Bima Nagar
+Bangalore-560 075
++91 9886936750
+E-mail:   jitendrakumar1110@gmail.com
+
+Summary:
+
+2 Years and 4 months of Experience in TCS in Software Development.
+(Core java,j2ee,Oracle database,Spring and hibernate)
+
+
+Professional Experience:
+
+Systems Engineer		                  May’12-Present
+TCS				Project: Terminal Management System (TMS), EFTPOS Devices
+				Client: Commonwealth Bank of Australia
+Role: Involve in the development and Enhancement of TMS web based Application using Core java, J2EE, spring and Hibernate, oracle databases. Used spring integration framework in the 	TMS application. Involve in the fixes of defect raised for the application. Used IBM WebSphere Servers and IBM WebSphere MQ.
+Description: This project used TMS application to manage the terminal like EFTPOS, IWL devices etc. Using this application we create terminals, products, software, applications according to devices. We have the facility like create, delete, update and manage the terminals.
+
+
+Assistant System Engineer		Oct’11-May’12
+TCS				Project: Trade Finance (TF3)
+				Client: Deutsche Bank, Singapore
+Role: Involve in the development and Enhancement of backend Application TF3 using Core java, oracle databases. Designing and writing the test cases for the various releases. Involve in the fixes of defect raised for the application. Executed the test cases after the deployment of the application.
+Description: Trade Finance, a Corporate Banking application, developed by Deutsche Bank (DB), TFCoC, Singapore. The application supports entire range of functions involved in the business of Trade Finance such as Letters of Credit, Import Bills Negotiation, Import Bills Purchases, Shipping Guarantees, Bank Guarantees, Export Bills Purchase, Export Bills Negotiation, Packing Credits and allied products. The application is interfaced with Core Banking System, Electronic Banking System, SWIFT, and Risk Management.  Interfaces like DBDOC / DB Internet Banking.
+
+
+
+Assistant System Engineer-Trainee	Jan’11-Oct’11
+TCS				Project: Trade Finance (TF3)
+				Client: Deutsche Bank, Singapore
+Role: Involve to the Component Integration Testing (CIT) and functional testing (SIT) of Trade Finance product through backend application (TF3) for a European based MNC bank. 
+Understand the functionalities of the new enhancement towards TF3 application from the functional analyst.
+Writing up the test scenarios, test concept document and preparation of test cases for new enhancement.
+Help team at the time of execution of the test cases in case they have any doubts.
+Module wise review of tests executed.
+Enhancing the test cases creation and quality execution.
+Defect analysis, logging and tracking through HP Quality Centre.
+QA and Regression Testing in SIT before UAT initiation.
+Involve in the execution of the Regression test cases and updating of the object and script in  Automation tool HP QTP (Quick test professional) and SmarTest  Framework 
+
+Description: Trade Finance, a Corporate Banking application, developed by Deutsche Bank (DB), TFCoC, Singapore. The application supports entire range of functions involved in the business of Trade Finance such as Letters of Credit, Import Bills Negotiation, Import Bills Purchases, Shipping Guarantees, Bank Guarantees, Export Bills Purchase, Export Bills Negotiation, Packing Credits and allied products. The application is interfaced with Core Banking System, Electronic Banking System, SWIFT, and Risk Management.  Interfaces like DBDOC / DB Internet Banking.
+
+
+
+EDUCATIONAL DETAILS
+2010: Bachelor of Engineering (BE) from Visvesvaraya Technological University, Belgaum with 73.03 % marks.
+TECHNICAL SKILL EXPERTISE
+
+Skill Area
+Duration
+Rate on a scale of 1- 10
+(10 being the least)
+JAVA               (Sun Certified Programmer for the Java        Platform, SE 6(SCJP) with 95% marks.)
+8 months
+3
+J2EE     (Certificate in Web Component Development Using Java Technologies) from NIIT.
+8 months
+4
+Infosys campus connect for technical and soft skills
+3 months
+2
+TCS Business Domain Academy: Certificate in Trade Finance L2
+3 months
+3
+
+AREAS OF TECHNICAL INTEREST
+
+
+Core JAVA,J2EE,Spring and Hibernate, C,C++,Oracle Database, JavaScript,Shell Script, Data Structures, SQL Query, Analysis and Design of Algorithms, UNIX, Linux ,Basic of MySQL ,CSS, XML,HTML.
+
+
+
+
+ACADEMIC ACHIEVEMENTS
+
+
+1>  Participated in National And State Level Technical Symposium in different colleges and achieved participation certificate on the topic ‘Cloud Computing’,’ Red Tacton’, and ‘Artificial Intelligence –Ant Colony Optimization In Solving Travelling Salesman Problem’.
+
+2> A mini project on the topic ‘TIC TAC TOE GAME’ using OpenGL and C Language. 
+
+
+ACADEMIC PROJECT
+Project Title
+Implementation of Classification Algorithm Using Data Mining Concepts for Hydrological Problems
+Duration
+4 months
+Team size
+4
+Project Description
+This project is concerned with the implementation of the classification algorithm in the Weka –data mining software; in this we have integrated our algorithm “SimpleFuzzyGrid” in the rules section of the classification menu. By using this algorithm we got the better classification output in comparison to the other existing algorithm and this output can be used for further prediction on different problems and data sets including Hydrological problems.
+Hardware
+Computer with well functioned equipment.
+OS
+Windows XP
+Software
+Net Beans IDE, WEKA Software.
+
+HOBBIES/ INTERESTS
+
+Playing computers games, watching movies and listening to music.      
+PERSONAL DETAILS
+Date of Birth 
+04-Mar-1987
+Present  Address
+C/O-Ganesh Poojari,
+House Number: 103, Kullappa Colony,
+Jeevan Bima Nagar
+Bangalore-560 075
+Permanent Address
+S/0-Mr. Markanday Kumhar,
+1 BR Colony, Qt. No.-50R,
+P.O.-Bachra,Dist.-Chatra,
+P.S.-Piparwar,
+Jharkhand-829 201
+Nationality
+Indian
+Marital Status
+Single
+Gender
+Male
+Languages known
+English, Hindi
+
+
+
+DECLARATION
+
+I hereby declare that the information furnished above is true to the best of my knowledge.
+
+Place: Bangalore								           Jitendra Kumar

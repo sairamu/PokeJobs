@@ -1,0 +1,128 @@
+﻿						
+Jitendar Mandali
+				         Email: jitendar7@gmail.com
+						       Mobile: 91-9036058589, 9490934547
+
+Career Objective 
+ To obtain a position with an organization utilizing my strong programming and analytical skills combined.
+
+IT Experience
+Total IT experience of 3.6 years. 1.4 years of experience in ITC Infotech (Bangalore) in Core Java, Android, 1.8 years of experience in Capgemini (Hyderabad) in Core Java, 6 months of experience from IIIT Hyderabad, worked as an intern.
+
+Designed & developed an android application called ‘SMS Scheduler (TimeUrSMS)’, PicPuzzle over duration of 2+ years. 
+
+Independent Product (Android App) Development
+
+Name: ‘SMS Scheduler (TimeUrSMS)’
+Category: ‘Communications’
+Links: 
+https://play.google.com/store/apps/details?id=com.app.smstimer.free
+http://www.linkedin.com/pub/jitendar-m/b/6a5/3b0
+http://stackoverflow.com/users/1039844/jitendar
+Available: Online
+Current Version: 1.1.0
+Works For: Android 2.1 and above
+Description: Schedule the SMS at a particular date and time
+Various options available for the app are
+Today:
+Gives you the list of SMS's that are scheduled for the current date and time.Once scheduled you can view, edit, delete, disable/enable the SMS. Once your sms is sent the sms entry is automatically deleted in the Today option and appears in the History, giving you the details of sent sms.
+
+Tags:
+Scheduled SMS's can be tagged to a name using the 'Add Tag' option available in the 'add new message' option available on the top of the main screen. Tags allow you to easily filter for specific scheduled SMS's. You can view, edit & delete the SMS at anytime. You can use tag names like Anniversary wishes, Birthdays, Christmas, Good Morning, Good After Noon, New Year wishes. 
+
+History:
+Stores the sent messages both successful & unsuccessful attempts, sorted based on the latest SMS sent. Click on the individual message's to view the details about the scheduled SMS.
+
+Technologies/Frameworks used:
+Core Java, Android Framework 
+Admob 6.0.0 (advertising SDK), MobFox 1.5 (advertising SDK) used for monetizing. 
+
+Professional IT Experience
+
+Company:							        Duration: 1.4 years and till date
+ITC Infotech, Banglaore
+
+Client:								 
+Danske Bank (Denmark)
+ 	
+Technical Environment: core JAVA, Android, Mainframes
+Team size: 3 Members.
+Development: Agile Development
+Project Description:
+Mobile Payments
+A customer can attach his/her bank account to their phone number using the mobile application (subscribing for the mobile payments service) for sending payments. 
+Customers use the bank’s payment service to transfer money to other customer using their phone numbers as the key.
+This service run’s 24X7, so the customer’s can transfer money instantly unlike in net banking. 
+
+Role: Software Developer
+	Developing the android/java components which interact with the backend interface like registerUser, showPayments, sendMoney etc... which are developed in mainframes. 
+
+
+Company:							    	Duration: 1 year, 8 months
+Capgemini, Hyderabad
+
+Eclipse Plug-in: Effort Logger
+Technical Environment: core JAVA, Eclipse IDE
+Team size: 5 Members.
+Description:
+A software tool specifically designed to capture effort and defect information of projects developed in eclipse environment (Java).
+This plug-in record’s project names, life cycles, and deliverable definitions, so as to accurately determine how developers spend their time.
+
+Eclipse Plug-in: SLOC (Software Lines of Code)	  			       
+Technical Environment: core JAVA, Eclipse IDE
+Team size: 5 Members.
+Description:
+To help estimate the productivity of developers work. 
+It provides the user with a brief report on the similarities and deviations between the two java files with respect to LOC (Lines of Code).
+
+
+
+
+Employer:									           Duration: 6 months
+IIIT Hyderabad, CETLS
+
+Designation:									        
+Software Developer
+
+Description:								
+Worked on the Design and Development of the English Language games for Rajiv Gandhi University of Knowledge Technologies for CETLS research center of IIIT Hyderabad.
+
+
+Other Achievements
+Achieved all India GATE percentile of  97.4 %(Electronics Engineering)
+
+
+Education
+MS in Information Technology (MSIT)                                                                     2007-2009
+            IIIT, Hyderabad in collaboration with Carnegie Mellon University, Pittsburg                  78%   
+B.Tech –Electronics and Communication 						 2007
+CVR, JNTU university, Hyderabad  	                                                                               75.17%
+Higher Secondary – Intermediate							 2002           Ratna Junior college		                                                                                           92.7%
+High School – SSC									 2000
+	G. Pulla Reddy High School, Hyderabad        				                   83.4%
+                                
+                                                                                         
+Technical Skills
+
+Operating systems		    : Android OS
+Programming Languages	    : OOPS, Core Java (Generics, Collections, Serialization, 
+                                              Multi Threading, Data Structures), C
+Scripting Languages                : Perl, Python
+Databases 			    : DB2, Sqlite
+
+
+Personal Details
+
+Date of Birth: 6th June 1985
+Full Name: Jitendar Mandali
+
+Strengths
+Good problem solving, programming & debugging skills.
+Very strong and solid programming, fundamentals and skills in Core Java
+Can take Initiative for new activities.
+Good Communication skills
+Good logical and analytical skills
+Good Team Player
+Other Interests
+Developing Android Applications
+Listening Music

@@ -1,0 +1,138 @@
+﻿
+GIRISH KOSHTI
+E-Mail: koshtigirish@gmail.com
+Present Address:-#60, 5th main, BTM 1st Stage,
+Jai Bheema Nagar, Bangalore - 560068
+Phone: +918123986834
+
+SUMMARY:
+
+Overall 2.5 years experience in java development.
+5 month experience in 3i­-Technology Solution Pvt Ltd.
+2 year experience in Fresco Software Solution Pvt Ltd.
+Experience in Core Java and J2EE Technologies.
+Quick learner with curiosity to grasp New Technologies.
+Strong technical and experience in Core Java, Servlet, JSP.
+Involved in developing custom tags
+Good Exposure in multithreading,Collection API concepts.
+Working experience in javascript Google map,xml ,json,jquery.
+Knowledge on  Html5, Ajax, Java script, Hibernate3.0, Struts 1.1,WebServices.
+Very proficient in MVC Architecture.
+Web application development using IDE like Eclipse ,NetBeans7.2.
+Experience in configure the application using Tomcat Web Server.
+	
+EMPLOYMENT HISTORY:
+	
+Organization		                   Period		      Designation
+
+      3i-Technology Solution Pvt Ltd.
+    (Company of 3i-Corporation Brasil)          AUG 2012 –Till Date.  Software Engineer.
+    
+      Fresco Software Solution Pvt Ltd.         July 2010 – AUG 2012    Java Developer.
+SKILL SET:
+
+Operating Systems      :  Windows XP, Windows 7
+         Platform         	                 :  Java 6.0,Java 1.7 ,JavaNetworking.
+            Languages	             :  Core Java/J2EE,Socket Programing.            
+            Environment -1            :  Multithreading, Html5, Sql, JDBC, JavaScript
+            Environment-2             :  Google Map javascript,json,jquery., Ajax.,xml
+            Database	             :  Oracle 10g, Derby Database..
+            Framework	             :  JSP, Servlet , Hibernate3.3, Struts 1.1.
+            Design Pattern             :  Singleton and MVC.
+Web Server		 :  Tomcat5.5
+           Programming Tools      :   Eclipse,EditPlus.NetBeans 7.2
+
+PROJECTS UNDERTAKEN:
+
+1st:
+ Project	  :  Zeus Server & Igaurd-Tool.
+ Company           :  3i-Technology Solution Pvt Ltd.
+ Period	  :  Aug 2012-Till Date.
+ Position	  :  Software Engineer.
+ Team Size	  :  4
+  IDE                     : Netbeans 7.2
+ Tool Used           : Core Java, JSP,xml, Multithreading, Html and Html5,Jquery,
+                             Javascript,Css,sql, Ajax,Derby Database,Json,
+                                   Webservices,Google Map javascript, socket programming.
+
+
+Description  :   Zeus Server and Iguard-Tool is a product of 3i-Corporation(brasil).This system provide server facility to client to uses of internet with high efficiency.This system is connected Through the Pegasus2.0 connector tool of company,it is provide 1000 client service at a time without any intrupt.All the data is parse with json coming from database through                                                                                                                                                                                             Webservices  and goes to update table of all information to table and same process is revert back to database through json to webservices.Iguard-Tool is client provide service as Toor,map, data rate,fleet management (polyline and polygon service) through the google map and they can take all service from the iguard-tool .
+
+ROLES  &  RESPONSIBILITIES :
+
+Coding with java to create Connection of all database and embedded system.
+Stored procedure to call database used in java class.
+Google map application create as polygon,polyline,rectangle and service used in Igaurd-Tool.
+Website of Zeus Control center create in jquery, html5, css  ,javascript and connect all client with database through json and webservices.
+Involved in analyzing the application requirement .
+Documented for the whole Project to understand in better way and root cause analysis.
+Create Socket connection client and server.
+Involved in Coding with Java & Creating Class Libraries for Business Logic, Business Entity and Data Layer Using Java.
+
+
+2nd:
+ Project	  :  Finance Management.
+ Company           :  Fresco Software Solution Pvt Ltd
+ Period	  :  Dec 2011 – Aug 2012. 
+ Position	  :  Java Developer.
+ Team Size	  :  8
+ Tool Used          : Core Java, JSP, Servlet , Hibernate3.3, Struts1.1,
+                             Multithreading, Html5,css
+                                  Ajax,Sql,oracle10g,sql,xml
+
+Description  : The system mainly deals with the automation of the activities performed. which issued various kinds of loans to their Customers and accepts monthly installments from them.When the Industries pay the loan installments, details of loan number, payment id, amount and date of payment are gathered and stored.Simply choosing the appropriate menus such as Employee details report, Customer details report, generates various reports, Loans detail report, Interest report, Customer-loan details report & Payment details report.The system security is taken care of by a login form. The system mainly deals with the automation of the activities performed.
+
+ROLES  &  RESPONSIBILITIES :
+
+Understanding of Software Requirement Specification coming from Project management team.
+Involved in analyzing the application requirement 
+Documented for the whole Project to understand in better way and root cause analysis.
+Involved in Coding with Java & Creating Class Libraries for Business Logic, Business Entity and Data Layer Using Java.
+
+
+
+3rd:
+
+ Project	   :   Transmitter Distributed Technology.
+ Compony            :   Fresco Software Solution Pvt Ltd
+ Client                   :   Kaveri Electrical Limited.
+ Period	   :  July  2010 -Nov 2011.
+ Position	   :  Java trainee.
+ Team Size	   :  7
+ Tool Used           :  Core Java,JSP, Servlet ,Struts1.1, Multithreading,jquery 
+                              Html,css,JavaScript,oracle 10g, Hibernate3.3,sql,xml
+
+Description :The intention of this project is to automate different functionalities of a Transmitter Manufacturing company Kaveri Electrical Limited. There are different types of transmitters and each transmitter has many specifications. It is very tedious process for the customer to select a particular transmitter manually. So to ease the process, In this project we are giving option for the admin of the company to enter the specifications of each transmitter in to the site. He can alter the product details later on and he can also delete a product from the list. He has the privileges to perform different operations on the product.Customers can login to the site and they can view the details of different transmitters and can select the product with the specifications that he want. After selecting a particular product with the specification of his need, he can order the product.This project helps the company people to maintain the details of different transmitters efficiently. It also helps the customers to choose a particular product by looking at all the product details.
+
+ROLES  &  RESPONSIBILITIES :
+
+Understanding of Software Requirement Specification coming from Project management team.
+Involved in Coding with Java & Creating Class Libraries for Business Logic, Business Entity and Data Layer Using Java.
+
+EDUCATION (ACADEMIC):	
+
+Bachelor of Engineering, Electronics &Communication, 2010 BATCH
+Sagar Institute Of Research & Technology, RGPV University Bhopal 72.03%
+12thS.H.S Kareli, M.P. Board, 73.50%
+10thNov S.H.S Kareli,M.P. Board, 80.60%
+
+Extra  CURRICULAR  ACTIVITIES  AND  ACHIEVEMENTS:
+	
+Major  training  from west central railway Bhopal
+3 Months Traning in java/j2ee in HP Compony.
+2nd Prize In BENCH PRESH competition organized by iron men health club 2009 in Bhopal.
+Certificate of dance competition in school level.
+Participant in national level event Tech contra-2k8 & quiz competition in Technosagaorganized by SIRT Bhopal.
+
+
+
+Personal details:
+
+Father’s Name	:	Mr. Ghanshyam Prasad Koshti.
+Mother’s Name	:	Mrs.ChhayaKoshti
+Languages Known	:	Hindi & English.
+Date of Birth		:	16th June 1987
+Marital Status	:	Single	
+Residential Address	:	M-25 Aakansha Colony, Barman (Narsinghpur)
+Contact Number	:	07793-275846
+

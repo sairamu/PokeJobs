@@ -1,0 +1,102 @@
+﻿	
+Munna Kumar                                     Email – krmunna01234@gmail.com                                                            
+Bangalore, India            		                                   	Mobile - 91-9242075476
+	       
+	                                                                						
+			
+
+Professional Experience
+
+2.5 years of Experience as a Software Engineer
+Having good experience in Java, JSP, Servlet, Struts, Spring IOC, Spring JDBC.
+Good implementation knowledge in Hibernate and C++.
+
+Work Experience
+
+Working as a Software Engineer in SLK Software Services Pvt Ltd, Bangalore from November 2010 to till date.
+
+
+Skills
+
+Languages 	JAVA, SQL, PL\SQL, HTML
+J2EE Technologies	SERVLET, JSP, JDBC
+GUI & Scripting	HTML, CSS, JAVASCRIPT, XML, XSD, WSDL
+Framework	Struts, Spring IOC, Spring JDBC
+Databases	SQL SERVER, DB2, MYSQL
+Server	                       Web Sphere 6.1, Jetty 7.5, Apache Tomcat 5.0
+IDE\Tools		Eclipse, RAD, AQT, SOAP UI, Visual Studio
+
+
+
+Project Handled
+
+Project Title                 :          B2B Commercial Banking, Fifth Third Bank, USA
+
+Team			:	Investment Advisor
+Environment		:	Java, JSP, Struts, Spring IOC, Spring JDBC, C++
+Platform		:	Windows XP	
+Duration		:	July 2011 – Till Date
+Role and Team Size	:	Developer, 2
+Description		:
+
+	Commercial Banking of Fifth Third bank provides B2B services to customers and bank internal users. In this portal there is Investment advisor is a separate Line of Business. This LOB is used to manage the trust customers from different areas like flooring, mutual fund, Asset allocation and their transaction history etc. I am working for new change request enhancement and also migrating data access business logic from C++ to Spring IOC and Spring JDBC.
+
+Responsibilities	:
+Involved in understanding requirement, Prepare IAR, UTC and UTR.
+Involved in direct interaction with customer Business Analyst for any clarification.
+Involved in developing User Interface by using JSP and various validation by using Struts framework.
+Involved in understanding the existing business logic written in C++ for the technology migration.
+Involved in technology migration by Using Spring IOC and Spring JDBC.
+Follow SDLC rules and processes.
+
+
+
+Project Title                 :          B2B Commercial Banking, Fifth Third Bank, USA
+
+Team			:	Commercial card Management and Admin & User setup
+Environment		:	Java, JSP, Struts, Spring IOC, Spring JDBC, C++
+Platform		:	Windows XP
+Duration		:	Nov 2010 – June 2011
+Role and Team Size	:	Developer, 8
+Description		:
+
+Commercial Banking of Fifth Third bank provides B2B services to customers and bank internal users. In this portal there is Commercial Card Management is a separate Line of Business. User can manage the personal information, manage commercial card, apply for replacement card, transaction history, card payable etc. User can pay online to other customer, get statement.
+Admin & User Setup: Bank Admin can create External Admin for customers and also can provide the job role, right and restriction of some services to the corresponding Users. Every External Admin can create user Id and provide the role, right and restriction of some services.
+I was working as developer for new change request enhancement. 
+
+Responsibilities	:
+
+Involved in understanding requirement, Prepare IAR, UTC and UTR.
+Involved in direct interaction with customer Business Analyst for any clarification.
+Involved in developing User Interface by using JSP and various validation by using Struts framework.
+Involved in technology migration by Using Spring IOC and Spring JDBC.
+Follow SDLC rules and processes.
+
+
+Educational Qualification	
+
+Bachelor of Engineering (Computer Science & Engineering) from Shri Shankaracharya college of engineering & Technology, Bhilai (Chhattisgarh)
+B.E.	:	7.09/10
+12th 	:	70.1%
+10th 	:	70.2%
+
+Strengths:
+
+Target oriented Work Schedules
+Self-Motivated and dedicated to complete the task before the dead line
+Get along well with people
+Hardworking
+Strong Learning & Grasping ability
+Interact well with Team & Management 
+
+
+
+
+	
+	Date of Birth	:	6th Sep 1986	
+	Sex	: 	Male
+	Marital Status	:	Single
+	Languages Known	:	English, Hindi
+	Passport	:	H9413699
+      		
+                  

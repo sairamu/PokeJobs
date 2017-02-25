@@ -1,0 +1,112 @@
+﻿
+Arijit Das                                          
+                                                                                       Email : das.arijit5@gmail.com
+  Work-Experience: 38+ months					Phone: +91–9886271708
+
+Career Objective
+To work in a creative and challenging environment that gives me opportunity to interact with clients, acquire business knowledge and keeps me abreast with the latest technologies.
+Experience Summary
+3.2+ years of experience in JAVA & J2EE technologies (Development of Web based applications and batch processes)
+Extensive hands on development experience using Core JAVA, Springs, Struts, XML, HTML, Java Scripts, JSP, Servlets, JPA, PL/ SQL
+Strong knowledge in OOPs and Software Development Life Cycle process
+Domain Knowledge in Banking and Capital Markets
+Education
+B.Tech., (Computer Science)	2005 – 2009 	West Bengal University of Technology	8.5 DGPA
+HSC				2003 – 2004 	CBSE					67.6%
+SSLC				2001 – 2002 	ICSE					79.8%
+Technical Skills
+Programming Languages 		: C, Core Java, J2EE
+Web Technology			: Struts, JSP and JDBC, Springs, Servlets, JSF.
+Scripting / Mark-up Languages	: JavaScript, HTML and XML, Wiki Markup language.
+Servers				: Tomcat, Web sphere 6.0.
+(R)DBMS			: ORACLE PL/SQL
+IDE				: Eclipse3.1, IBM Rational Application Developer.
+Version Control Tools       		: VSS, Serena PVCS Version Manager.
+Operating Systems		: Windows XP and Windows 7.
+Domains 			: Batch processes and Web Development
+Professional Experience
+Role: 
+Developer (Senior Systems Engineer )                                         Duration: Sep 2011 – Till Date
+Company: 
+Infosys Technologies Limited
+
+Client:
+
+“Citi Private Bank" is a business of Citigroup Inc. ("Citigroup"), which provides its   clients access to a broad array of products and services available through bank and non-bank affiliates. Hence, it provides various informative and transactional online services.
+
+
+About the Project:
+The project is developed on Java Weblogic 10.3 portal framework. The development work includes requests for adding or modifying any functionality or tabs. It may also deals with rebranding the website according to the most user friendly interface for user convenience. Also, high and strict security checks and transactional management services are provided for the security of clients.
+
+
+Responsibilities:
+
+Involved in requirement analysis and design for any incoming change request.
+
+Involved in development and enhancement of GUI for several modules.
+
+As a Java Developer – engaged in creation/modification of    jsp, java, xml and property files. 
+
+Engaged in writing and executing SQL queries in addition to PL/SQL blocks (for adding/modifying in a database)
+
+Involved in analyzing and fixing bugs.
+
+Involved in Documentation (includes creation of Technical Design Document, Impact Estimation and Unit Test Plans as per requirements)
+
+Participated in peer review testing.
+
+Technologies Used:
+Java, J2EE, JSP, Java Script. HTML, Struts Framework, EJB, PL/SQL.
+
+
+
+
+Role: 
+Developer  (Systems Engineer)                                                Duration: May 2010 – Aug 2011
+Company: 
+Infosys Technologies Limited
+
+Client: 
+DTCC(The Depository Trust & Clearing Corporation)  is one of the world’s largest post-trade financial services company, providing clearing, settlement and information services for equities, corporate and municipal bonds, government and mortgage-backed securities, money market instruments and over-the-counter derivatives. It is also one of leading processor of mutual funds and insurance transactions, linking funds and carriers with their distribution networks.
+
+About the Project:
+The project involves development of a new system to support trade comparison, netting and settlement for the U.S Government securities market Place and migration from existing system that is developed using legacy technology. 
+
+
+
+Responsibilities:
+Involved in creation of Technical Specification documents and prototyping of user Interfaces to define the structure of the website as a whole. 
+Involved in development of batch processes using Core Java, springs, XML marshaling, un-marshaling techniques.
+Developed Web based Applications using Struts framework.
+Developed modules that communicate with Mainframe systems via Web Sphere MQ.
+Worked closely with Client managers to implement new business validation rules for the application. 
+Created Functional Test Cases for certain modules.
+ Reviewed and performance tested some modules developed by fellow team members
+Part of the knowledge management team, mentored new joinees to maintain knowledge and provide knowledge transition and support.  
+Worked briefly on an assignment with Quality Assurance team.
+
+Technologies Used:
+HTML, CSS, JavaScript, JSP, Core Java concepts, Struts, Springs, JDBC, Web Sphere MQ to communicate with Mainframe systems, XML (Involving Marshalling and Un-Marshalling techniques)
+
+Role: 
+Systems Engineer Trainee                                                          Duration: Dec 2009 – Apr 2010
+Company: 
+Infosys Technologies Limited
+
+Training Summary: 
+Attended the five month full time training program on RDBMS, UNIX, Core Java and J2EE (JSF framework) conducted by Infosys Education and Research unit.
+
+Key Deliverables:
+Developed a three tier automated sales application using JPA, POJO and JSF frameworks using Eclipse as the IDE, as individual assignment
+Developed a hospital management system using J2EE technologies as a team assignment
+
+Personal Profile
+
+Name                		: Arijit Das
+Father’s Name         	: Jayanta Kumar Das
+Sex		        	: Male
+Marital Status	        	: Single
+Nationality	        	: Indian                   
+Date of Birth           	: 06th April 1986.
+Languages            	: English, Hindi, Bengali (read, write, speak).  
+Permanent Address     	: 289, Nandankanan, Monoharpur, Dankuni, Hooghly, West Bengal.

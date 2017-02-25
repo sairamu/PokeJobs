@@ -1,0 +1,88 @@
+﻿
+Laldhari Prasad
+Contact Number: +918792534672
+Email ID: pd.laldhari@gmail.com
+Professional Summary
+
+Having 2.3 years of experience as a Software Developer in the IT industry.
+Technical expertise in Core Java, JDBC, JSP, Servlet.
+Worked extensively in J2EE Design Patterns.
+Hands on Experience in Struts Framework
+Hands on Experience in Hibernate Framework
+Good Knowledge in Spring Framework.
+Good Knowledge in AJAX and JavaScript.
+Highly capable to adapt new application environment.
+
+Experience Summary
+
+Working as a Software Engineer for IBM INDIA Pvt. Ltd. Bangalore since January 2011 to till date.
+
+Education
+
+B.Tech (Information Technology) degree under University Of Kerala in 2011.
+
+Technical Skills    	
+
+
+Skill Set
+
+Operating System			:      Windows Family
+
+Languages/Scripts			:      Java, SQL, HTML ,JavaScript 
+	
+Application/Web Servers		:      Web logic, Apache Tomcat, Jboss.
+
+J2EE Technologies		             :      JDBC, Servlets, JSP.
+	
+RDBMS				:      Oracle, MySQL.
+
+Frameworks				:      Struts, Hibernate, Spring
+
+Tools				             :       Log4j, Ant
+
+Project #1
+
+      Title	:  AutoNation
+      Client	:  AutoNation, USA 
+      Role	      : Team Member
+     Team Size	      : 9
+      Environment	:  Struts, Hibernate, JSP, JBoss, Oracle and Eclipse
+      Duration	:  May 2012 to till date
+ Description:   
+           This project is automation of searching for a required new and used car according to brand and model which we want to buy. This project allows visitors view and research vehicle information and inventory across the AutoNation. Dealer network and submit a request(s) for chosen configurations. This site provides the following functionality: vehicle research, view price quotes, dealer locator and lead data gathering. 
+         Responsibilities:
+Designed JSP’s as per the Requirement.
+Implemented Action Classes.
+Implemented Form Validations using Validation Framework.
+Implemented Custom Validations as per the Requirement.
+Written Hibernate Mapping Documents and Persistence Classes.
+
+Project #2
+
+Title	:  St. George Bank, Australia
+      Client              :  Online Banking System (Personal Loan)
+Role                 :  Team member
+      Team Size	       :  8
+Environment   :  Java, JSP, Struts, Hibernate, Eclipse, Web logic and Oracle
+      Duration          :  Jun 2011 – Apr 2012. 
+Description:       
+             Online banking module for Personal Loans of St George Bank is for providing various services online to its customer on their Personal Loan Accounts. Customer can View and Update account information. This Module is also for the DSA (Direct Sales Associates) who interacts with customers in loan disbursement Process. When a customer applies for a loan, customer information will be entered into System. Later verification information (Phone, Office, and Home) will be entered into System. Manager who is going to approve the loan will track this status. If everything is fine, loan will be approved. After approval, dispatch department will prepare the Cheque and will be issued to the customer.
+  
+         Responsibilities:
+Designed JSP’s as per the Requirement.
+Implemented Action Classes.
+Written DAO’s and their implementations With Hibernate.
+Implemented Hibernate Components.
+
+Project #3
+
+       Title			:  Online Book Store
+       Environment		:   Java, JSP, Servlet, JDBC, MySQL
+       Web Server		:   Apache Tomcat.
+       Description    :        
+		It Provides free registration form for the Student. After Login, Students can access Book from the List, if want can purchases book by adding in Shopping cart if they want they can remove the books from the cart. It Provide all the information related to book like cost, number of book available etc.
+
+Responsibilities:
+Responsible for writing Servlet.
+Designed JSP`s as per the Requirement.
+Responsible for writing JDBC components for DB interaction

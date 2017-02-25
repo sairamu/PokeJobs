@@ -1,0 +1,138 @@
+﻿    				
+                                                                  Mantosh Kumar Singh
+			
+E-mail: mantoshsingh108@gmail.com                                                     Mobile: +91 9538045689
+
+Objective
+To Do A Challenging Work On Java/J2EE Platform Were My Technical And Analytical Skills Would Be Applied For The Betterment Of The Organization And It Encourages Creativity To Offer An Opportunity For Individual Development As Professional.
+
+Profile Summary
+3+ years of IT experience in various technologies like Java, JSP, Servlets, JDBC, Struts, Hibernate, Spring and Oracle.
+Hands on Experience on J2EE Technologies (JDBC, JSP, Servlets).
+Hands on Experience on Hibernate 
+Hands on Experience on Spring Framework
+Hands on Experience on Struts1.2
+Hands on Experience on JSF
+Good Implementation Knowledge in J2EE Design Patterns
+Good Knowledge in XML(DTD, SCHEMA, SAX, DOM, JAXB)
+Good Knowledge in Web Services(JAX-RPC, JAX-WS, JAX-RS)
+Good Knowledge in SpringMVC
+Good Knowledge in Struts2
+Good Knowledge in EJB2,EJB3
+
+
+Work Experience
+Technical Skill
+
+Operating System
+Windows 98/NT/2000/XP/7
+ Languages
+Java
+Application/Web Servers
+Apache Tomcat, JBoss
+J2EE Technologies	
+JDBC, Servlets, JSP, JMS.EJB
+XML Technologies
+DTD, SCHEMA, SAX, DOM, JAXB
+RDBMS	
+Oracle, MySQL
+Frameworks	
+Struts, Hibernate, JSF, Spring
+IDE
+Eclipse
+Tools
+Ant, Log4j, CVS, JUnit.
+Education                                                                         
+
+BE(Computer Science & Engineering) from  R.I.R.T,Bhopal(M.P)  in Jun 2009
+
+
+
+
+
+
+
+
+Professional Experience                                                                          
+Project #1		:	USAA Insurance System
+Client			:	USAA,TX 
+Team Size		:	8
+Role			:	Developer
+Duration		:	Jun 2012 to Till Date.
+Environment		:	Java,JSP,Struts,Spring,Hibernate,Eclipse,Tomcat and Oracle
+Description                   :
+                                    USAA Insurance System which will be used by Insurance Company. This application has many modules (Policy Module, User Module, Search Module, Alert Module, End of Policy Module, Transaction Module, Report Module etc.) In Policy Module, Insurance employee can add, update, enable/disable a policy. In User Module, there are 4 types of users includes customer, agent, insurance employee & administrator. In search module employee can search by customer, agent, date range etc. In Transaction Module customer can pay online or offline. In Report Module we can view many types of reports & also download it by doc format. In Alert Module insurance employee can send alert to customers by email.
+Responsibilities           :
+Designed JSP`s as per the Requirement.
+Implemented Action Classes.
+Implemented Form Beans and their Validations.
+Updated Struts configuration file, Validation and tiles xml document
+Written Spring Service Interfaces and their Implementations.
+Injected Spring Services into Struts Action classes.
+Written Spring DAO`s and their implementations With Hibernate
+Written Hibernate Mapping Documents and Persistence Classes.
+Injected Spring DAO`s into Spring Services.
+Written Hibernate components.
+
+Project #2	           :          MediSoft
+Client			:	 St.Vincent Hospitals,Australia
+Team Size		:	 9
+Role			:	 Developer
+Duration		:	 Jun 2011 to May 2012
+Environment		:	 Java,JSP,JSF,Spring,Hibernate,Eclipse,Tomcat and Oracle
+Description                   :
+                                In todays booming health sector, every hospital wants to provide better
+facilities and services and above all the information to the patients within minimal time. To make progress in this way, now most of the hospitals automated most of their day to day operation to get benefited. Medisoft is sophisticated Client server based software used for Hospital Management System. It is used to automate broad range of operations
+The project consists of different modules like:
+Patient Registration
+Out Patient Management
+In Patient Management
+Operation theater management
+Pharmacy Management
+Billing Information System
+Blood Bank Information System etc
+Responsibilities           :
+Designed JSP`s as per the Requirement.
+Implemented JSF Bean Classes.
+Implemented Beans and their Validations.
+Written Spring Service Interfaces and their Implementations.
+Written Spring DAO`s and their implementations With Hibernate.
+Injected Spring DAO`s into Spring Services.
+Written Hibernate components.
+
+
+
+
+
+Project #3	             :	Enterprise Information System(EIS)
+Client			:	UK Steel Enterprise,U.K
+Team Size		:	7
+Role			:	Team Member
+Duration		:	Sept 2010 to May 2011.
+Environment		:	Java,JSP,Struts,Spring, Hibernate,Eclipse,JBoss and  Oracle
+Description                   :
+                                     EIS is to enable UK Steel Enterprise to do interaction with their Dealers, Distributors and Suppliers. Dealers, Distributors and suppliers has to login for viewing the information about their financial status, Order status, Stock status, Credit points given to them for the usage of web services. They will be provided with an E-Mail service, Chat service to chat with the employees of the company who are online for acquiring information about different products, new product launches etc, They can also view and download information like warranties given on spare parts on different products, promotions, training programs, Trouble shooting help of some products, products catalogs, product installation help etc. They can post a new order for products, RFP’s. The UK Steel Enterprise Administrator will define the entire access permissions based on the login information. The casual users can navigate through the site where they can view information about different Products, Dealers, Distributors, Latest News and Events, New Product Launches. They can also find info about Contractors, Consultants, and Architects for building their Home. Casual users can apply for dealership, Distribution of products, material supplier. The Administrator will verify the application and if found correct will provide a login based on his application.
+Responsibilities            :
+Designed JSP`s as per the Requirement
+Implemented Action Classes.
+Implemented Form Beans and their Validations.
+Written Spring Service Interfaces and their Implementations.
+Injected Spring Services into Struts Action classes.
+Injected Spring DAO`s into Spring Services.
+Written Hibernate components
+
+Project #4		:	Aexon online learning solutions
+Client			:	Gurukul online learning solutions
+Team Size		:	4
+Role			:	Team Member
+Duration		:	Dec 2009 to Aug 2010
+Environment		:	Java, JSP, Servlets, JDBC, Eclipse, Tomcat and Oracle
+Description                   : 
+                                      AEXON Online Examination system provides totally flexible test setting for client, which similar to SSC board exam. Client can add any number of paper and any number of section can be added on that particular paper. Section navigation (serially or randomly) set questions marks in section wise or per question wise, and time tracking in section wise or paper wise. Section Types are -- Objective, Subjective, Typing, Listing, Programming test (Java, C ,C++) column matching ,fill in the blank etc. Paper evaluate automatically and manually. Client can set Exam in any number of test paper under any number of section, number of question is also vary. Client can display result paper wise or section wise. Client can set no of attempt to user. If in case of electricity fail (any reason) test will start from last attempt section. Student will identify through  accesskey.
+Responsibilities            : 
+Implemented JSP’s For the Presentation.
+Implemented Servlets for the controller logic.
+Implemented JDBC Components for the Persistence Logic.
+Implemented Client side validation using Java Script.
+Implemented Based on MVC Architecture.
+

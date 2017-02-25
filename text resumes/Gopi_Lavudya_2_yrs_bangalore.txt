@@ -1,0 +1,241 @@
+﻿. 
+Gopi Lavudya 
+Email:lavudyagopi27@gmail.com
+Phone: 8884635559    
+          
+          			    
+CAREER OBJECTIVE:
+
+Seeking an opportunity for professional growth and increasing responsibility in an organization and to work in intellectually stimulating environment, developing innovative skills. 
+
+Experience Summary: 
+Have 2+ years of experience in software application development using Java, J2EE Application. 
+Strong experience with entire software development lifecycle, Model View Controller (MVC) based frameworks, Object Oriented Analysis .
+Expertise in developing Internet/Intranet Applications with Web Services, WSDL, SOAP,  soapUI.
+A team player with strong communication, leadership, analytical, organizational and relationship management skills.
+Professional Summary: 
+Working as a Software Engineer for FIS INDIA Private Limited Bangalore  from Feb 2013 to present.
+Worked as a Application Developer for INDIA Private Limited Bangalore  from May 2010 to Feb 2013 .
+
+Educational Qualifications: 
+5/2008 - 5/2010
+Indian Institute of Technology (BHU) Varanasi, India
+Master of  Technology(M Tech) in Digital Techniques and Instrumentation 
+6/2003 - 5/2007
+Mahatma Gandhi Institute of Technology , Andhra Pradesh, India
+Bachelor of Technology (B Tech), in ECE 
+Skill sets: 
+Programming Languages and Web Technologies
+Java, J2EE 
+XML ( XML Schema), SOAP, WSDL, Web Services
+Hibernate 
+
+Plug-in development
+
+RCP built on Eclipse
+
+Web Development Open Source Frameworks and Libraries
+Apache Ant,  Apache Axis, Log4j
+
+
+Development IDEs
+Eclipse, IBM Rational Application Developer(RAD) 
+
+Databases
+Oracle, SQL Server
+SQL
+
+Web Servers, Servlet Containers and J2EE Application Servers
+
+JBoss, WebSphere Application Server 7.0 (WAS), WebSphere Application Server 8.0 (WAS),
+
+
+Versioning and Bug Tracking Tools
+IBM ClearCase, CVS
+IBM ClearQuest
+
+Unit Testing
+JUnit, Fitness Tool
+
+Operating Systems
+Microsoft Windows - NT, 2000, XP, Server 2003 
+
+	
+Employment details
+ 
+From – to 
+Company Name
+Role 
+ 2013 Feb–till date
+FIS India
+Software Engineer 
+ May 2010 till Feb 2013
+IBM India Pvt Ltd
+Application Developer
+
+
+Client: TD Bank
+
+# Project -1:
+Start and end date: Aug 2012 – Till date
+Web Service, XML, XSD, MVC2, CVS, SOAPUI 4.0, SOATEST 9.1, Core Java, UML modeling
+
+Team size:2
+
+Identity Verification Service
+ Identity Verification Service will be used for validating customer identity during online enrolment and IVR password enrolment. Identity Verification Service wraps calls to underlying TDCT services providing a higher layer of abstraction suitable for consumption from channels. The diagram below shows the role of Identity Verification Service in MBNA business process flow.
+
+Responsibilities Involved in the development of new web service for TD Bank for visa money transfer, developed Core Java with MVC architecture using Hibernate as framework, worked in single tone,  design patterns, UML modeling.
+
+
+Client: SunTrust Bank
+
+# Project -2:
+Start and end date: April 2012– Aug 2012
+Web Service, XML, XSD, MVC2, CVS, SOAPUI 4.0, SOATEST 9.1, Core Java, UML modeling
+CISRetrieveContractList
+Team size: 4
+The CISRetrieveContractList is a business proxy inquiry service developed to retrieve all the contracts associated to the party given in the input. This service accepts a PartyId and Account (Contract) Status Filter. Party Id is mandatory and Account Status Filter is optional.
+This service output will be a list of TCRMContractBObjs in the response object.
+
+Responsibilities Involved in the development of new core java code  with MVC architecture using Hibernate as framework, worked in single tone,  DAO design patterns, UML modeling for class diagram, sequence diagram.
+
+
+Client : SunTrust Bank
+
+# Project -3:
+Start and end date: Feb 2012– April 2012
+Web Service, XML, XSD, MVC2, CVS, SOAPUI 4.0, SOATEST 9.1, Core Java, UML modeling
+Team size: 3
+Currently, any existing PF customer who applies for a Residential Finance from ST Bank, his eligible loan amount is calculated based on the available room in the global DBR, however, it does not consider the factor that PF will mature after the 60th month of its maximum tenor and the system calculates the maximum eligible amount based on the differential DBR room only, which becomes quite insufficient for the customers to buy any property. Similarly, if an existing PF customer wants to apply for an additional loan without settling the existing one, then it also has to face the same issue.
+
+Responsibilities Involved in the development of new core java code  with MVC architecture using Hibernate as framework, worked in single tone,  DAO design patterns, UML modeling for class diagram, sequence diagram.
+
+
+Client : AT&T
+
+Description: The Global Provisioning System (GPS) is a client-server application that is part of AT&T’s Integrated Global Enterprise Management System (iGEMS). GPS is an Inventory, Provisioning, and Procurement (IP&P) system.
+It provides a Windows – based graphical user interface (GUI) that allows requests for products and services to be ordered (procured) and then provided (provisioned) to the customer once the order is completed. The system is automated and disseminates these various requests to their designated locations and tracks them to completion. Also important to GPS functionality are a number of other tools that interface directly with GPS. Tools such as the Client Request (CR) System and billing systems such as the Global Billing Platform (GBP) work together to provide customers with the ability to carry out a variety of tasks, tasks that are accomplished using a span of tools.
+
+Client : AT&T
+# Project -4:
+Start and end date: Nov 2011– Feb 2012
+Team size: 10
+Software: Java,Web Services ,JAX-WS (SOAP,WSDL), DAO, RCP Plugin , SQL, Hibernate frame work, MVC2, UML  .
+3rd Party Transport (3PT) Services
+Description: There is a need to be able to develop an End-to-End (E2E) solution for 3rd Party Transport (3PT) Services for Domestic (DoM) and Most of World (MoW) where AT&T is CoR (Customer of Record) or has LoA (Letter of Agency) on behalf of customer. The solution must support transformation, migration and novation of 3rd Party services to AT&T services. The intent of this project is to address the needs of existing and new large complex outsourcing deals.  However, the tools and processes will also need to support 3rd Party Transport Service requirements that are not classified as "Outsourcing Megadeals" but satisfied the 3PT qualification screening process.
+
+
+Responsibilities Involved in the development of RCP code on core java with MVC2 , Web service and GUI part, worked in single tone,  DAO design patterns, UML modeling for class diagram, sequence diagram.
+
+
+Client : AT&T
+#Project -5:
+Start and end date: Aug 2011– Nov 2011
+Software: Java,Web Service, JAX-WS (SOAP,WSDL), DAO, RCP Plugin, SQL. SQL Server 2000, Hibernate frame work, MVC2, UML  
+.Team size: 10
+MRS support for (IPv6)
+Description: The current AT&T MRS Product requires feature enhancements to include IPv4/v6 dual stack offering and IPv6-only offering.  MRS is a Business product available today, which includes many features to support a multitude of customer applications across all business segments.
+
+The transition of the Internet to IPv6 is the only practical and readily available long-term solution to IPv4 address exhaustion. If nothing is done and based on a current run-rate, it is envisioned that AT&T will run out of unallocated IPv4 IP addresses by September 2011.  This project addresses the need to enable MRS support for (IPv6) in a dual-stack IPv4/IPv6.
+
+Responsibilities: Designed and Coded the Major part of the project, Involved in the development of User interface Part, Wrote Code for DAO and Web service, and coded Servlet code for testing the DAO, worked in single tone,  DAO design patterns, UML modeling for class diagram, sequence diagram.
+
+
+Client : AT&T
+#Project -6:
+Start and end date: March 2011– Aug 2011
+Team size: 15
+Software: Java,Web Service, JAX-WS (SOAP,WSDL), DAO, RCP Plugin, SQL. SQL Server 2000, Hibernate frame work, MVC2, UML .
+Description: Working on CPE Resale project which is heart of the GPS .
+Responsibilities: Designed and Coded the Major part of the project, Involved in the development of User interface Part, Wrote Code for DAO and Web service .
+
+Client : AT&T
+# Project -7:
+Start and end date: Dec 2010– March 2011
+Team size: 4
+Software: Java,Web Service, JAX-WS (SOAP,WSDL), DAO, RCP Plugin , SQL.
+COS 4 or COS 6 for downstream
+Description: There is a need to be able to develop an End-to-End (E2E) solution for COS Profile Nbr Services for Domestic (DoM) and Most of World (MoW) where AT&T is needs to indicate if it is COS 4 or COS 6 for downstream reporting.  COS Model is a new field that is also required for down stream reporting.
+. The solution must support transformation, migration and novation COS Profile Nbr   to AT&T services
+The intent of this project is to address the needs of existing and new large complex outsourcing deals.  However, the tools and processes will also need to support COS Profile Nbr Service requirements that are not classified as "Outsourcing Megadeals" but satisfied the COS Profile Nbr qualification screening process.
+Responsibilities Involved in the development of DAO new codes , Web Service and  RCP Plugin Development and coded Servlet code for testing the DAO.
+
+Responsibilities Involved in the development of DAO new codes , Web Service and  RCP Plugin Development and coded Servlet code for testing the DAO, worked in single tone,  DAO design patterns, UML modeling for class diagram, sequence diagram.
+
+
+
+
+Client : AT&T
+# Project -8:
+Start and end date: July 2010– Dec 2011
+Software: Java,Web Service, JAX-WS (SOAP,WSDL), DAO, RCP Plugin, SQL. SQL Server 2000.
+Team size: 4
+Granular Billing Automation Project
+Description: The Global Scaling Managed Services Program is a 2009-2012 program initiative strategy designed to target platform investments in the strategic outsourcing and global managed services area. The goal of the 2011 plan is to drive both scalability and profitability in those segments through a series of investments that focus on productivity improvements, automation of manual processes in order to reduce re-keying of data, long project cycle times and increase profitability of strategic outsourcing services and managed network services.
+
+The SID Granular Billing Automation Project is a sub-category of the LCM Engineering and Scaling project that is part of the Managed Services Scaling initiative.  It seeks to reduce the manual efforts currently required to apply SID to each SR by automating and/or making more efficient, the current process of applying a non billable billing SIDs in GPS for specific customers such as AMEX and those under the Blue Sky umbrella.
+
+
+
+Responsibilities Involved in the development of DAO new codes , Web Service and  RCP Plugin Development and coded Servlet code for testing the DAO, worked in single tone,  DAO design patterns, UML modeling for class diagram, sequence diagram.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Personal Traits:
+
+Self-driven personality coupled with problem-solving attitude 
+Positive attitude towards peers, superiors and subordinates
+Quick learner and good performer both in team & independent job environments
+
+
+
+
+
+
+Personal Profile:
+	
+Father’s Name		:	 Joga Lavudya
+Date of Birth		: 	 20-10-1986
+Language Known	:	 English, Hindi and Telugu.
+Permanent Address	 : 	 Post: Govindraopet 
+			  	 Mon: Govindraopet
+		  	   	 Dist:Warangal.
+   
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declaration:
+	 I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars.
+
+ Date: 									  Signature
+          
+Place: Bangalore     		         			                     (Gopi Lavudya)		
+
+

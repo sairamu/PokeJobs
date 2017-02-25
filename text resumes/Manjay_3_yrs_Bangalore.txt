@@ -1,0 +1,186 @@
+﻿                                                   
+MANJAY LAL YUBRAJ	 Mobile No: +91-9535883230
+                                                  E-mail: er.manjaylalyubraj@gmail.com
+                                                                                                                                                                                
+Objectives
+
+Having 3+years of Experience in IT Industry in Developing JAVA and J2EE application Using various web and Client/Server application
+To achieve a challenging position in Software Development in a result-oriented company, where acquired skills and education will be utilized towards continued growth and advancement.
+Professional Summary
+Collaborates with team members, customers, development teams in order to produce high quality.
+My technological forte is Java/J2EE and I also have experience in Enterprise Application Integration.
+Experience in using MVC (Model View Controller) architecture for developing applications using JSP, Java Beans Servlet and Spring Framework (IoC , MVC)
+Experience in design and development of multi-tier applications using Java, J2EE, Hibernate, Struts, spring, XML, HTML, Java Script, ANT and JUnit. 
+Experience using Hibernate for mapping Java classes with database and configuring Hibernate persistence layer.
+Worked on different Application and Web Servers like JBOSS, Apache Tomcat.
+Hands on Experience in Spring Framework.
+Experienced in IDE and editors using Eclipse.
+Has got experience in interacting with databases like MYSQL and Oracle.
+
+Technical Proficiency
+Languages
+Java, SQL, HTML,XML(SCHEMA,DTD,SAX)
+Scripting Languages
+Java Script, JSON
+Framework
+ Struts, Spring MVC
+ORM Framework
+Hibernate
+RDBMS
+MySql5.0, Oracle10g
+Web Technologies
+Java , JDBC, Servlet, JSP,SPRING
+Web/Application Servers
+Apache Tomcat(5.x,6.0), JBoss(3.2)
+IDE
+Eclipse
+Version Control
+ SVN,CVS
+Web Designing
+HTML
+Operating Systems        
+ Windows XP/7
+Build Management Tools
+Log4j , Apache Ant 
+Testing Tools
+Junit
+Design Patterns
+
+Familiar with design patterns like GOF Design patterns, J2EE Design patterns etc.
+
+
+
+
+
+Professional Experience:
+
+Working as a Software Engineer in Blue Star Infotech Pvt Ltd  since Nov 2011 to Till Date
+Worked  as a Software Engineer in CrimsonLogic india From oct 2009 to sept  2011.
+
+Educational Qualification
+
+B.Tech C.S.E from CUSAT, Cochin University of Science and Technology (2005-2009) 
+12th  from Intermediate Council, Patna in 2002
+10th  from Bihar School Examination Board, Patna in 2000
+Projects
+
+Project#1
+Online Account Enrollment And Registration 
+Client
+Central Bank USA
+Role
+Team Member
+Duration
+Nov 2011 To till date
+Team Size
+8
+Environment
+Java(Collection, String ,Multithreading), JSP, Spring MVC,  Hibernate, Eclipse, SQL and JBOSS, 
+Description
+
+                    Online Account Enrollment deals with user’s online request for opening account. This application can be used by an existing customer and for prospect customers. For existing customer it asks for login and customer does not have to enter his information. Customer can select accounts which he wants to enroll and can submit the application. For prospect customer, it asks to provide customer’s information. Then customer has to agree terms and conditions. It verifies the customer data, past banking transactions and address using a third party application. After verification if the score is within allowable limit can move further with opening process. If score returned is not satisfactory then customer has only selected account for enrollment. After selecting those accounts he can further move ahead for account opening process.    
+Responsibilities
+Requirement analysis.
+Involved in development and testing
+Responsible for Build and deployment of web apps
+Responsible for Writing Jsp pages
+Responsible for writing Validation Framework and doing the client side validation using JavaScript.
+Responsible for writing Tiles to support look-n-feel consistent across the application
+Developed front end User interface pages Using Spring MVC Frame Work
+Implemented Spring Dependency Injection
+Written Controller classes
+Written DAOs and their implementations With Hibernate..
+Written Hibernate Mappings
+Written ANT Script to build the project.
+.
+
+
+
+
+
+
+
+
+
+
+
+Project#2
+E-Banking 
+Client
+FINCA Bank
+Role
+Team Member
+Duration
+Feb 2011 to Oct 2011
+Team Size
+8
+Environment
+JDK1.6, Struts, Springs Framework, Hibernate, Oracle, Eclipse and JBOSS.
+Description
+              Internet banking application deals with customer online transactions of their account with the bank. To use online banking facility organization provides online banking details or Customer can register for online banking later. With Internet banking and customer can check their account balances, can transfer money to other accounts, and previous transactions history. Customers can download online statement from their Online account. Customer can raise a request for check book, can stop payment of issued checks. User can maintain and update contact information such as home Address, Phone number, and email. There are other services which bank provides. Customer can initiate a request for those services and track their status online.    
+Responsibility
+Responsible for Build and deployment of web apps.
+Involved in development and testing
+Responsible for Writing Jsp pages
+Requirement analysis 
+Written Action Class in controller Layer.
+Written Code for inject the dependency between Object.
+Written hibernate mapping for database interaction .
+
+
+
+
+Project#3
+Land Registry 
+Client
+HMLR(Her Majesty’s Land Registry),UK
+Role
+Team Member
+Duration
+Aug-2010 to Jan 2011
+Team Size
+9
+Environment
+Java, JSP, Struts , Hibernate, MySql, Eclipse, CVS and JBOSS
+Description
+ Land Registry’s website gives you access to a wealth of information drawn from the largest managed property register in the world. Land Registry is currently encouraging property owners whose property is currently not registered to make a voluntary application for registration.  Land Registry records the ownership rights of freehold properties and leasehold properties where the lease has been granted for a term exceeding seven years .Land Registry Direct has been set up with integral controls and security features to confine the use of authorized facilities to authorized customers. The controls are sufficient, effective and simple to maintain.  
+Responsibilities
+Implemented JSPs and Action Class as per the Requirement.
+Implemented Form Beans and their Validations using Validation Framework.
+Developed front end User interface pages Using Struts Frame Work
+Written DAOs and their implementations With Hibernate
+Written Hibernate Component
+Using Plug-in to Integrate struts with other Framework.
+Writing struts Configuration document 
+
+
+
+
+
+Project#4
+Hospital Management Service System
+Client
+Baptist St. Anthony's (BSA) Health System, Amarillo, Texas
+Role
+Team Member
+Duration
+Oct 2009–   July 2010
+Team Size
+9
+Environment
+Java, JSP, Struts, My Sql,  Eclipse, CVS and Apache Tomcat
+Description
+         Hospital Management Service System (HMSS) is basically an internet application. Healthcare Reference Data Model, which is integration of Electronic Medical Records and Billing. It provides several features such as Last visit chart details, Patient history view, Listing of chronic, acute and past problems, Prescription writing, sending prescription automatically to pharmacy, Graphical design of interaction levels. Scheduling and blocking the doctor’s slots, efficiently handling appointments with flexibility of fixing, rescheduling and cancellation facilities, in the scheduled slots. Tracking all billing transactions, electronically generating and submitting bills to patients and insurance forms to Insurance Carriers As per the procedures done to the patients. Generating reports with different..
+
+Responsibilities
+Implemented JSPs and Action Class as per the Requirement.
+Implemented Action Classes
+Implemented Page layouts using Tiles Framework
+Written DAO’s and their implementations With JDBC
+Implemented Page layouts using Tiles Framework
+Implemented Page layouts using Tiles Framework.
+
+
+
+
+

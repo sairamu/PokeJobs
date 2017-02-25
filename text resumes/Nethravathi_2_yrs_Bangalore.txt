@@ -1,0 +1,120 @@
+﻿
+Nethravathi                                            
+
+Mail: Nethravathik409@gmail.com
+No.120, Doddathogur,  Electronic city, 
+Cell : +91-8892378450
+Bangalore - 560100, Karnataka.
+
+
+Professional Summary
+
+
+As a Software Developer offering around 2+ years of experience, I have a strong software background, having firm knowledge in Java, J2EE, Oracle 10g, Oracle 11g, SQL Server 2005, HTML, JavaScript, XSL, XML,Unix, Windows Server 2000, Microsoft Enterprise SQL server. I am working for FinacleCRM, which is a part of the Finacle suite of the banking product of Infosys.  And supporting live production system to fix the issues. Possess excellent professional ability to work independently and as a team member with good commutation skills .Able to 'think outside the box' in this challenging, fast paced environment.
+
+Expertise Includes 
+
+Solid proficiency in programming technique of Core Java, Advanced java, J2EE, Hibernate, Struts,
+Experience in database applications of RDBMS in ORACLE as DBA.
+Experience in working on unix servers.
+Expertise in Implementing Configuration management tools like  VSS
+Experience in estimation of the enhancement development, testing plan creation.
+Diligent worker, self-starter and consistent performer with good analytical and presentation skills
+
+
+Signature Strength 
+
+Core Java ,J2EE and JSP
+SQL 
+Oracle
+
+Career Summary
+
+
+
+Proficient in Defect Fixing, Scripting.
+
+Proficient in working on Unix Operating System.
+Proficient in Enhancement of the existing features. 
+
+Excellent Communication and People Skills.
+Remarkable ability to synthesize and analyze complex information
+Ability to adapt well and perform in new competitive environments
+Capability to work well in both team environment and individual assignments
+A motivated and diligent team player utilizing excellent communication, interpersonal skills with strong analytical mind-set to learn quickly, to analyze the situation, identify requirements and provide solution.
+
+
+
+
+
+
+
+Education:                                                                                                                                        
+
+Bachelor of Engineering (B.E)  in 
+Electrical and Electronics
+Bangalore University
+University Vishveshwaraya college of Engineering
+
+Work Experience:  2+ Years
+
+Working as Software Engineer in Infosys Limited , Bangalore From Sep 2010 to Till Date.
+Technical Expertise:
+
+Operating Systems	      	: Windows XP/win7, Unix
+Programming Languages  	: C,Core Java, Java, JavaScript,XSL ,Hibernate, struts, J2EE,SQL, PL/SQL, MQ series
+Databases                            	Database			: ORACLE, MYSQL, PLSQL
+Scripting Languages		: Javascript, XML, JSP,HTML
+Tools/IDE			: Eclipse, VSS, SQL Developer
+Utility tools                                          : Toad, FileZila , Cygwin, X-Manager ,Beyond Compare, SSO – Telnet WsFtp, MS Office
+
+
+Project Annexure 
+
+Project: FinacleCRM (Systems Engineer)                                                                                                                          Feb2011– Till Date                                                                                                                                                                                                                                                                             
+ Location: Bangalore
+Description of the project:
+FinacleCRM (Finacle Customer Relationship Management) is part of the Finacle suite of banking products by Infosys. FinacleCRM deals with all the customer facing aspects of any banking environment. 
+Role:  
+As a Developer I response  to the issues raised by banks, do analysis, provide the required fix and   implement the work around. Communicate to all the stakeholders and close the issue as per the service level agreement.
+As a Data base manager I was solely responsible   for all creation and maintenance activities of database in our  team.
+As a Configuration Controller I configured and maintained different Windows and Unix Servers which involved firing build and maintaining complete application and its release activities.  
+I am a SPOC/ mentor for newly joined recruits; helping them with the basic start up training.
+  Environment:  Java, J2EE, Oracle 10g, Oracle 11g, SQL Server 2005, HTML, JavaScript, XSL, XML,Unix, Windows Server 2000, Microsoft Enterprise SQL server
+
+Responsibilities: 
+As a developer, I was involved in:-
+Part of the development team.
+Involved in incidents & fixing the client related issues.
+Involved in handling support related issues. 
+Involved in Impact Analysis.
+Understanding the application and analyzing the enhancements for this application and
+explaining it to team.
+Setting up the Workspace and involved in build activities.
+Involved in Environment setup and migration of all the version of CRM application to latest versions says Oracle 8G to Oracle 11G and JAVA from 1.4  to 1.6 versions.
+
+Infosys, Mysore                                                                                                                                                                                                                                Sep2010-Jan2011                                                    
+ System Engineer Trainee
+Training completed in: SDLC, SQL, PL/SQL,RDBMS, UNIX, HTML, XML, JAVA, J2EE, JSP,JFS, OOP Concepts, DAA.
+STAR certified under the Personal Skills Development (PSD) Program
+
+Achievements:
+
+Won the GEM award under Young achiever category for Quarter IV Financial year 2011-2012 , Infosys. 
+
+Personal Details:
+
+Date of Birth: 30/10/1988
+Sex: Female
+Marital Status: Single
+Nationality: Indian
+Languages:  English, Hindi Kannada, Telgu.
+
+Conclusion:
+
+          I hereby declare that all the information given above are true to the best of my Knowledge.
+Date: 22-Nov-2012					
+Place: Bangalore										Nethravathi
+
+											
+

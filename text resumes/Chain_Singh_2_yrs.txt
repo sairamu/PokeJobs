@@ -1,0 +1,103 @@
+﻿	
+
+				
+Chain Singh Lodhi
+
+#10, Ground floor, Near					                  Email: chain.singh31@gmail.com
+Bhanu Nursing, Bomanhalli   			                              Mobile: +91-81233-70507
+Bangalore - 560068			
+
+	Title: Software Engineer, 2+ Years of experience in Java/J2EE development
+
+Work Profile:
+
+1. Goal driven professional with 2 + Years of experience.
+2. Hands on experience on Java and J2EE (JDBC, JSP, Servlet ).
+3. Hands on experience on Struts 2 and Hibernate.
+4. Hands on experience on Core java and OOPS concepts. 
+5. Good knowledge of Design patterns and XML.
+6. Good knowledge of Spring.
+
+Professional Experience:
+
+Current employer: Exilant technology pvt ltd, Bangalore (India)
+Employer URL: www.exilant.com
+Working since: 10 Jan 2011 to 08 Mar 2013
+Designation: Software Engineer
+
+#Project 1: Pathfinder 1.0
+Client: Apple Inc. USA 
+Overview:
+	      Apple is using Pathfinder to create BHU (Business Heads-up). BHU refers to a new project in different Business units of Apple. Every BU has its global business facilitator and IS&T lead. IS&T is one of the most responsible BU to manage IT resources. The BHU is the first step in proposing a new project. A clearly articulated BHU will result in a well-defined Level of Effort (LOE) from IS&T. Anyone who is Apple employee can create BHU in Pathfinder. In pathfinder 1.0, we are creating a flow to manage a BHU from proposing to Planning level of Effort (PLOE). Pathfinder 1.0 maintains all activities like BHU creation, saving BHU, internal comments, publishing to IS&T, publishing to business then approvals. 
+
+Team size: 10
+Duration: May 2011 to Mar 2012
+Environment: Core Java, OOPS, JSP, Servlet, Struts 2, Hibernate, SVN, Oracle
+Roles and responsibilities: 
+
+1. Involved in analysis and requirement gathering.
+2. Prepared flow chart diagram for project.
+3. Responsible for developing effective UI.
+4. Responsible for developing Action classes, config xml and properties files.
+5. Responsible for implementing validation.
+
+
+
+#Project 2: Pathfinder 2.0
+Client: Apple Inc. USA 
+Overview:
+	      Pathfinder 1.0 was for BHU creation and approvals flow. Pathfinder 2.0 mainly for resourcing and budgeting. First we checked resources required for BHU. Resources can be internal or external from other vendors. In this, we created flow for purchase order, purchase request, financial information, transformation of budget from one BHU to another, creating finance project no, resource availability and some admin privileges screen.
+
+Team size: 8
+Duration: May 2012 to Jan 2013
+Environment: Core Java, OOPS, JSP, Servlet, Struts 2, Hibernate, SVN, Oracle
+Roles and responsibilities: 
+
+1. Involved in analysis and requirement gathering.
+2. Prepared flow chart diagram for project.
+3. Responsible for developing effective UI.
+4. Responsible for developing Action classes, config xml and properties files.
+5. Responsible for raising Radar to get access for Apple stuffs like DB, Web urls.
+
+
+Technical Skills:
+
+Programming language: Java
+Concept: Object Oriented Design 
+Frameworks: Struts 2, Hibernate
+Web technology: Servlet, JSP, HTML
+Database: SQL
+IDE: Eclipse, SQL Developer 
+Operating System: Mac, Windows 7/XP
+Sub-versioning: SVN
+Building Tools: Maven
+
+Education:
+
+2010 	-B.E.(Computer Science Engineering) from LNCT Indore, Secured 71.0%
+2006	-12th (Physics, Maths, Chemistry) from GBHSS Shahgarh, Secured 86.7%
+2004 	-10th from SSM Banda, Secured 74.8%
+
+Additional Experience:
+  
+Event leader for all recreational activities within BU like Bday, team outing.
+Prize (2006) for securing first position in 12th class in block.
+
+
+
+
+Personal Details:
+
+Name: 			Chain Singh Lodhi
+Father’s name:          	Shri Sunder Singh Thakur
+Date of Birth: 		31-Aug-1988
+Marital status: 		Single
+Languages: 		English, Hindi 
+Nationality: 		Indian
+Passport:		Available 
+PAN card no:		AFSPL0826N
+Permanent address: 	SSM, near Bus stand Rehli, Sagar. 470227
+Location Preference: 	Anywhere 
+References: 		To be provided upon request
+
+Date:									Chain Singh Lodhi

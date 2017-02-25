@@ -1,0 +1,108 @@
+﻿
+Dinesh Kumar N
+
+dineshintym@gmail.com	
++91-8892069201
+
+Objective:
+
+To obtain a position that will enable me to use my strong technical skills, organizational skills, educational background, and ability to work well with people.
+
+Key Skills:
+
+Technology
+: Java/J2EE, SQL, Web Services, Spring, Batch, JSP
+  Java Script, Xml, Ajax
+
+Database
+: SQL Server
+IDE
+: Eclipse, SQL Developer
+Tool
+: Rest Client, iReport, WinSCP
+Domain Knowledge
+: Banking and Finance
+
+Additional Skills:
+
+Additional knowledge in Jquery, C, C++, VB
+
+Experience summary:
+
+Working with Wipro Technologies from Feb-2011 as a Project Engineer.
+2.2 Years of work experience in Web application development.
+2.2 years of relevant experience in Banking and Finance domain.
+
+Current Employer:
+
+Wipro Technology Ltd., from Feb-2011.
+
+Project Detail:
+
+Project
+: Pulse – Analysis, Design
+Project Type
+: Web Application Development (Retail Banking Domain)
+Client
+: SecureTrade(UC Group)
+Project Summary
+: Pulse project involved in building an end to end application for internet gambling for US geography. The application includes two systems such as front office and back office. While front office manages Registration, Validation & Modification of Players, Operator, site setup and transaction module, the back office purely on tax calculation and settling process. The system have batch job like, EOD Settle Process, EMD file creation, eMAF file Processing, and the system uses some thirty party services like GeoComply, Centinal, Vantiv, and Equifax. 
+
+Role
+: L2- Developer
+Responsibilities
+: Responsible for  Report module (Only front office reports – On screen display, PDF, CSV with customized search options and filters)
+
+: Responsible for  Batch module (File import, File process, File Creation – EOD Jobs)
+
+: Worked in Transaction module (Deposit, Withdrawal, Refund, Reversal, and Recurring payment)
+
+: Worked on the integration of transaction module with a third part acquirer to complete transaction (Using ISO 8583 format )
+
+: Analyzing requirement and providing estimation. Contribution in documentations
+
+
+Educational Qualification:
+
+B.Tech (2010) in Information Technology with 68% marks from Hindustan College of Engineering, Anna University-Chennai
+
+Diploma in Electrical and Electronics (2007) with 91.75% from P.G.P Polytechnic College, DOTE-Chennai
+
+Higher Secondary schooling (2005) with 70.33% from Govt Boys Hr.Sec.School-Thottiyam
+
+SSLC (2003) with 76.2% from ST.James Hr.Sec.School-Palakurichy
+
+Personal Information:
+
+Name
+: Dinesh Kumar N
+
+Father Name
+: Nagarajan
+
+Date of Birth
+: 10th February, 1988
+
+Gender
+: Male
+
+Marital Status
+: Married
+
+Permanent Address 
+: 9/206, Ponnusamy Pillai Nagar, Balasamudram-621203
+
+Language Known
+: English, Tamil
+
+Current Location
+: Bangalore
+
+Preferred Location
+: Bangalore, Chennai
+
+
+
+
+Place:  					                       			 Date: 
+

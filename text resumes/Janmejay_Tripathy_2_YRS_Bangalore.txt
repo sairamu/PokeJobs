@@ -1,0 +1,123 @@
+﻿
+Experience Summary
+
+Over 30 months of development experience in telecom domain as Project Engineer in Wipro Technology.
+Worked on complete software development lifecycle and also supported at PLM level. 
+Recipient of Excellence Award in Global Media Telecom.
+Delivered Seminar on Product architecture and tool concepts (like GTK, Clearcase etc) within and across project teams.
+
+Educational Qualification and Certifications
+Title of the Degree with Branch
+College/University
+Year of Passing
+Bachelor of Engineering in Computer Science and  Engineering
+
+Sir M. Visvesvaraya Institute of Technology, Bangalore
+
+      2010
+Technical Skills
+Platforms
+Programming Languages
+Unix/Linux
+C/C++, Shell Scripting, Basic knowledge of SQL 
+Concepts
+
+Software and Tools     
+Telecommunications, Networking, Multi process synchronization, debugging, Unit & Module  testing.
+
+Rational ClearCase, GTK, Hilti tool, Cygwin, Citrix, Netsim, Rational Purify, Coverity, Eggplant, Bullseye, VI editor
+
+Hardware
+Network Configurations, Computer servicing and assembling experience, 
+     Alcatel AS 1000 Switch and MGC 5020 Switch
+
+Internal Certifications & Achievements
+Wipro UCF C 1.1
+Wipro UCF Unix Sys CPP 2.1
+Recipient of Excellence Award’ in Global Media Telecom
+
+Project Details 
+Organization:	 Wipro Technologies 	( Aug 2010 to Present )
+ 
+Projects
+
+1.  OSS-RC
+
+Client                                      Ericsson
+Description		         Operation Support System for Radio & Core (OSS-RC)’      functionality: To manage, configure, monitor, troubleshoot and upgrade the various network available i.e. wireline, 2G, 3G, core etc.
+
+Project Type                           Development
+Operating System                   Unix                 
+Role                                        Developer C/C++
+Period                                     March 2012 – present
+
+Application/Tools Used:
+Rational ClearCase
+GTK
+Vi editor
+Cygwin
+Netsim
+Citrix
+Rational Purify
+Coverity
+Eggplant
+Bullseye
+Responsibilities and Achievement:
+Worked in ERIC_PLATFORM team of the project.
+Developed different features of GUI using GTK for command handling and interacting with nodes. C/C++
+Evaluated and recommended tools and technologies to improve productivity in areas like coding and testing.
+Active participation in all level of System Development Life Cycle. 
+Contributed efficiently in Product Lifecycle Management (PLM).
+Supported other teams on issues related to command handling.
+
+
+2.  MULTICORE-S12-MGC12
+
+Client                                 Alcatel Lucent
+Description		   The System is a telecom Switch which has 2 divisions. 
+1. AS 1000 Switch: Legacy system which has proprietary Operating System and uses messages for all the inter process and inter subsystems communication purposes. This is supported in both PSTN and ISDN networks.
+2. MGC 5020 Switch: Using new technologies like MGC and Protocols like MEGACO, SIP and in Unix platform. 
+
+Project Type                      Development
+Operating System              Unix                 
+Role                                    Developer C/C++/CHILL
+Period                                November 2010 – February 2012
+
+Application/Tools Used:
+Rational ClearCase
+Vi editor
+Cygwin
+Responsibilities and Achievement:
+Worked in Kernel & Server Platform team of the Project MULTICORE-S12-MGC12. 
+Being in Kernel team handled tasks related to Alarms reported and Trunk test module, and GUI.
+Developed solutions in Patches, Macros, and Module level. C/C++
+Developed a new tool to trace inter process, inter thread communication in Unix.
+Created utility scripts which will automate the process of solution implementation.
+Developed Macros which will implement the solution directly in the field.
+Coordinated with Protocol team, Charging team, Tech team, ORJ team, Call handling team to check the impacts when solutions were given. 
+Mentored freshers in their initial level project trainings.
+Supported juniors and colleagues in solving their tasks.
+
+
+	
+
+Contact Details
+Gender 			 Male
+Date of Birth			 28th Oct 1987
+Contact No :			 +91-9986785407
+Email : 			tripathy.janmejay@gmail.com
+Communication Address : 	c/o N. Srinivas
+     	No. 215, 5th main,
+     	6th cross, Venkatapura,
+     	Koramangala, Bangalore
+     	Pin- 560034
+
+Declaration
+
+I hereby declare that the information furnished above is true to best of my knowledge.
+
+
+Date: 20/03/2013                                                                     
+Place: Wipro Technologies
+           Bangalore                                   				   JANMEJAY TRIPATHY
+									

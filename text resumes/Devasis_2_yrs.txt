@@ -1,0 +1,144 @@
+﻿Devasis Majhi
+Email ID:	devasis.majhi@gmail.com 			Address:					devasis.majhi@accenture.com			C.N.Reddy Layout                 									House no.130, Room no-35
+Mobile:	+91 99860 77126				Munekollala, Marathahalli,
+Bangalore-560037,
+				Karnataka, India.               		                                           
+Career Objective
+To make a challenging career in information technology ensuring creditable performance and to earn “in depth” knowledge in my field that can prompt me in achieving my career prospects & common goal of the organization.
+Work Profile: (2 years 5 months as Java Developer)       
+I have started my career in Accenture as an ASE from 9th NOV, 2010.
+Presently working with Accenture as SE.
+Professional Synopsis:
+Having more than 2 years of work experience in IT industry which is completely aligned with software development specifically on Java/JEE Technologies and Frameworks.
+Worked in requirement Analysis, Design, Build and Testing phase.
+Testing phase includes IST and UAT cycle.
+Extensive experience in programming with Core Java, Spring, Servlet, JSP, Ajax.
+Worked by following MVC design pattern with Spring Framework.
+Excellent knowledge and experience in building Server Side Application/Web based Application using Frameworks and JEE Technologies.
+Playing offshore Tech-lead role since Dec 2011.
+Hands-on experience in GWT. 
+Experience in implementing GWT Accordions, various J2EE design patterns like MVC.
+Learning experience in JDBC, Servlets, SQL, C, C++, RDBMS. 
+Proficient in understanding Business Requirement and Technical requirements.
+Analysis of problems that occur in day-to-day activities provided appropriate solutions.
+Team Player with excellent analytical, interpersonal and communication skills.
+Educational Details:
+B.Tech in Computer Science and Engineering from Silicon Institute of Technology under Biju Patnaik University of Technology, Orissa. 
+Academic Records:
+B.Tech (2006-2010)			:	 CGPA of  7.1
+12th					: 	 60.6%
+10th				 	:  	 79%
+Technical Skill Set:
+Languages			: Java
+OS				: Windows Family				                          
+Framework			: Spring
+Application Servers		: Web Sphere 6.1	  
+Tools/ IDEs			: RAD 8.0, IBM Clear Case 7.1.2
+Project Experience	  
+
+
+Project		: Express Deposit Origination
+Type			: Development
+Platform		: JAVA
+Software            	: Core Java, Spring, XML, XSD, XSL, JSP, Java Script, AJAX
+Client			: JP Morgan Chase & Co.
+Duration			: 1year 1 month
+Role			: Developer/ Offshore tech-lead
+Brief Description
+Express Deposit Origination project is a banker application of JP Morgan chase & co. intended to save time. The application includes login of banker, customer search, account opening for existing as well as new customer with all other added facilities like credit card, debit card, coupon offers etc. Technologies used for this project are core JAVA, Spring, JSP, GWT, AJAX, Java Script.
+My Role/Responsibilities- 
+Involved in discussions with the Client and in gathering the requirements. 
+Played an active role in design and development of the application, which is based on MVC Framework.
+Involved in writing Core java Classes ,XML files for Business Logic
+Developed user interfaces using Tiles with JSP and JavaScript.
+Performed unit testing
+Run ATC’s
+Given KT on business logic as well as framework to Team mates including those who are higher level (SE, SSE, TL) from me.
+Even at SE level I was assigned the role of offshore tech-lead.
+
+-------------------------------------------------------------------------------------------------------
+Project		: Deposit Origination
+Type			: Enhancement
+Platform		: JAVA
+Software            	: Core JAVA, Spring, XML, JSP, Java Script, AJAX, GWT Accordion
+Client			: JP Morgan Chase & Co.
+Duration			: 6 months.
+Role			: Developer
+
+Brief Description
+
+Deposit Origination, an enhancement project adds some extra features to the current application. This includes UI as well as service enhancement. Technologies used for this project are core JAVA, Spring, JSP, GWT Accordion, AJAX, Java Script.
+
+My Role/Responsibilities- 
+
+As part of this project I have worked on many DM’s.
+Played an active role in design and development of the application.
+Developed user interfaces using Tiles with JSP and JavaScript.
+Performed unit testing
+Run ATC’s
+Been a part of development phase as well as defect fixing.
+Actively participated in all in discussions with the Client.
+Have fixed defects in IST and UAT cycle.
+
+-------------------------------------------------------------------------------------------------
+Project		: Know your customer
+Type			: Enhancement
+Platform		: JAVA
+Software                : Core Java, GWT, Spring, XML, JSP, Java Script, AJAX, GWT Accordion
+Client			: JP Morgan Chase & Co.
+Duration			: 6 months.
+Role			: Developer / Offshore tech-lead
+
+Brief Description
+
+Know your customer is an enhancement Project of JP Morgan Chase & co. which adds some extra features to the existing application to get the some more info about customer. As part of this enhancement the banker can open an account for a Business customer even though the signer/ owner of the business are not physically present at the branch. Customized GWT for CA framework has been extensively used in this project in addition to Core JAVA, spring, JSP, AJAX, Java Script
+
+ My Role/Responsibilities- 
+
+Actively taken part in requirement analysis and effort estimation.
+Worked with BA’s for UI design.
+Played an active role in design and development of the application, which is based on MVC Framework.
+Have written tech design document.
+Worked in IST cycle on defects.
+Worked with other teams for the complex deliverables which has cross team impact.
+Involved in writing Core java Classes ,XML files for Business Logic
+Developed user interfaces using Tiles with JSP and JavaScript.
+Performed unit testing
+Given KT on business logic as well as framework to Team mates.
+I am playing the role of offshore tech-lead.
+-------------------------------------------------------------------------------------------------
+
+Project		: Bank of America Master
+Type			: Development
+Platform		: JAVA
+Software            	: Core Java, XML, XSD, XSL.
+Client			: Bank of America
+Duration		: 1 month
+Role			: Developer
+
+Brief Description
+This is a banking application that deals with various functionality of bank. The application is used by Banker.
+My Role/Responsibilities-
+
+Working as lead developer
+Involved in writing Core java Classes ,XSL files for UI representation of XML files. 
+Actively taken part in the discussion with client.
+
+
+Personal Information
+
+Date of Birth		:         10th Jun, 1988.
+Gender			:         Male.
+Marital Status		: 	Single.
+Nationality			: 	Indian.
+Languages Known		: 	English, Hindi and Oriya.
+
+Declarations	
+
+I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the particulars provided.
+
+
+
+
+Date	 :     
+Place	 :    Bangalore                                      				[Devasis Majhi]

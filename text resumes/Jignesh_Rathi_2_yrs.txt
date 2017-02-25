@@ -1,0 +1,89 @@
+﻿Jignesh Rathi
+
+Contact No.   :     +917795362495(M), 0294-2463992(R) 			Email id   :   jr_jignesh@yahoo.com
+
+Objective:
+
+To apply my skills, knowledge and experience for the benefit of organization with opportunity of career advancement, while gaining knowledge and developing new skills and expertise. And also, spend a special part of life for welfare of humanity.
+
+Profile:
+
+2+ years of experience of successfully designing, developing and implementing client specific requirements and methods for intelligent message routing rules using Java, Xml, Oracle.
+Experienced tutor skilled in Java, J2EE, C, C++, Dot Net, DS.
+Expertise in Java, DAO, MVC and Object Oriented development.
+Experienced in the analysis and design of the application using UML and design patterns.
+Strong problem solving skills coupled with confident decision making for enabling effective solutions leading to high customer satisfaction and low operational costs.
+
+
+Employment Background:
+
+Tata Consultancy Services Limited, Bangalore.				December 2010 – Present                            
+
+Systems Engineer (Developer)
+
+Project: Service Integrator 
+
+Service Integrator is a module of TCS BaNCS, and is responsible for intelligent routing of messages between two banking systems using different protocols.
+
+Responsibilities:
+
+Responsible for developing various methods for applying various rules on different types of messages for intelligent routing using Java, Xml and web services with Oracle as database.
+Responsible for providing solution for issues in the existing product as a part of implementation team too.
+Handling various technical aspects like project documentation, code review, system design & integration.
+Testing and Quality assurance both Unit and Integration testing to make the code base more refined.
+
+Recognition:
+Received Star Of The Month award for developing critical custom functions with-in the time lines without any SIRE raised from the client side.
+
+
+
+
+Educational Qualifications:
+
+B.Tech. from Swami Keshvanad Institute Of Technology, Mngt. And Gramothan, Jaipur (RTU, Kota) with aggregate 80.81%(2010).
+Stream: - INFORMATION TECHNOLOGY.   
+Senior Secondary from Guru Nanak Sr.  Secondary School, Sector-4, Udaipur (Raj.) (R.B.S.E.) in SCIENCE-MATHS with 87.69% (2006).
+Secondary from Vidhya Niketan Secondary School, Sector-4, Udaipur (Raj.) (R.B.S.E.) with 81.33% (2004).
+Technical Skills:
+
+Languages          	:	Core Java, J2EE, Dot Net, Php, C, C++, SQL
+Servers		:	Weblogic Application Server 
+Others		:	Data Structure, JMS, MQ, Web Services
+
+Certifications:
+Sun Certified Java Professional 6 (Oracle Certified Professional for Java Programming 6).
+Microsoft HTML5 CSS3 JavaScript certified (070-480).
+IBM certified Rational Application Developer 7.5 for WebSphere Software V6.0.
+
+Training:
+
+TCS In-House Training:
+Three months training on Core Java, J2EE and SQL.
+Training on Spring Framework.
+Training on Ajax.
+
+During College: 
+One month Summer Training from Pyrotech Electronics Pvt. Ltd. Udaipur (Raj.).
+Infosys roll-out campus connect training.
+Infosys soft-skill training.
+
+
+Achievements and Extra Curricular Activities:
+
+Created an application “News For You” for Windows8 App Fest 2012 of Microsoft which is now a Guinness World Record Event.
+1st position in I.T. department of college.                                                                                                                        
+2nd position in final round of distinguish student in Aspiration-2020 at INFOSYS (2009).
+1st position in ‘No Plastic Week’ Suggestion and ‘e-book collection’ competitions (by NEN).
+Selected for Maharana Mewar Foundation Annual Awards (2007).
+Selected for Award by Bharat Vikas Parishad-Subhash in the field of Cultural and Literary Activities (2003).
+Represented School and college in various quizzes, debate and essay writing competitions.
+
+Personal Snippets:
+
+Date of Birth		:		21st Sep, 1988 
+Nationality		:		Indian
+Permanent Address	:		62, New Shiv Nagar, Nokha, Hiran Magari Sector-4, Udaipur (Raj.) India
+Linguistic Skills		:		English, Hindi
+
+References:
+Available On Request

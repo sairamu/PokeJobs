@@ -1,0 +1,116 @@
+﻿ Manmad Kumar Reddy  B
+                                                           Email: manmadha.scjp@gmail.com
+ Mobile: +91-9916118299
+
+
+
+Summary:
+
+Currently working as a Software Engineer in Wipro Technologies Ltd., Bangalore from April 2011 to till date.
+2 years of experience with s/w development using java/web related technologies.
+Thorough understanding of Java, Servlet, JSP, Struts,Spring & Hibernate  with proficiency in coding and Testing.
+Strong collaboration & team building skills with proficiency at grasping new technical concepts quickly & utilize the same in a productive manner.
+An excellent communicator coupled with exceptional interpersonal, managerial & leadership skills.
+A result oriented professional with 2 Years of IT experience as a designer and developer of various competent using JAVA, J2EE and developed high-end client-server applications using Oracle10g as back end databases.
+Sun certified Java (1.6) programmer.
+
+Education
+
+B.Tech in Computer Science and Engineering from J.N.T.U for the year 2011.
+ Intermediate from Board of Intermediate Education for the year 2006.
+ Secondary School Certificate from Board of Secondary Education for the year 2004.
+
+Technical Skills:
+
+Operating Systems	Windows 
+Technologies	J2SE & J2EE (Servlet, Jsp,Jstl)
+ORM Model	Hibernate 3.2
+Frameworks                               Struts 1.x  & Spring
+RDBMS	Oracle 10g 
+Markup Languages	HTML, XML
+Versioning System	CVS
+Web Server	Tomcat 6.0 
+Application Server	Web logic 10.5.
+IDE’s	Eclipse & My Eclipse.
+Logging Tool	Log4j
+Building Tools	ANT.
+Testing Framework	Junit
+
+
+
+
+
+Professional Experience: 
+
+Working as Software Engineer in Wipro Technologies Ltd ,BANGLORE from   April  2011 to Till Date.
+	                                                                                                          
+Certifications:
+
+Sun certified Java (1.6) programmer 
+				
+
+Projects Handled:									
+
+Project #1:                                                                                                                                        Mar 2012 - Present					
+
+CREDITCARD TRANSACTION SYSTEM	
+
+Team Size: 8
+
+Client: Harris Bank-USA.
+
+
+Project Description:
+	
+	Credit Card Transaction System is a web based project this will provide online view transaction system for the Credit Card customers of this bank. By using this application the customers can enter online in the website and they can view the current month transactions ,the history of the payment and the payment due date ,late payment fee and monthly payment amount and they will generate the reports.
+
+Involvement:
+
+Developed JSP’s for request handling.
+Development of Action Classes.
+Development of DAO’s and Interfaces And Service Layer Classes.
+Development of Form beans,DTO’s .
+Development of Unit Test Cases.
+Involved in  the preparation of LLD’s
+Involved in the preparation of Struts with Spring-jdbc Integrations.
+Prepared required Struts xml files.
+
+Technologies: Java, Jsp, Servlet, Struts,Spring-Jdbc,Oracle 10g.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project # 2:											   Jun 2011- Feb 2012
+
+PRODUCER INFORMATION MANAGEMENT SYSTEM	 
+
+Team Size: 8
+
+Client: Hard ford Life and firms –USA
+
+
+Project Description:
+
+	Selling agreement is an agreement/contract between Hard ford Life and firms (or agencies or agents) which authorizes firms (or agencies or agents) to sell Hard ford Life products. After receiving a request, selling agreement team/contracting team in Hard ford Life will set up the selling agreement in PRIME application and default status of agreement will be set to ‘Pending‘. After Hard ford Life receives the signed paperwork from client, selling agreement/contracting team will update the status of Selling Agreement to ‘Active’ in PRIME application.
+
+
+Involvement:
+
+Developed JSP’s for request handling.
+Development of Action Classes.
+Development of DAO’s and Interfaces And Service Layer Classes.
+Development of Form beans,DTO’s .
+Development of Unit Test Cases.
+Involved in  the preparation of LLD’s.
+
+Technologies: Java, Jsp, Servlet, Struts, Hibernate ,Oracle 10g.
+

@@ -1,0 +1,116 @@
+﻿    				
+                                                             Anand kishor
+			
+E-mail:- akishor09@gmail.com                                                               	   Mobile:- 9036341300
+Objective
+
+To Do A Challenging Work On Java/J2EE Platform Were My Technical And Analytical Skills Would Be Applied For The Betterment Of The Organization And It Encourages Creativity To Offer An Opportunity For Individual Development As Professional.
+Profile summary
+
+3.3+ years of IT experience in various technologies like Java, JSP, Servlets, JDBC, Struts1.x , Hibernate, Spring and Oracle.
+Experience in development phase of web applications using Tomcat 6.0.
+Hands on Experience in Hibernate Framework.
+Hands on Experience in Spring Framework.
+Hands on Experience in Spring MVC.
+Hands on Experience in J2EE Design Patterns.
+Hands on Experience in J2EE Technologies (JDBC, JSP,Servlets).
+Hands on Experience in Struts1 Framework.
+Good knowledge in Struts2 Framework.
+Good knowledge in JSF Framework.
+
+Work Experience
+Education                                                                         
+
+BE ( computer science & engg.) from BIT Durg in Jun 09.
+Technical Skill
+
+Operating System
+Windows XP/2000
+Languages
+Java, SQL 
+Application/Web Servers
+Weblogic, Apache Tomcat 6.0,Jboss
+J2EE Technologies	
+JDBC, Servlets, JSP 
+JEE5 Technologies
+JSF
+RDBMS	
+Oracle, MySQL.
+Frameworks	
+Strutx1.x, Strutx2.x,Hibernate, Spring.
+IDE
+Eclipse,My Eclipse 
+Tools
+Ant, Log4j, Maven
+Professional Experience                                                                          
+PROJECT #1		:	Customer Support System
+Client			:	Nedbank Limited,South Africa
+Team Size		:	6
+Role			:	Team Member
+Duration		:	Feb 12 to Till Date
+Environment		:	JSP, Struts, Spring, Hibernate, Eclipse  and Oracle
+Web Server		:	Tomcat 6.0	
+Description:- 
+                                        CSS is a Customer Support System which is developed for the Client First National Bank, South Africa, for their internal use. This application will be used by Customer Executives of the Bank to provide the support for the customers of the Standard Bank. We implemented Savings Account module, Current Account Module and Credit cards Module. This System allows the Customer Care Executives and Other Teams of the Bank to Solve the Problems reported by Customers.
+
+Responsibilities:- 
+
+ Implemented JSP’s as per the Requirement.
+Implemented Action Classes.
+Implemented Form Beans and their Validations using Validation Framework.
+Written Spring Service Interfaces and their implementations.
+Written DAO’s and their implementations With Hibernate.
+Written Hibernate components.
+
+PROJECT #2		:	Export  Management System
+Client			:	Royal International Company,Japan
+Team Size		:	6
+Role			:	Team Member
+Duration		:	Feb 11 to Jan 12
+Environment		:	Java,Jsp,Spring (MVC), Hibernate, Eclipse and Oracle 
+Web Server		:	Tomcat 6.0
+Description :-
+                                   This was an intranet site developed to prepare extensive information to all departments of Royal International Company, Japan. The client mainly deals with car exporting business all over the world. Various types of information are available on the site. Sales and purchase orders and related information are available on the site. This package includes details of stock, auction details and customer details.                                   
+Responsibilities:-
+Designed JSP’s as per the Requirement.
+Implemented Spring Controllers.
+Implemented Commands and their Validations.
+Written Spring Business Services
+Written Spring DAO’s and their implementations With Hibernate.
+Written Hibernate Mapping Documents and Persistence Classes.
+
+PROJECT #3	      :	Online Reservation
+Client	                   :	Fstrem Corporation,Tokya
+Duration                 :	May 2010 to Jan 2011.
+Role                        :	Team Member
+Team Size              :	10
+Environment          :	Java, JSP, Struts,Hibernate, Eclipse,  Oracle
+Web Server            :	Tomcat 6.0
+Description :-  
+                               Online reservation web application for Hotels, Cars and Airlines. Online Reservation is a Service System, which has Clients as its different kind of members and Vendors like Hotels, Rental Car and Air ticketing agency. This System has different modules like Reservation, Campaigning, Payment terms, Membership, Waiting List and Commission etc. Online Reservation system will allow their members to have serviced in their specific vendors station and collects payments, System has more than four payment terms based on their membership type.
+
+ Responsibilities:-
+Designed JSP’s as per the Requirement.
+Implemented Action Classes.
+Updated Struts configuration file, Validation and tiles xml document
+Written Business Delegates and Session Beans.
+Written DAO’s and their implementations With Hibernate.
+Written Hibernate Mapping Documents and Persistence Classes.
+
+PROJECT #4		:  	Patient Management System 
+Client			:  	NIMS Hospitals
+Team Size		:    	6
+Role			:  	Team Member
+Duration		:  	Oct 09  to Apr 10
+Environment		: 	Java, JSP, JDBC, Struts, Eclipse, Oracle.
+Web Server		:	Tomcat 6.0
+Description :-
+                                          This system helps to manage patients details of an Hospital Management System. In general patient will maintain his details, in form of records if any case if the patients will loss the reports means doctor exactly can’t know what he exactly treated the patient last time so computerize the patient details up to any maintain by hospital itself for further usage for doctors. The Objective of this project is to develop software that helps to maintain patient details for some certain period (years). In PMS you can maintain the details about the patients, doctors, treatment details, fees particulars, test reports, daily monitoring details about in patients.
+
+Responsibilities:-    
+Designed JSPs as per the requirements.                                                  
+Involved in writing Action Classes, Tiles and Validations.
+Update Struts configuration document, validation document.
+Responsible for writing JDBC Code and Database Connections.
+
+

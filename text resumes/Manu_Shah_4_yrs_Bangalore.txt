@@ -1,0 +1,146 @@
+﻿
+MANU SHAH
+
+Y5-203, Greenwood Regency
+Doddakannelli
+Sarjapur Road
+Near Wipro Office Main Gate
+Bangalore : 560035
+
+
+E-Mail: manu.skit.ec@gmail.com
+
+Mobile No. :+919739993019
+
+Work Experience: 4 years.
+
+
+Summary
+
+A professional with 48 months of experience in IT Industry.
+Working as an Application developer for Oracle Financial Services Analytics Application (Earlier known as Reveleus), it’s a business intelligence framework which supports EPM solutions as one of the suite of products.
+Experience with client interaction – mainly in resolving customer issues.
+Major responsibilities include developing UI’s with help of JAVA, JSP and framework as STRUTS 2.0
+
+Good understanding of Core JAVA and STRUTS 2.0 concepts.
+Used JSP, JS and AJAX in development.
+Strong understanding of software coding practices , focus on developing extensible and 
+good problem solving skills and an analytical thinker.
+
+Well-organized, efficient, self-motivated and a quick learner . Ability to handle multiple tasks and work independently as well as in a team. 
+Good Observer, creative, hardworking, dedicated, innovative, team player. 
+
+Work Experience
+
+Organization	:  Oracle Financial Services, BANGALORE.
+Oracle Financial Services Software Limited, majority owned by Oracle, is a worldleader in providing IT solutions to the financial services industry. Oracle FinancialServices Software offers financial services institutions   the world's most comprehensive and contemporary banking applications and technology footprint that addresses their complex IT and business requirements.
+
+Projects		: Worked on various releases of EPM suite of applications as a part of 
+		 OFSAA
+
+Designation	: Applications Developer.
+
+
+Experience	: 4 Years (SEP 2008 to till date)
+
+
+Educational Summary
+
+B.E (Electronics and Communications Engineering) from Swami Keshvanand Institute of Technology, Management & Gramothan, Jaipur (Rajasthan), affiliated to University of Rajasthan in 2008. 
+
+10+2(PCM) from Hindalco Vidya Niketan, Renukoot Town Ship, affiliated to CBSE in 2003. 
+10th from Hindalco Vidya Niketan, Renukoot Town Ship, affiliated to CBSE in 2001. 
+
+
+
+
+Skills & Competencies
+
+Languages		: C, Core Java
+
+Database		: Oracle 10g.
+
+Server		: Tomcat5.X, Tomcat 6.0
+
+Tools		: Eclipse 3.2.1, PL/SQL Developer 7.0.1, Notepad++
+
+Operating Systems   	: Windows XP, Windows 2003.
+Ver. Control System	: Microsoft Visual Source Safe
+Framework		: Struts 2.0
+Java Build Tool		: Apache ANT
+Logging			: Log4j
+
+Project Experience
+
+Team	  : Common Apps
+Role 	  : Applications Developer
+
+To help financial institutions grow, manage risk, and optimize shareholder value, Oracle delivers a comprehensive, integrated suite of financial services and analytical applications for enterprise performance management (EPM). I have worked for various releases for these EPM solutions such as: ALM, PFT, FTP and HM. These are packaged as a part of OFSAA as per requirement.
+My contribution is for the Common Apps team, which is responsible for developing UI’s which are common across above mentioned solutions. The specification of task’s done by me are:
+Preferences UI:
+Develop and maintain UI’s for setting the user preferences (attributes required for the solutions). 
+These preferences are configurable properties and are application specific. 
+The major challenges involved are making the UI design reusable, extensible while providing easy maintainability.
+Involved working in struts 2.0 framework along with JSP,JS and AJAX technology,
+
+Holiday Calendar UI:
+This UI involves user to define Business Holidays for a period of time. He can also add an exception to an existing holiday.
+These data are used by EPM engines to perform calculations and processing.
+The major challenges involved designing the logic of storage of data so as to ease the various validations which is to be performed on the various dates involved.
+Involved working in struts 2.0 framework along with JSP, JS and AJAX technology.
+
+Summary Pages:
+These are basically grid representations of various business rules defined across different EPM solutions. 
+These include the search mechanisms for searching the rules based on certain key parameters, pagination of the data set.
+The fields to be shown in the grid are configurable based upon the requirements.
+Involved working in struts 2.0 framework along with JSP, JS and AJAX technology.
+
+
+
+Besides these I was involved in various other assignments such as:
+Developing a POC on Automation of Test cases using OATS.
+To make a POC on the viability of use of an internal technology which generates JSP out of configurable XML’s for a customer requirement.
+Changes and enhancement in the build process for packaging of the application.
+Analysing and resolving issues involving Internationalization of the Application.
+Involved in Bug tracking, resolution and patch release, which involved customer interaction.
+
+Over the various releases I have gained a deep insight towards the working of the software industry. It imbibed in me the art of applying skills and technical learning to practical scenarios. I learned a lot about software coding practices and standards. I got to learn about Reveleus as a Product and its architecture. Over the various releases my responsibilities included understanding the product architecture, integration, source code structure, software build, and software installation/deployment, patch releasing and bug tracking. I have also developed an insight towards general finance terminologies and practices.
+
+Training and Certifications
+
+Successfully completed IFP (I-flex Finance Program) that helped me to learn basics of finance. 
+Successfully completed Secure Coding Practices program of Oracle. 
+
+Achievements
+
+Won exemplary performance award “We Applaud” for outstanding efforts, commitment and deliverables for the OFSAA 5.2 release, contributed to significant common-app enhancements as well as automation project. 
+
+Passed the British English Council (Cambridge University) exam with merit for ESOL (English for speakers of other language). 
+
+2nd prize in FOREX, APOGEE 2007 at BITS, Pilani. 
+Participated at ICSQCC’98 at CMS, Lucknow. 
+3rd Prize in Brain-Mine at Pravah-08. 
+
+2nd Prize in Science Quiz in Inter school event, 2002. 
+
+Co-ordinator of Welcome and Reception Committee and Fun-Freaks. 
+
+Areas of Interest
+
+Quizzing. 
+Listening music. 
+Travelling.
+Philately. 
+Reading.
+Playing Cricket. 
+
+
+
+
+
+
+
+
+
+
+

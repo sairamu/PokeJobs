@@ -1,0 +1,224 @@
+﻿
+Neeraj Singh
+
+Contact No. : +91-9791267392    E-Mail:  itsneerajsingh@gmail.com
+
+
+It FORTE	
+
+TECHNOLOGY
+DESCRIPTION
+EXPERIENCE
+CORE
+Advanced JAVA Programming using J2EE
+2.4 Years
+FRAMEWORK/API
+Spring, JSF, JSP,JPA
+2.4 Years
+DATABASE
+Oracle 9i with PL/SQL, IBM DB2.
+2.4 Years
+MVC Architecture
+
+2.4 Years
+ELEMENTARY UNIX
+
+2.4 Years
+XML
+
+2.4 Years
+CLIENT SIDE PROGRAMMING
+HTML, JAVASCRIPT
+2.0 Years
+Web Services
+
+2.0 Years
+
+Work eXPERIENCE
+
+
+Working at Infosys Limited since Dec 20, 2010.
+Total Work Experience- 2 Years 4 Months.
+Current Role-Senior Systems Engineer.
+Development of code, Assembly and UNIT testing, Quality Assurance, Integration of code, 
+     build and deployment activities.
+
+
+PROJECT UNDERTAKEN (1)
+
+
+Project Name
+B6 Thunder Head Migration (Most complex and by far the costliest project under AMEX account of Infosys.)
+Client
+AMERICAN EXPRESS
+Project Description
+Development of JAVA based Enterprise Application which aims at electronically managing all communications to its customers be it either E-mail or Letter(Paper). 
+Role
+Java Developer, Quality Assurance and Project Integrator
+Responsibility
+Development of code, Assembly and UNIT testing, Integration of code, build and deployment activities, Delivery of code to client network.
+Duration
+2 years
+Software/Tools used
+ IBM Rational Application Developer 7, IBM Websphere Application Server 6.1, DB2, SVN, SSH Client
+Technologies
+JAVA/J2EE, Spring Framework, JSP,XML,UNIX,DB2
+Database
+IBM DB2
+Application Server
+Websphere Application Server 6.1
+
+
+PROJECT DESCRIPTION
+
+
+The Application mainly thrives on three processes:
+Asynchronous Batch –Estimated time of Completion:24 hrs.(Driven by Shell Scripts)
+Asynchronous Online- Estimated time of Completion:30 mins (Driven by Java Message Driven Beans).
+Asynchronous JIT(Just In Time) - Estimated time of Completion: Current Instance (Driven by Java Message Driven Beans).
+Synchronous UI. 
+
+The project is aimed to electronically manage all the communications (Letter/Email), through a JAVA centred
+System. There are a number of Template XMLs for various categories of Communications (Around 8k and being added continuously).
+
+Whenever a communication is requested, an INPUT XML, having values for variable fields is fed in through message Queues/front end, whose content is parsed, analysed and validated through the enterprise application(JAVA based) against various complex business requirements .These processed values are now mapped with the Template XML and a TRANSACTION XML is generated.
+
+
+Various External Systems like ECM-AT, Fraud, TRIUMPH, etc.  feed in additional data, whenever requested by the application, to be appended to the Transaction XML .
+The external system interactions are either MQ Based or WEBSERVICE based.
+
+The final transaction XML is then assembled through an assembly (THUNDERHEAD) tool, which produces two kinds of output:
+ 1>afp-for letter communication.
+ 2>html-for email communication.
+These outputs are finally despatched either as Letter or Email, as required. The assembly call is web service Based.
+
+Out of the 8k odd Templates, this project handles some 700 templates, Categorised mainly as ‘Dispute’ and by far the most complex in terms of business requirements.
+
+PROJECT UNDERTAKEN (2)
+
+
+Project Name
+Framework/Architecture development of entire ONLINE Flow.
+Client
+AMERICAN EXPRESS
+Project Description
+Development of entire new framework for the Online flow which included creation of MDBean, Controller, Digester, Service and Storage Handler(DB suspension) classes.
+This new framework is currently being used by more than 20 projects in the American Express Account.  
+Role
+Java Developer, Quality Assurance and Project Integrator
+Responsibility
+Development of code, Assembly and UNIT testing, Integration of code, build and deployment activities, Delivery of code to client network.
+Duration
+6 Months
+Software/Tools used
+ IBM Rational Application Developer 7, IBM Websphere Application Server 6.1, DB2, SVN, SSH Client
+Technologies
+JAVA/J2EE, Spring Framework, JSP,XML, UNIX,DB2
+Database
+IBM DB2
+Application Server
+Websphere Application Server 6.1
+
+
+PROJECT UNDERTAKEN(3)
+
+
+Project Name
+Online Car Store
+Client
+Internal
+Project Description
+MVC based Web project to cater Online Car purchase, ordering and short listing.
+Role
+Java Developer
+Responsibility
+To understand the Requirement, comprehend the HLD/DLD design documents and                         accordingly design and code the Frontend, business and Persistence Layer for the                     entire module.
+Duration
+1 Month.
+Software/Tools used
+ Eclipse, Apache Tomcat Server 6.0, Oracle 9i, SVN
+Technologies
+JAVA/J2EE, JSP,JSF,HTML,POJO,JPA,Oracle.
+Database
+Oracle 9i
+Application Server
+Apache Tomcat Server 6.0
+		
+
+Milestones
+
+
+Successfully completed  all the THREE stages of training at INFOSYS, MYSORE
+with a CGPA of 5.0/5.0 (100%), and thus placed at the TOP-MOST band in the current Role.
+
+Awarded CRR ‘1’ for the year 2012-2013.
+
+Awarded as ‘GOLDEN-STAMP’ in July 2012,by Infosys, for extraordinary performance and 
+diligent work deliverables throughout the project period. This being the Highest Award presented at 
+the ‘Delivery Unit’ level.
+
+1st prize in NIET, Greater Noida for being the Best coder in ‘C’ for the event TechnoWhiz in 2009.
+
+Awarded CERTIFICATE OF EXCELLENCE in the ALL INDIA TALENT SEARCH EXAMINATION and thus identified as one of the "MERITORIOUS STUDENT OF THE AGE GROUP", conducted by CHILDREN'S EDUCATION TRUST, sponsored by UNICEF.
+(One among 25 in the country and the only one from the state, Uttar Pradesh).
+
+Qualified the ALL INDIA CHILDREN’S EXCELLENCE SEARCH EXAMINATION conducted by the Children’s Education & Excellence Promotion Trust of India.
+
+Among the toppers throughout my academic life, and thus awarded CERTIFICATE OF MERIT every year.
+
+Topped the CBSE Board(Allahabad Zone) in English subject of Class-10 by securing 93 marks out of 100.
+
+
+CERTIFICATIONS
+
+
+An Oracle Certified Java Professional (OCJP).
+ An Infosys Certified Java Programmer(ICJP).
+
+
+EXTRA curriculAR
+
+
+Participated in the STATE LEVEL JUDO COMPETITION in the year 1998 held at GREEN PARK STADIUM, KANPUR.
+Was a part of the class CRICKET TEAM, while schooling.
+Was a part of the SCHOOL CHOIR GROUP from 1998-2000.
+A featured, core and founder member of a social group “RASHTRABHAKT PARTY”
+    (RBP) aiming at establishing a platform for the youth for the discussions and deliberations
+    of current social issues. It currently has around 5000 members all across. 
+Simultaneously an active and core member of a sister group “PRAKALP” which aims at 
+    rendering social services to the ‘not so privileged’ people.
+An active tracker and investor at STOCK market for knowledge and pleasure.
+
+
+academia
+
+
+2011     :Completed  all the THREE stages of training at INFOSYS, MYSORE
+              with a CGPA of 5.0/5.0 (100%). 
+2010 	: B.Tech. in Electrical and Electronics from NOIDA Institute of Engineering and
+             Technology; Greater  NOIDA.(UPTU) with 71% .
+2006 	: 12th from CENTRAL ACADEMY; Kota, Rajasthan(C.B.S.E) with 74.0%.
+2004  : 10th from D.A.V. Public School, Ranchi, Jharkhand(C.B.S.E) with 92.2% 
+
+
+OTHER INFO
+
+
+Topped my College in the online APTITUDE TEST conducted by ASPIRING MINDS CAREER APTITUDE TEST(AMCAT)referred to as the LARGEST EMPLOYABILITY TEST IN THE COUNTRY
+SCORES :>
+ENGLISH   99.5%ILE
+QUANTITATIVE ABILITY   96.3%ILE
+LOGICAL ABILITY   97.6%ILE
+COMPUTER PROGRAMMING   92.1%ILE
+
+Personal Dossier
+
+
+Date of Birth			  :		   26th July 1989.
+Father’s name             :         Kripa Shankar Singh
+Permanent Address	  :		   C-28 K.D.H. Officers’ colony,
+                                              P.O.-Dakra Colliery,
+                                              Distt-Ranchi, Jharkhand.
+									   Pin Code:829210 
+
+

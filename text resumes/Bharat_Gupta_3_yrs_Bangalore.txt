@@ -1,0 +1,45 @@
+﻿
+Bharat Gupta
+F-1905, Brigade Metropolis, Mahadevpura, Bangalore, India 560048 | +91 9036134353 | bharat.nitt@gmail.com
+
+PROFESSIONAL EXPERIENCE
+HEWLETT PACKARD, Bangalore, India 						            July/2009 – Present Project Transition Lead
+Oversaw a HP project transition of Dynamic Root Disk (DRD), a disk cloning product, from an US team to our team in India, recruiting team members, strategizing knowledge transfer sessions, charting out schedules, budgeting and procuring hardware and owning complex technical modules. The transition was completed a month ahead of the schedule.
+Invited over by HP USA for a month to Fort Collins to strategize with the US team to catalyze the transition; was the most junior person in our business unit chosen for this cross-cultural international responsibility.
+System Software Engineer                                                                                                                              
+Automated product testing for Ignite-UX, an OS installation and data archiving product on HPUX, which allowed peers to save 80% of their business hours in testing and ensured a product of highest quality to our enterprise customers worldwide.
+Supervised a 3-member Hardware team to set up product hardware infrastructure in our data centre by cutting down hardware footprints by 40% and maximizing resource usage.
+Developed feature enhancements such as ‘Greater than 2TB root disk support’ and fixed existing customer encountered defects involving memory segmentation (core dump) issues in our product.
+Enabled the switch from non-secure network protocols such as ftp, rcp, remsh to the secure protocols such as scp & ssh in DRD and Ignite-UX to meet network security compliance.
+Mentored a fresh college graduate from January 2012 to scale up her technical skills.
+Manufacturing Release and Delivery Engineer                                                                
+Prepare documentation through every release cycle for the usage of scripts, authored by me, for HP’s Manufacturing Teams worldwide to save time and mitigate risk in the server setup.
+Edit Release Notes for the customers for every release cycle, describing all defect fixes and feature enhancements for the customers to know what to expect in the improved product.
+Volunteer Experience at HP
+Raised $300,000 from HP’s CSR Division and employees to fund the flood relief campaign of Save the Children during South India floods in 2009 and visited the effected sites twice for relief work.
+Initiated a volunteering program to teach Computer Science to students in Government Schools for HP employees and engaged 200+ HP volunteers across Bangalore for a period of 4 months.
+
+EDUCATION
+B. Tech, Electrical & Electronics Engineering (EEE), NIT Trichy                          CGPA – 7.5	2005– 2009
+Organized CURRENTS’09, a National-level Symposium with 500+ participants as a Treasurer in 2009.
+Coordinated events to raise funds for an orphanage as General Secretary of UNESCO, a social club of NIT Trichy.
+Awarded 2nd prize in a B-plan competition held at a National-level Symposium in 2009.
+Won a case study based event, RECRUIT, in CURRENTS’07.
+Reviewed operations of ITC’s e-choupal model in 8 villages at IIM-L, a project headed by London School of Business.
+
+Class XII, ISC Board, St Joseph’s Academy, Dehradun                                                 92.4%                                          2004
+Scored a perfect 100 marks in Mathematics in 12th Board Examination (ISC).
+
+Class X,    ICSE Board, St Peter’s College, Agra                                                                90%                                          2002
+
+TECHINCAL SKILLS
+Technical software language - C, C++, Shell Scripts, working knowledge of HP-UX
+
+ADDITIONAL INFORMATION
+Hiked and mountaineered Khardung La, highest motorable pass in the world. Completed three Bangalore marathons and a 7-day Snow Skiing course in Auli; Won a doubles event in an inter-school Table Tennis tournament, Won an intra-school Hockey competition and led HP’s Soccer team to various tournament successes.
+Secured AIR 3085 and 2111 in IIT-JEE and AIEEE in 2005, two top engineering entrance tests in India.
+
+East Bangalore Cluster Zonal Coordinator and Volunteer, YOUTH FOR SEVA(YFS)                 January 2011 – Present 
+Started East Bangalore cluster of volunteers for YFS and engaged 60+ volunteers in teaching activities in Govt Schools.
+Taught Mathematics and English to underprivileged children of class 8th and 9th in a Government higher primary school.
+

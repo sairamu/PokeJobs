@@ -1,0 +1,228 @@
+﻿
+Kiran Kumar Chivakula
+E-mail: mailtochivakula@gmail.com
+Mobile-no: 7676222154
+
+Profile Summary:
+
+Having 3.5 Year of professional work experience in IT industry as PL/SQL and JAVA Developer.
+Good technical knowledge on Flex cube 7.2 and 11.3.
+Expertise in design and coding in interface systems
+Proficient in SAP BO technology
+Good knowledge on web logic deployment issues and well aware of whole process of deployment. 
+Working on UI, Database applications
+Strong Domain knowledge in E&U and Financial Domains.
+Experience on all Stages of SDLC cycle.
+Proficient in tracking, Fixing Defects by using tools Quality Center, IBM Clear Quest, flex-assist, flex- support.
+Hands on experience on UNIX OS.
+Sound knowledge in Preparing Functional documents, Detail design document, test Plan, Test data, Test cases, Test Summary report, Requirement Traceability Matrix and Release Notes. 
+Identifying, documenting and tracking the Defects, Anomalies and potential improvements identified during testing.
+Career Path:
+
+Working as associate consultant in Oracle India Pvt Ltd.
+Worked as a Project Engineer in Wipro Technologies, Bangalore from Dec 2009 to May 2011
+Done internship at GE health case for 4 months. 
+
+Software Skill Set:
+Databases
+Oracle 9i, Oracle 10g
+Languages
+SQL, PL/SQL,JAVA,C++
+Testing/Productivity Tools
+TOAD, Sql*Plus, SQL Developer Plus
+
+Software Engg Methodologies
+Software Database/Manual Testing, Secure Coding Standards.
+Test Management Tools 
+IBM ClearQuest ,i-assist, i-support, BugZ, BugDB
+Domain Knowledge
+ENU - (Energy and Utilities), Financial operations
+OS
+Version Control
+Application servers
+Microsoft Windows, UNIX
+IBM Rational Clear Case, VSS, SVN
+10g and web logic
+
+
+
+
+
+Certifications:
+Wipro internal certifications-- UCF(Unified Competency Framework)  Oracle L1.1
+
+
+Professional Achievements:
+Stood as topper in training conducted by Wipro technologies.
+Got FIMC (Feather in my cap-Wipro Internal award) for my dedicated and efficient work.
+Received prestigious we applaud and i-appreciate awards in Oracle.
+
+
+Education:
+2004 to 2008
+Bachelors in Technology (IT) - “73.67%”, JNT University
+2002 to 2004
+Board of Intermediate Education (MPC) - “85.7%”
+2000 to 2001
+Secondary School Certificate(SSE) - “79%”
+
+
+
+Project #1: 
+
+Name	:	Flex cube 11.3 Migration
+Module	:	NA(migration project).
+Role	:	Developer
+Client	:	FBN Bank, London
+Duration	:	Dec 2011 to Present
+Environment	:	PL/SQL Developer Plus, SQL * Plus.
+Tools     	 :  RAD, IBM Clear Quest, BugZ, i-suport, i-assist.
+Technologies      :  JAVA, PL/SQL,SQL, SAP BO Reports
+
+Responsibilities:
+Web logic deployment of flex cube application.
+Issues involved in deploying ear files.
+Data migration from 7.2 to 11.3 with large volume data.
+Import and exports of dumps.
+Developed new Bo reports for LC module using stored procedure universe and universes.
+Addressed issues related to flex cube application launch.
+Involved in entire front and back end deployment with migration scripts development.
+Developed migration scripts LC module.
+Involved in BUG fixing at IUT, ITR, UAT levels.
+
+Description:
+FBN Bank, London is currently using Flex cube 7.2 for their bank transactions as part of this project FBN Bank will migrate their application from 7.2 to 11.3.This project mainly portioned into 3 Sections.
+1. Environment set up.
+2. Migration
+3. Testing and ITR issues fixing.
+
+Project #2: 
+
+Name	:	TRS enhancement
+Module	:	Consumer Lending
+Role	:	Developer
+Client	:	ACC Bank, Ireland 
+Duration	:	Oct 2012 to Dec 2012
+Environment	:	PL/SQL Developer Plus, SQL * Plus, Putty, Win SCP.
+Tools     	 :  RAD, IBM Clear Quest, BugZ, i-suport, i-assist.
+Technologies      :  PL/SQL, SQL, Oracle Forms 10g, SAP BO Reports
+
+Responsibilities:
+Forms application deployment.
+Developing new sub screen. 
+
+Description:
+	As part of Irish Budget government introduced new tax slab which allows the user who took loan for the purchase of their first house can be get benefit of 40% exemption from tax. This is implemented as part of this enhancement.
+
+
+Project #3: 
+
+Name	:	AXA Bank
+Module	:	Consumer Lending.
+Role	:	Developer
+Client	:	AXA Bank
+Duration	:	May2011 to Dec2011
+Environment	:	SQL Developer Plus, SQL * Plus.
+Tools     	 :  RAD, IBM Clear Quest.
+Technologies      :  JAVA,PL/SQL,SQL
+
+
+Responsibilities:
+Designed and Developed Rate Fixation Enhancement in CL module.
+Functional Test case preparation and execution based on the Functional specification.
+Involved in preparation DS, PS and FS Documents.  
+
+Description:
+AXA bank is Using FLEXCUBE 10.2 for its core banking applications. Rate fixation enhancement provide bank to new feature which will allow to save CL contracts with different rate of interest in different slots with fixed or variable number or slots.
+
+Project #4: 
+
+Name	:	UBS web logic migration
+Module	:	Migration project
+Role	:	Developer
+Client	:	UBS Bank, London, UK 
+Duration	:	May 2011 to Dec 2011
+Environment	:	PL/SQL Developer Plus, SQL * Plus, Putty, Win SCP.
+Tools     	 :  IBM Clear Quest, BugZ, i-suport, i-assist.
+Technologies      :  PL/SQL, SQL, Oracle Forms 10g
+
+Responsibilities:
+Forms application deployment.
+Migration of all forms from 6i to 10g.
+UT and defects fixing.
+
+Description:
+	As part of this project UBS Bank London migrated from 10g As to web logic.
+
+
+
+Project #5:
+
+Name	:	IIP Aggregator
+Module	:	Database Application,
+Role	:	PL/SQL and UNIX Developer & Tester
+Client	:	National Grid Gas Corporation (U.K)
+Duration	:	Nov 2010 to May 2011
+Environment	:  SQL, PL/SQL, Oracle, UNIX Shell Scripting.
+Testing Tools       :  Sql*Plus, TOAD, IBM Clear Quest, IBM Rational Clear Case
+Technologies      :  JAVA,PL/SQL,SQL
+
+
+Roles and Responsibilities: 
+Analysis of Client specifications.
+Development of DB.
+Test case review and execution.
+Reporting defects for the failed test cases and tracking the status on the daily basis. 
+Fixing the Defects rose in Clear Quest.
+Involved in preparation ST Document.
+Unit Testing, Functional/Backend Testing (Database) and Production Support. 
+
+Description:
+This project deals with the implementation of interface between IGMS, DN and UKT systems. 
+Aggregator will receive the files from DN replacement systems consolidate and segregate according to destination system. 
+Mostly consolidation process will do by Aggregator. So, it’s named as Aggregator.  
+
+Project #6: 
+
+Name	:	MIPI ETP
+Module	:  Reports
+Role	:	Pl/Sql and UNIX Developer 
+Client	:	National Grid Gas Corporation (U.K)
+Duration	:	Dec 2009 to Nov 2010
+Environment	:  Sql*Plus, PL/SQL, Oracle.
+Tools     	:  Sql*Plus , TOAD, IBM Clear Quest, IBM Rational Clear Case
+Technologies      :  JAVA,PL/SQL,SQL
+
+
+
+
+Responsibilities:
+Developing Pl/SQL Packages, Triggers and procedures. 
+Analysis of Client specifications and Test Plan Preparation.
+Development of DB Objects.
+Functional Test case preparation and execution based on the Functional specification
+Involved in Performance tuning and analysis.
+Reporting defects for the failed test cases and tracking the status on the daily basis. 
+Fixing the Defects rose in Clear Quest.
+Created Test Data for Demos, UAT testing & reporting testing.
+Involved in UT,ST,SIT & UAT testing
+
+
+Description:	
+MIPI ETP stands for Market Information Provision Initiative European transparency project. 
+The main objective of this project is to display National grid gas operations to public domain. 
+There is regulation in UK that gas operations should be published to public domain from 2002. 
+This project is enhancement of the existing MIPI site including receiving more files from GEMINI and IGMS. 
+
+
+Personal Information:	
+
+Name	:	kiran kumar chivakula
+Fathers Name	:	Venkata durga prasad.
+DoB                               :        20-Aug-1986
+Residential Address         :         NO. 8-3-7, 
+                                                   Lawyer pet,Ongole..
+Linguistic abilities	:	English, Telugu, Hindi.
+Nationality                       :       INDIAN
+
+	
