@@ -2,8 +2,8 @@
 import os
 i =0 
 def check_dot(name):
-	index = name.index('.')
-	if index:
+	
+	if '.' in name: 
 		switch = 'yes'
 	else:
 		switch = 'no'
@@ -15,7 +15,7 @@ def sep_dot(file_name):
 	length = len(file_name)
 	act_name = file_name[0:int(dot_index)]
 	ext_name = file_name[(1+int(dot_index)):length]
-	return actual_name, ext_name
+	return act_name, ext_name
 
 
 
@@ -26,9 +26,11 @@ for filename in os.listdir('Resumes'):
 	actual_name , extension_name = sep_dot(filename)	
 	tag = check_dot(extension_name)
 	if tag == 'yes':
-		pass
+		actual_name2, extension_name = sep_dot(extension_name)
+		actual_name = actual_name + actual_name2
 	else:
-		sep_dot
+		pass
+	print actual_name,"--",extension_name
 
 
 
