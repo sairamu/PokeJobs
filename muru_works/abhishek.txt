@@ -1,0 +1,179 @@
+Abhishek K R
+
+Mobile No - +91 8105274747
+E-mail - abhishekkr01@gmail.com
+Current Designation - Systems Engineer 
+Currently Employed at - Infosys Technologies LTD
+
+Curriculum Vitæ
+
+Summary:
+
+
+
+42 months of experience in Java with primary expertise in Enterprise 
+application Development
+
+ Currently working as Application Developer at Infosys Technologies LTD
+ Have been a part of Banking and Capital Market division and  hence possess 
+
+good knowledge in that domain
+
+ Self motivated Team player and a Quick learner 
+ Skilled at multitasking, interpersonal and written communications, 
+
+prioritizing and decision making with focus on customer satisfaction and 
+high team morale
+
+ Have experience in System Analysis for Solutions, Designs, Development and 
+
+Release activities in the software projects
+
+ Have good knowledge in project lifecycle involving SDLC 
+ Self-motivated, Flexible and co-operative approach, Organized and result-
+
+oriented team player with sound problem solving and analytical, interpersonal 
+and communication skills to help achieve team’s objective.
+
+Skill Set:
+
+IDE: Eclipse 3.x
+
+ Technology: Java, J2EE,  JSP
+ Frameworks: J2EE Frameworks – JSF and Struts
+
+ Operating Systems: Windows
+ Web Servers, Application server :Weblogic server.
+ Reporting tools: Jasper(iReports 3.5.2) .
+ Have undergone extensive training in Infosys Mysore for 6 months which cov-
+
+ered the below topics
+
+o JAVA,J2EE and OOPS concepts
+o Unix
+o JSF framework
+o Oracle ,PL/Sql and RDBMS concepts
+o Plain old Java objects(POJO)
+o Java persistence API (JPA )
+o HTML/JavaScript
+
+Employment & Work Profile:
+
+Present Employer
+Designation 
+Period  
+
+: Infosys,Bangalore
+: Software Engineer
+: September 2009 – Present
+
+Job Profile:
+
+Worked as an application developer for a banking software for the client Citi Private 
+Bank which is one of the leading Investment banks.
+    
+ Project Details: 
+
+Worked on a project called Projectone. This project  mainly deals with the develop-
+ment and maintenance of the CITI bank's internal website.
+The banker uses this software to keep track of all the transactions and investments 
+made by the customer. This software is primarily used by the banker for effective 
+wealth management of the customer.
+ Currently both Development and maintenance of the website is taking place by incor-
+porating various enhancements to the website when requested by the clients. 
+
+Technology and Processes: 
+
+Major technologies used in this project are
+ Weblogic 10.3 Application server
+ Application development using Java/J2EE
+ Oracle 10g database
+ Front end design using JSP,Javascript
+
+ Struts framework
+
+Jasper tool to print reports.
+
+Roles and Responsibilities:
+
+ To  develop the application using J2EE, java ,JSP ,javascript technologies
+ To understand the requirement and implement the same using SDLC.
+ Documenting Use-cases and detailed design documents and 
+
+getting them approved by the Technical leaders 
+
+ To Develop the application and to do the unit testing of each module so as to 
+
+deliver the defect free code.
+
+ To act as a Technical Support as and when defects or issues have been raised 
+by the testing teams and deliver the fix for the defect at the earliest.
+ Defect tracking, prevention and Code reviews for maintaining 
+quality of deliverables
+ Release management activities  - Creating & managing 
+branches , managing code merges and triggering builds 
+
+ Have taken up additional responsibility of Configuration controller(CC) of our
+
+project which mainly is concerned with taking regular build of the code and 
+deploying the same on weblogic servers and also maintaining and updating the
+code on a repository called VSS.
+
+ Have extensive knowledge on a reporting tool called JASPER which is used to
+
+print the data on the web in different formats like CSV,PDF etc. 
+
+Academic Details:
+
+Degree/ Certificate
+
+School / College/ Board/ University
+
+ Percentage
+
+B.E –Electronics and
+
+Communications
+
+12th STD
+
+10th STD
+
+Dayanand Sagar College of Engineering,
+
+Bangalore.
+
+VTU, Belgaum.
+
+Ex Municipal Junior college, Bellary.
+
+Pre University Board, Karnataka.
+
+April - 2005
+
+Ashirwad High School, Bellary.
+
+Secondary School Education Board.
+
+March - 2003
+
+70.92
+
+80.5
+
+84.6
+
+Personal Details:
+: Abhishek K R
+Full Name
+: Male
+Sex
+Father’s Name: Raghunatha Rao K
+: September 21, 1987
+Date of Birth
+: Indian
+Nationality 
+: 8105274747
+Mobile 
+
+
